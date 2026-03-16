@@ -66,15 +66,21 @@ def load_model(model_name="random_forest"):
         return pickle.load(f)
 
 def predict_risk(model, X, employee_ids=None):
+    # Return a DataFrame shaped the way the Streamlit app expects:
+    # - Employee_Name (anonymized id or hash),
+    # - RiskScore (float probability between 0 and 1),
+    # - RiskLabel (categorical: Low/Medium/High),
+    # - Prediction (0/1)
     probs = model.predict_proba(X.values)[:, 1]
-    risk_labels = pd.cut(probs, bins=[0, 0.35, 0.65, 1.0],
-        labels=["Low","Medium","High"], include_lowest=True)
+    risk_labels = pd.cut(probs, bins=[0.0, 0.35, 0.65, 1.0],
+                        labels=["Low", "Medium", "High"], include_lowest=True)
     result = pd.DataFrame({
-        "employee_id": employee_ids.values if employee_ids is not None else range(len(X)),
-        "risk_score": (probs * 100).round(1),
-        "risk_label": risk_labels,
+        "Employee_Name": employee_ids.values if (employee_ids is not None and hasattr(employee_ids, "values")) else (list(employee_ids) if employee_ids is not None else list(range(len(X)))),
+        "RiskScore": probs,
+        "RiskLabel": risk_labels.astype(str),
+        "Prediction": (probs >= 0.5).astype(int),
     })
-    return result.sort_values("risk_score", ascending=False).reset_index(drop=True)
+    return result.sort_values("RiskScore", ascending=False).reset_index(drop=True)
 
 def compare_models(X, y):
     rows = []
@@ -84,3 +90,29 @@ def compare_models(X, y):
                      "ROC-AUC": meta["roc_auc"],
                      "CV ROC-AUC": f"{meta['cv_roc_auc_mean']:.3f} +/- {meta['cv_roc_auc_std']:.3f}"})
     return pd.DataFrame(rows)
+
+
+def top_shap_features(shap_values, feat_cols, n=10):
+    """Return a DataFrame with top features by mean(|SHAP|)."""
+    import numpy as _np
+    mean_abs = _np.mean(_np.abs(shap_values), axis=0)
+    df = pd.DataFrame({"Feature": list(feat_cols), "Importance": mean_abs})
+    return df.sort_values("Importance", ascending=False).head(n)
+
+
+def employee_shap_explanation(shap_values, feat_cols, idx, n=8):
+    """Return per-employee SHAP contributions as a DataFrame with Feature and SHAP columns."""
+    vals = shap_values[idx]
+    df = pd.DataFrame({"Feature": list(feat_cols), "SHAP": vals})
+    df = df.reindex(df.SHAP.abs().sort_values(ascending=False).index)
+    return df.head(n).reset_index(drop=True)
+
+
+def generate_retention_suggestion(exp_df):
+    """Simple heuristic to generate a retention suggestion from employee explanation DataFrame."""
+    # Look for top positive SHAPs (increase risk) and return a short suggestion
+    pos = exp_df[exp_df["SHAP"] > 0].sort_values("SHAP", ascending=False)
+    if pos.empty:
+        return "No clear risk drivers detected — consider follow-up survey."
+    top = pos.iloc[0]["Feature"]
+    return f"Top risk driver: {top}. Consider targeted intervention (coaching, compensation review, or role adjustment)."
