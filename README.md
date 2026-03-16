@@ -2,6 +2,7 @@
 
 > Responsible HR Attrition Intelligence — Hackathon Project
 
+<<<<<<< HEAD
 A complete AI solution that predicts employee attrition risk, explains *why*, audits for bias, and presents everything in a clean HR dashboard. Built across four responsible AI pillars:
 
 | Pillar | Implementation |
@@ -129,3 +130,12 @@ Every prediction includes:
 Kaggle: [Human Resources Data Set](https://www.kaggle.com/datasets/rhuebner/human-resources-data-set)  
 Designed by Dr. Rich Huebner & Dr. Carla Patalano.  
 ~400 synthetic employee records with performance, salary, engagement, and termination data.
+=======
+# Objective #
+## Product : ##
+- AI solution that helps HR to manage talents
+- To help people discover four major themes of AI through a problem 
+
+
+***Trouver les gens qui risquent de partir, et proposer des solutions pour qu'ils ne partent pas***
+>>>>>>> 8e147f7 (Add retention strategy in French to README)
