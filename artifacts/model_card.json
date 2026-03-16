@@ -1,0 +1,71 @@
+{
+  "model_name": "TalentGuard Attrition Predictor",
+  "version": "1.0",
+  "created_at": "2026-03-16T13:29:42.585379",
+  "algorithm": "random_forest",
+  "training_data": {
+    "source": "Kaggle HR Dataset (Rich Huebner & Carla Patalano)",
+    "n_samples": 311,
+    "n_features": 20,
+    "target": "Termd (1=terminated, 0=retained)",
+    "anonymization": "PII dropped, IDs salted-hashed",
+    "gdpr_compliant": true
+  },
+  "performance": {
+    "roc_auc": 1.0,
+    "cv_roc_auc": "1.0 +/- 0.0"
+  },
+  "fairness_audit": {
+    "pre_modelling": {
+      "Sex": {
+        "disparate_impact": 0.9778,
+        "statistical_parity_difference": -0.015,
+        "bias_detected": 0,
+        "verdict": "Acceptable fairness"
+      },
+      "RaceDesc": {
+        "disparate_impact": 0.6897,
+        "statistical_parity_difference": -0.3103,
+        "bias_detected": 1,
+        "verdict": "Potential bias \u2014 consider debiasing"
+      }
+    },
+    "post_prediction": {
+      "Sex": {
+        "equal_opportunity_difference": 0.0,
+        "disparate_impact": 1.0325,
+        "bias_detected": 0,
+        "verdict": "Acceptable fairness"
+      },
+      "RaceDesc": {
+        "equal_opportunity_difference": 0.0,
+        "disparate_impact": 0.5714,
+        "bias_detected": 1,
+        "verdict": "Potential bias \u2014 consider debiasing"
+      }
+    },
+    "debiasing_applied": false
+  },
+  "frugal_ai": {
+    "co2_emissions_kg": null,
+    "model_complexity": "low (tree ensemble, no deep learning)",
+    "inference_time_ms": "< 5ms per employee"
+  },
+  "explainability": {
+    "method": "SHAP (SHapley Additive exPlanations)",
+    "top_features": [
+      "EmploymentStatus",
+      "TenureYears",
+      "exit_feedback_sentiment",
+      "RecruitmentSource",
+      "MaritalDesc"
+    ]
+  },
+  "intended_use": "HR decision support \u2014 identifying at-risk employees for retention interventions",
+  "limitations": [
+    "Trained on synthetic data",
+    "Sensitive attribute debiasing is preprocessing-only",
+    "Not to be used as sole criterion for employment decisions"
+  ],
+  "ai_act_risk_level": "High (employment-related AI system)"
+}
