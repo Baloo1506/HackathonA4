@@ -1,26 +1,26 @@
 """
 HR Dataset Preprocessing Pipeline
 ===================================
-Objectif : anonymiser le dataset RH et le préparer pour la prédiction d'attrition.
+Goal: anonymize the HR dataset and prepare it for attrition prediction.
 
-Étapes :
-  1. Suppression des colonnes confidentielles identifiantes
-     (nom, ID employé, code postal, nom/ID manager)
-  2. Transformation des dates en métriques numériques utiles
-     - DOB → Age (en années)
-     - DateofHire → TenureYears (ancienneté en années)
-     - LastPerformanceReview_Date → DaysSinceLastReview
-  3. Suppression des colonnes redondantes
-     (versions numériques-ID de colonnes catégorielles déjà présentes)
-  4. Nettoyage de la colonne DateofTermination :
-     supprimée car trop corrélée à la cible Termd et non disponible en temps réel
-  5. Encodage des variables catégorielles (One-Hot)
-  6. Normalisation des variables numériques continues
+Steps:
+  1. Remove directly identifying confidential columns (PII)
+     (employee name, employee ID, zip code, manager name/ID)
+  2. Convert date columns into useful numeric metrics
+     - DOB -> Age (in years)
+     - DateofHire -> TenureYears (years of service)
+     - LastPerformanceReview_Date -> DaysSinceLastReview
+  3. Drop redundant columns
+     (numeric ID versions of categorical columns already present)
+  4. Drop columns not available at inference time or that cause data leakage
+     (DateofTermination, TermReason, EmploymentStatus)
+  5. One-Hot encode categorical variables
+  6. Min-Max scale continuous numeric variables
 
-Usage :
+Usage:
     python preprocessing.py
-    → produit : HRDataset_preprocessed.csv  (données anonymisées prêtes pour ML)
-    → produit : HRDataset_anonymized.csv     (données anonymisées lisibles, avant encodage)
+    -> produces: HRDataset_anonymized.csv    (anonymized, human-readable)
+    -> produces: HRDataset_preprocessed.csv  (encoded + scaled, ML-ready)
 """
 
 import pandas as pd
@@ -30,47 +30,47 @@ from sklearn.preprocessing import MinMaxScaler
 
 
 # ---------------------------------------------------------------------------
-# Constantes
+# Constants
 # ---------------------------------------------------------------------------
 INPUT_FILE = "HRDataset_v14_enriched.csv"
 OUTPUT_ANONYMIZED = "HRDataset_anonymized.csv"
 OUTPUT_ML_READY = "HRDataset_preprocessed.csv"
 
-# Colonnes à supprimer car directement identifiantes (PII)
+# Columns removed because they directly identify an individual (PII)
 PII_COLUMNS = [
-    "Employee_Name",   # Nom complet de l'employé
-    "EmpID",           # Identifiant unique employé
-    "Zip",             # Code postal (localisation précise)
-    "ManagerName",     # Nom du manager
-    "ManagerID",       # Identifiant du manager
+    "Employee_Name",   # Full employee name
+    "EmpID",           # Unique employee identifier
+    "Zip",             # Zip code (precise location)
+    "ManagerName",     # Manager's full name
+    "ManagerID",       # Manager's unique identifier
 ]
 
-# Colonnes redondantes : versions ID numériques de colonnes catégorielles déjà présentes
+# Redundant columns: numeric ID versions of categorical columns already present
 REDUNDANT_ID_COLUMNS = [
-    "MarriedID",       # doublon de MaritalDesc
-    "MaritalStatusID", # doublon de MaritalDesc
-    "GenderID",        # doublon de Sex
-    "EmpStatusID",     # doublon de EmploymentStatus
-    "DeptID",          # doublon de Department
-    "PerfScoreID",     # doublon de PerformanceScore
-    "PositionID",      # doublon de Position
+    "MarriedID",       # duplicate of MaritalDesc
+    "MaritalStatusID", # duplicate of MaritalDesc
+    "GenderID",        # duplicate of Sex
+    "EmpStatusID",     # duplicate of EmploymentStatus
+    "DeptID",          # duplicate of Department
+    "PerfScoreID",     # duplicate of PerformanceScore
+    "PositionID",      # duplicate of Position
 ]
 
-# Colonnes de dates à transformer
+# Date columns to transform into numeric metrics
 DATE_COLUMNS_TO_TRANSFORM = {
     "DOB": "Age",
     "DateofHire": "TenureYears",
     "LastPerformanceReview_Date": "DaysSinceLastReview",
 }
 
-# Colonnes à supprimer après transformation ou inutiles pour la prédiction
+# Columns to drop after transformation or because they are unavailable at inference time
 COLUMNS_TO_DROP_AFTER_TRANSFORM = [
-    "DateofTermination",  # non disponible en prédiction temps réel (futur)
-    "TermReason",         # non disponible en prédiction temps réel (futur)
-    "EmploymentStatus",   # directement dérivée de Termd (cible), cause data leakage
+    "DateofTermination",  # not available at prediction time (future event)
+    "TermReason",         # not available at prediction time (future event)
+    "EmploymentStatus",   # directly derived from Termd (target), causes data leakage
 ]
 
-# Variables numériques continues à normaliser
+# Continuous numeric variables to scale
 NUMERIC_COLS_TO_SCALE = [
     "Salary",
     "EngagementSurvey",
@@ -83,7 +83,7 @@ NUMERIC_COLS_TO_SCALE = [
     "DaysSinceLastReview",
 ]
 
-# Variables catégorielles à encoder (One-Hot)
+# Categorical variables to one-hot encode
 CATEGORICAL_COLS = [
     "Position",
     "State",
@@ -99,13 +99,13 @@ CATEGORICAL_COLS = [
 
 
 # ---------------------------------------------------------------------------
-# Fonctions utilitaires
+# Helper functions
 # ---------------------------------------------------------------------------
 
 def parse_date(series: pd.Series) -> pd.Series:
-    """Convertit une colonne de dates en format datetime (plusieurs formats acceptés)."""
+    """Parse a date column into datetime, handling multiple date formats."""
     parsed = pd.to_datetime(series, format="mixed", dayfirst=False, errors="coerce")
-    # Correction des années sur 2 chiffres mal interprétées (ex: 05/05/75 → 1975 et non 2075)
+    # Fix 2-digit years misinterpreted as future dates (e.g. 05/05/75 -> 1975, not 2075)
     future_cutoff = pd.Timestamp(date.today()) + pd.DateOffset(years=1)
     future_mask = parsed > future_cutoff
     if future_mask.any():
@@ -115,7 +115,7 @@ def parse_date(series: pd.Series) -> pd.Series:
 
 
 def compute_age(dob_series: pd.Series, reference_date: date = None) -> pd.Series:
-    """Calcule l'âge en années entières à partir de la date de naissance."""
+    """Compute age in whole years from a date-of-birth column."""
     if reference_date is None:
         reference_date = date.today()
     dob = parse_date(dob_series)
@@ -125,7 +125,7 @@ def compute_age(dob_series: pd.Series, reference_date: date = None) -> pd.Series
 
 
 def compute_tenure_years(hire_series: pd.Series, reference_date: date = None) -> pd.Series:
-    """Calcule l'ancienneté en années à partir de la date d'embauche."""
+    """Compute years of service from a hire-date column."""
     if reference_date is None:
         reference_date = date.today()
     hire = parse_date(hire_series)
@@ -135,7 +135,7 @@ def compute_tenure_years(hire_series: pd.Series, reference_date: date = None) ->
 
 
 def compute_days_since_review(review_series: pd.Series, reference_date: date = None) -> pd.Series:
-    """Calcule le nombre de jours depuis le dernier entretien d'évaluation."""
+    """Compute number of days elapsed since the last performance review."""
     if reference_date is None:
         reference_date = date.today()
     review = parse_date(review_series)
@@ -145,7 +145,7 @@ def compute_days_since_review(review_series: pd.Series, reference_date: date = N
 
 
 # ---------------------------------------------------------------------------
-# Pipeline principal
+# Main pipeline
 # ---------------------------------------------------------------------------
 
 def run_preprocessing(input_file: str = INPUT_FILE,
@@ -153,124 +153,123 @@ def run_preprocessing(input_file: str = INPUT_FILE,
                       output_ml_ready: str = OUTPUT_ML_READY,
                       reference_date: date = None) -> pd.DataFrame:
     """
-    Exécute le pipeline de prétraitement complet.
+    Run the full preprocessing pipeline.
 
-    Paramètres
+    Parameters
     ----------
-    input_file : chemin vers le CSV source
-    output_anonymized : chemin vers le CSV anonymisé lisible
-    output_ml_ready : chemin vers le CSV prêt pour ML (encodé + normalisé)
-    reference_date : date de référence pour les calculs (utile pour les tests)
+    input_file : path to the source CSV file
+    output_anonymized : path for the anonymized human-readable CSV output
+    output_ml_ready : path for the ML-ready encoded and scaled CSV output
+    reference_date : reference date for age/tenure calculations (useful for tests)
 
-    Retourne
-    --------
-    df_ml : DataFrame prêt pour l'entraînement d'un modèle ML
+    Returns
+    -------
+    df : DataFrame ready for ML model training
     """
-    print(f"[1/7] Chargement de '{input_file}'...")
+    print(f"[1/7] Loading '{input_file}'...")
     df = pd.read_csv(input_file)
-    print(f"      {len(df)} lignes × {len(df.columns)} colonnes chargées.")
+    print(f"      {len(df)} rows x {len(df.columns)} columns loaded.")
 
     # ------------------------------------------------------------------
-    # Étape 1 : Suppression des colonnes PII
+    # Step 1: Remove PII columns
     # ------------------------------------------------------------------
-    print("[2/7] Suppression des colonnes confidentielles (PII)...")
+    print("[2/7] Removing confidential PII columns...")
     cols_to_remove = [c for c in PII_COLUMNS if c in df.columns]
     df = df.drop(columns=cols_to_remove)
-    print(f"      Colonnes supprimées : {cols_to_remove}")
+    print(f"      Dropped: {cols_to_remove}")
 
     # ------------------------------------------------------------------
-    # Étape 2 : Transformation des dates en métriques numériques
+    # Step 2: Convert date columns into numeric metrics
     # ------------------------------------------------------------------
-    print("[3/7] Transformation des dates en métriques numériques...")
+    print("[3/7] Converting date columns to numeric metrics...")
     df["Age"] = compute_age(df["DOB"], reference_date)
     df["TenureYears"] = compute_tenure_years(df["DateofHire"], reference_date)
     df["DaysSinceLastReview"] = compute_days_since_review(
         df["LastPerformanceReview_Date"], reference_date
     )
     df = df.drop(columns=["DOB", "DateofHire", "LastPerformanceReview_Date"])
-    print("      DOB → Age, DateofHire → TenureYears, LastPerformanceReview_Date → DaysSinceLastReview")
+    print("      DOB -> Age, DateofHire -> TenureYears, LastPerformanceReview_Date -> DaysSinceLastReview")
 
     # ------------------------------------------------------------------
-    # Étape 3 : Suppression des colonnes redondantes (ID numériques)
+    # Step 3: Drop redundant numeric ID columns
     # ------------------------------------------------------------------
-    print("[4/7] Suppression des colonnes ID redondantes...")
+    print("[4/7] Dropping redundant ID columns...")
     cols_redundant = [c for c in REDUNDANT_ID_COLUMNS if c in df.columns]
     df = df.drop(columns=cols_redundant)
-    print(f"      Colonnes supprimées : {cols_redundant}")
+    print(f"      Dropped: {cols_redundant}")
 
     # ------------------------------------------------------------------
-    # Étape 4 : Suppression des colonnes non disponibles en production
+    # Step 4: Drop leakage columns (not available at inference time)
     # ------------------------------------------------------------------
-    print("[5/7] Suppression des colonnes causant du data leakage...")
+    print("[5/7] Dropping data leakage columns...")
     cols_leakage = [c for c in COLUMNS_TO_DROP_AFTER_TRANSFORM if c in df.columns]
     df = df.drop(columns=cols_leakage)
-    print(f"      Colonnes supprimées : {cols_leakage}")
+    print(f"      Dropped: {cols_leakage}")
 
-    # Colonne cible : Termd (1 = parti, 0 = encore en poste)
+    # Target column: Termd (1 = left the company, 0 = still employed)
     target = df["Termd"].copy()
 
     # ------------------------------------------------------------------
-    # Enregistrement du CSV anonymisé lisible (avant encodage)
+    # Save anonymized human-readable CSV (before encoding)
     # ------------------------------------------------------------------
-    print(f"      → Sauvegarde de '{output_anonymized}' ({len(df)} lignes × {len(df.columns)} colonnes)")
+    print(f"      -> Saving '{output_anonymized}' ({len(df)} rows x {len(df.columns)} columns)")
     df.to_csv(output_anonymized, index=False)
 
     # ------------------------------------------------------------------
-    # Étape 5 : Traitement des valeurs manquantes
+    # Step 5: Handle missing values
     # ------------------------------------------------------------------
-    print("[6/7] Traitement des valeurs manquantes...")
+    print("[6/7] Handling missing values...")
 
-    # Feedback_RH et Internal_Transfer_Request : colonnes texte libre supprimées
-    # car non structurées pour le ML classique et potentiellement identifiantes
+    # Drop free-text columns: unstructured for standard ML and potentially re-identifying
     for free_text_col in ("Feedback_RH", "Internal_Transfer_Request"):
         if free_text_col in df.columns:
             df = df.drop(columns=[free_text_col])
-            print(f"      '{free_text_col}' supprimé (texte libre, non structuré).")
+            print(f"      '{free_text_col}' dropped (unstructured free text).")
 
-    # Colonnes numériques : imputation par la médiane
+    # Numeric columns: impute with median
     num_cols = df.select_dtypes(include=[np.number]).columns.tolist()
     for col in num_cols:
         if df[col].isna().any():
             median_val = df[col].median()
             df[col] = df[col].fillna(median_val)
-            print(f"      '{col}' : NaN remplacés par médiane ({median_val:.2f})")
+            print(f"      '{col}': NaN replaced with median ({median_val:.2f})")
 
-    # Colonnes catégorielles : imputation par le mode
+    # Categorical columns: impute with mode
     cat_cols = df.select_dtypes(include=["str", "object"]).columns.tolist()
     for col in cat_cols:
         if df[col].isna().any():
             mode_val = df[col].mode()[0]
             df[col] = df[col].fillna(mode_val)
-            print(f"      '{col}' : NaN remplacés par mode ('{mode_val}')")
+            print(f"      '{col}': NaN replaced with mode ('{mode_val}')")
 
     # ------------------------------------------------------------------
-    # Étape 6 : Encodage One-Hot des variables catégorielles
+    # Step 6: One-Hot encode categorical variables
     # ------------------------------------------------------------------
     cat_to_encode = [c for c in CATEGORICAL_COLS if c in df.columns]
     df = pd.get_dummies(df, columns=cat_to_encode, drop_first=True, dtype=int)
 
     # ------------------------------------------------------------------
-    # Étape 7 : Normalisation des variables numériques continues
+    # Step 7: Min-Max scale continuous numeric variables
     # ------------------------------------------------------------------
     cols_to_scale = [c for c in NUMERIC_COLS_TO_SCALE if c in df.columns]
     scaler = MinMaxScaler()
     df[cols_to_scale] = scaler.fit_transform(df[cols_to_scale])
 
     # ------------------------------------------------------------------
-    # Sauvegarde du CSV ML-ready
+    # Save ML-ready CSV
     # ------------------------------------------------------------------
-    print(f"[7/7] Sauvegarde de '{output_ml_ready}' ({len(df)} lignes × {len(df.columns)} colonnes)...")
+    print(f"[7/7] Saving '{output_ml_ready}' ({len(df)} rows x {len(df.columns)} columns)...")
     df.to_csv(output_ml_ready, index=False)
 
-    print("\n✅ Prétraitement terminé.")
-    print(f"   • {output_anonymized}  → données anonymisées, lisibles par les RH")
-    print(f"   • {output_ml_ready}    → données encodées et normalisées, prêtes pour ML")
-    print(f"   • Cible : 'Termd'  —  0 = actif ({(target==0).sum()}), 1 = parti ({(target==1).sum()})")
+    print("\n✅ Preprocessing complete.")
+    print(f"   * {output_anonymized}  -> anonymized, human-readable (for HR)")
+    print(f"   * {output_ml_ready}    -> encoded and scaled, ML-ready")
+    print(f"   * Target: 'Termd'  --  0 = active ({(target==0).sum()}), 1 = left ({(target==1).sum()})")
     return df
 
 
 # ---------------------------------------------------------------------------
-# Point d'entrée
+# Entry point
 # ---------------------------------------------------------------------------
 if __name__ == "__main__":
     run_preprocessing()
