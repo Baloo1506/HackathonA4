@@ -227,19 +227,11 @@ The following attributes are **NOT used in modeling** but are tracked separately
 
 ## 🔐 Data Governance & Privacy Safeguards
 
-### Storage
-- **Location**: Encrypted database with role-based access control
-- **Backups**: Daily snapshots; 90-day retention
-- **Access Logs**: All data access logged for audit trail
-
 ### Processing
 - **PII Removal**: Name, SSN, full DOB removed before analysis
 - **Anonymization**: Employee IDs replaced with random indices (no mapping retained)
 - **Encryption**: All transmissions use HTTPS + TLS 1.3
 
-### Retention
-- **Active**: Keep for 12 months post-analysis
-- **Disposal**: Secure deletion (NIST SP 800-88 standards) after retention period
 
 ---
 
@@ -296,25 +288,6 @@ The following attributes are **NOT used in modeling** but are tracked separately
 5. **Geographic Blind Spot**: No location data; cannot account for regional differences in employment market.
 6. **Small Class Size**: ~80 terminated employees; predictions may be unstable for rare subgroups.
 
----
-
-## 📖 Recommended Citation
-
-If using this dataset in research or reports:
-
-```
-HRDataset_v14_enriched (2019). Retrieved from HackathonA4 group repository.
-Team: GROUP N°17 (GOETGHEBEUR, ALI, LEBRETON, POINTEAU, TEPLOV).
-Anonymized HR records with NLP-enriched features for voluntary attrition prediction.
-```
 
 ---
-
-## 📞 Questions & Contact
-
-For dataset questions:
-- **Primary Contact**: Data Science Team (Hackathon Group 17)
-- **Data Governance**: Compliance Officer
-- **Technical Issues**: File GitHub issue with `[data]` prefix
-
 See `README.md` for repository link.
