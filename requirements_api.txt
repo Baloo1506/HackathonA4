@@ -1,0 +1,24 @@
+# Flask API dependencies for HR Attrition Prediction Model
+# Install with: pip install -r requirements.txt
+
+# Core ML & Data
+scikit-learn==1.8.0
+xgboost==3.2.0
+pandas==3.0.1
+numpy==2.4.3
+joblib==1.4.2
+
+# Explainability
+shap==0.51.0
+
+# Flask API
+Flask==2.3.2
+flask-cors==4.0.0
+Werkzeug==2.3.0
+gunicorn==21.2.0
+
+# Testing
+requests==2.31.0
+
+# Additional utilities
+python-dotenv==1.0.0
