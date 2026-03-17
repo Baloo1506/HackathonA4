@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "HR Attrition AI",
+    "slug": "hr-attrition-app",
+    "version": "1.0.0",
+    "platforms": ["web"],
+    "web": {
+      "title": "HR Attrition AI — Risk Dashboard",
+      "lang": "fr"
+    }
+  }
+}
