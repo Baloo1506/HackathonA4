@@ -1,0 +1,208 @@
+anonymized_id,Department,Position,risk_score,risk_level,top_reason_1,top_reason_2,top_reason_3,recommended_action,nlp_advisory
+EMP_0130,Production       ,Production Technician I,0.5844,High,SpecialProjectsCount,EmpSatisfaction,salary_vs_dept_mean,Assign meaningful stretch projects | HR check-in / satisfaction interview | Compensation review,transfer request on file
+EMP_0051,Production       ,Production Technician I,0.5756,High,Salary,age,DaysLateLast30,Compensation review | Age-appropriate retention strategy | Wellbeing or flexibility discussion,transfer request on file
+EMP_0158,Sales,Area Sales Manager,0.3841,High,age,SpecialProjectsCount,EmpSatisfaction,Age-appropriate retention strategy | Assign meaningful stretch projects | HR check-in / satisfaction interview,negative feedback tone
+EMP_0089,Production       ,Production Technician I,0.3622,High,Salary,engagement_x_satisfaction,Absences,Compensation review | HR check-in / engagement improvement plan | Wellbeing or flexibility discussion,transfer request on file
+EMP_0010,Production       ,Production Technician II,0.3263,High,tenure_years,SpecialProjectsCount,EmpSatisfaction,Career development milestone review | Assign meaningful stretch projects | HR check-in / satisfaction interview,
+EMP_0036,Production       ,Production Technician I,0.3121,High,tenure_years,SpecialProjectsCount,,Career development milestone review | Assign meaningful stretch projects,transfer request on file
+EMP_0116,Admin Offices,Shared Services Manager,0.292,High,tenure_years,SpecialProjectsCount,,Career development milestone review | Assign meaningful stretch projects,negative feedback tone
+EMP_0087,Production       ,Production Manager,0.2219,High,SpecialProjectsCount,,,Assign meaningful stretch projects,transfer request on file
+EMP_0038,Production       ,Production Manager,0.2135,High,DaysLateLast30,EmpSatisfaction,SpecialProjectsCount,Wellbeing or flexibility discussion | HR check-in / satisfaction interview | Assign meaningful stretch projects,
+EMP_0125,Production       ,Production Technician II,0.2061,High,tenure_years,SpecialProjectsCount,,Career development milestone review | Assign meaningful stretch projects,
+EMP_0063,Production       ,Production Technician I,0.2018,High,SpecialProjectsCount,Salary,,Assign meaningful stretch projects | Compensation review,transfer request on file
+EMP_0024,Production       ,Production Manager,0.1971,High,tenure_years,Absences,SpecialProjectsCount,Career development milestone review | Wellbeing or flexibility discussion | Assign meaningful stretch projects,transfer request on file
+EMP_0144,Production       ,Production Technician I,0.1913,High,SpecialProjectsCount,Salary,,Assign meaningful stretch projects | Compensation review,transfer request on file
+EMP_0166,Production       ,Production Technician I,0.1913,High,tenure_years,SpecialProjectsCount,DaysLateLast30,Career development milestone review | Assign meaningful stretch projects | Wellbeing or flexibility discussion,
+EMP_0132,Production       ,Production Technician I,0.179,High,SpecialProjectsCount,,,Assign meaningful stretch projects,
+EMP_0117,Production       ,Production Technician I,0.177,High,EmpSatisfaction,SpecialProjectsCount,Absences,HR check-in / satisfaction interview | Assign meaningful stretch projects | Wellbeing or flexibility discussion,transfer request on file
+EMP_0101,Production       ,Production Technician I,0.1761,High,Salary,SpecialProjectsCount,,Compensation review | Assign meaningful stretch projects,
+EMP_0048,Production       ,Production Technician I,0.1761,High,tenure_years,,,Career development milestone review,
+EMP_0091,Production       ,Production Technician I,0.1746,High,SpecialProjectsCount,,,Assign meaningful stretch projects,
+EMP_0056,Production       ,Production Technician I,0.1724,High,Salary,SpecialProjectsCount,Absences,Compensation review | Assign meaningful stretch projects | Wellbeing or flexibility discussion,transfer request on file
+EMP_0074,Production       ,Production Technician I,0.17,High,SpecialProjectsCount,Salary,,Assign meaningful stretch projects | Compensation review,
+EMP_0187,Production       ,Production Technician I,0.169,High,SpecialProjectsCount,,,Assign meaningful stretch projects,transfer request on file
+EMP_0162,IT/IS,Data Architect,0.169,High,tenure_years,age,Absences,Career development milestone review | Age-appropriate retention strategy | Wellbeing or flexibility discussion,negative feedback tone
+EMP_0042,Production       ,Production Technician I,0.169,High,tenure_years,SpecialProjectsCount,Absences,Career development milestone review | Assign meaningful stretch projects | Wellbeing or flexibility discussion,
+EMP_0108,Executive Office,President & CEO,0.1635,High,age,SpecialProjectsCount,EmpSatisfaction,Age-appropriate retention strategy | Assign meaningful stretch projects | HR check-in / satisfaction interview,transfer request on file
+EMP_0097,Production       ,Production Technician II,0.1613,High,tenure_years,SpecialProjectsCount,,Career development milestone review | Assign meaningful stretch projects,transfer request on file
+EMP_0067,Production       ,Production Technician I,0.159,High,SpecialProjectsCount,DaysLateLast30,Absences,Assign meaningful stretch projects | Wellbeing or flexibility discussion | Wellbeing or flexibility discussion,
+EMP_0098,Production       ,Production Technician II,0.1533,High,SpecialProjectsCount,EmpSatisfaction,,Assign meaningful stretch projects | HR check-in / satisfaction interview,transfer request on file
+EMP_0131,Sales,Area Sales Manager,0.1444,High,tenure_years,SpecialProjectsCount,EmpSatisfaction,Career development milestone review | Assign meaningful stretch projects | HR check-in / satisfaction interview,
+EMP_0199,Production       ,Production Technician I,0.139,High,tenure_years,SpecialProjectsCount,EmpSatisfaction,Career development milestone review | Assign meaningful stretch projects | HR check-in / satisfaction interview,transfer request on file
+EMP_0064,Production       ,Production Technician II,0.1306,High,EmpSatisfaction,SpecialProjectsCount,DaysLateLast30,HR check-in / satisfaction interview | Assign meaningful stretch projects | Wellbeing or flexibility discussion,
+EMP_0137,Production       ,Production Technician II,0.12,Medium,salary_vs_dept_mean,SpecialProjectsCount,,Compensation review | Assign meaningful stretch projects,
+EMP_0060,Production       ,Production Manager,0.12,Medium,age,SpecialProjectsCount,,Age-appropriate retention strategy | Assign meaningful stretch projects,transfer request on file
+EMP_0016,Production       ,Production Technician II,0.12,Medium,DaysLateLast30,SpecialProjectsCount,EmpSatisfaction,Wellbeing or flexibility discussion | Assign meaningful stretch projects | HR check-in / satisfaction interview,
+EMP_0103,Production       ,Production Technician I,0.12,Medium,age,SpecialProjectsCount,,Age-appropriate retention strategy | Assign meaningful stretch projects,
+EMP_0135,IT/IS,IT Manager - Infra,0.1156,Medium,DaysLateLast30,salary_vs_dept_mean,EmpSatisfaction,Wellbeing or flexibility discussion | Compensation review | HR check-in / satisfaction interview,
+EMP_0169,Production       ,Production Technician I,0.1,Medium,Salary,SpecialProjectsCount,,Compensation review | Assign meaningful stretch projects,transfer request on file
+EMP_0049,Software Engineering,Software Engineer,0.1,Medium,age,salary_vs_dept_mean,Absences,Age-appropriate retention strategy | Compensation review | Wellbeing or flexibility discussion,
+EMP_0207,Production       ,Production Technician I,0.0953,Medium,Salary,salary_vs_dept_mean,SpecialProjectsCount,Compensation review | Compensation review | Assign meaningful stretch projects,negative feedback tone
+EMP_0200,Production       ,Production Technician II,0.0867,Medium,engagement_x_satisfaction,SpecialProjectsCount,,HR check-in / engagement improvement plan | Assign meaningful stretch projects,
+EMP_0142,IT/IS,Senior BI Developer,0.0857,Medium,tenure_years,age,Absences,Career development milestone review | Age-appropriate retention strategy | Wellbeing or flexibility discussion,transfer request on file
+EMP_0192,Production       ,Production Technician I,0.0857,Medium,SpecialProjectsCount,engagement_x_satisfaction,,Assign meaningful stretch projects | HR check-in / engagement improvement plan,transfer request on file
+EMP_0020,Production       ,Production Technician I,0.079,Medium,SpecialProjectsCount,Absences,engagement_x_satisfaction,Assign meaningful stretch projects | Wellbeing or flexibility discussion | HR check-in / engagement improvement plan,
+EMP_0181,Production       ,Production Technician I,0.079,Medium,Salary,SpecialProjectsCount,,Compensation review | Assign meaningful stretch projects,
+EMP_0175,Sales,Sales Manager,0.079,Medium,SpecialProjectsCount,DaysLateLast30,,Assign meaningful stretch projects | Wellbeing or flexibility discussion,
+EMP_0159,Production       ,Production Technician I,0.079,Medium,Salary,SpecialProjectsCount,,Compensation review | Assign meaningful stretch projects,
+EMP_0040,Production       ,Production Technician I,0.0731,Medium,SpecialProjectsCount,,,Assign meaningful stretch projects,transfer request on file
+EMP_0017,Admin Offices,Sr. Accountant,0.0724,Medium,,,,No specific action,
+EMP_0138,IT/IS,Network Engineer,0.0724,Medium,Salary,EmpSatisfaction,,Compensation review | HR check-in / satisfaction interview,transfer request on file
+EMP_0006,Production       ,Production Technician I,0.0667,Medium,Salary,SpecialProjectsCount,,Compensation review | Assign meaningful stretch projects,
+EMP_0043,IT/IS,Sr. Network Engineer,0.0667,Medium,age,,,Age-appropriate retention strategy,
+EMP_0088,IT/IS,BI Developer,0.0628,Medium,tenure_years,,,Career development milestone review,transfer request on file
+EMP_0015,Production       ,Production Technician I,0.0621,Medium,Absences,SpecialProjectsCount,EmpSatisfaction,Wellbeing or flexibility discussion | Assign meaningful stretch projects | HR check-in / satisfaction interview,
+EMP_0053,Production       ,Production Technician I,0.062,Medium,Salary,SpecialProjectsCount,engagement_x_satisfaction,Compensation review | Assign meaningful stretch projects | HR check-in / engagement improvement plan,
+EMP_0014,Production       ,Production Technician I,0.0613,Medium,age,SpecialProjectsCount,EmpSatisfaction,Age-appropriate retention strategy | Assign meaningful stretch projects | HR check-in / satisfaction interview,
+EMP_0081,Production       ,Production Technician I,0.0613,Medium,SpecialProjectsCount,,,Assign meaningful stretch projects,
+EMP_0156,Production       ,Production Technician I,0.0613,Medium,age,SpecialProjectsCount,,Age-appropriate retention strategy | Assign meaningful stretch projects,
+EMP_0055,Production       ,Production Technician I,0.0531,Medium,SpecialProjectsCount,engagement_x_satisfaction,EngagementSurvey,Assign meaningful stretch projects | HR check-in / engagement improvement plan | Manager discussion / project reassignment,
+EMP_0123,Production       ,Production Technician I,0.0524,Medium,Salary,SpecialProjectsCount,,Compensation review | Assign meaningful stretch projects,
+EMP_0019,Production       ,Production Technician II,0.0413,Medium,SpecialProjectsCount,EmpSatisfaction,,Assign meaningful stretch projects | HR check-in / satisfaction interview,
+EMP_0069,Production       ,Production Technician I,0.0413,Medium,SpecialProjectsCount,,,Assign meaningful stretch projects,
+EMP_0005,Production       ,Production Technician I,0.0413,Medium,Absences,SpecialProjectsCount,,Wellbeing or flexibility discussion | Assign meaningful stretch projects,
+EMP_0007,IT/IS,IT Support,0.0413,Medium,Salary,Absences,,Compensation review | Wellbeing or flexibility discussion,transfer request on file
+EMP_0127,Software Engineering,Software Engineer,0.0413,Medium,Absences,,,Wellbeing or flexibility discussion,
+EMP_0124,Production       ,Production Technician I,0.0413,Medium,Salary,salary_vs_dept_mean,SpecialProjectsCount,Compensation review | Compensation review | Assign meaningful stretch projects,
+EMP_0122,Production       ,Production Technician II,0.0413,Medium,Absences,salary_vs_dept_mean,SpecialProjectsCount,Wellbeing or flexibility discussion | Compensation review | Assign meaningful stretch projects,
+EMP_0191,Sales,Area Sales Manager,0.0413,Medium,age,Absences,SpecialProjectsCount,Age-appropriate retention strategy | Wellbeing or flexibility discussion | Assign meaningful stretch projects,
+EMP_0190,IT/IS,BI Developer,0.0413,Medium,tenure_years,Absences,EmpSatisfaction,Career development milestone review | Wellbeing or flexibility discussion | HR check-in / satisfaction interview,transfer request on file
+EMP_0105,Production       ,Production Technician II,0.0413,Medium,age,SpecialProjectsCount,,Age-appropriate retention strategy | Assign meaningful stretch projects,
+EMP_0106,Production       ,Production Technician I,0.0413,Medium,Salary,SpecialProjectsCount,EmpSatisfaction,Compensation review | Assign meaningful stretch projects | HR check-in / satisfaction interview,
+EMP_0092,Production       ,Production Technician I,0.0413,Medium,Salary,SpecialProjectsCount,,Compensation review | Assign meaningful stretch projects,transfer request on file
+EMP_0174,Production       ,Production Technician II,0.0413,Medium,age,SpecialProjectsCount,EmpSatisfaction,Age-appropriate retention strategy | Assign meaningful stretch projects | HR check-in / satisfaction interview,transfer request on file
+EMP_0031,Production       ,Production Technician I,0.0413,Medium,Salary,SpecialProjectsCount,EmpSatisfaction,Compensation review | Assign meaningful stretch projects | HR check-in / satisfaction interview,
+EMP_0072,Sales,Area Sales Manager,0.0413,Medium,age,SpecialProjectsCount,EmpSatisfaction,Age-appropriate retention strategy | Assign meaningful stretch projects | HR check-in / satisfaction interview,transfer request on file
+EMP_0152,Production       ,Production Technician II,0.0394,Medium,salary_vs_dept_mean,EmpSatisfaction,SpecialProjectsCount,Compensation review | HR check-in / satisfaction interview | Assign meaningful stretch projects,transfer request on file
+EMP_0104,IT/IS,Database Administrator,0.0394,Medium,EmpSatisfaction,salary_vs_dept_mean,EngagementSurvey,HR check-in / satisfaction interview | Compensation review | Manager discussion / project reassignment,
+EMP_0058,IT/IS,IT Manager - Support,0.039,Medium,age,salary_vs_dept_mean,,Age-appropriate retention strategy | Compensation review,transfer request on file
+EMP_0029,Production       ,Production Technician I,0.039,Medium,age,SpecialProjectsCount,,Age-appropriate retention strategy | Assign meaningful stretch projects,transfer request on file
+EMP_0002,Production       ,Production Technician I,0.039,Medium,Absences,EngagementSurvey,SpecialProjectsCount,Wellbeing or flexibility discussion | Manager discussion / project reassignment | Assign meaningful stretch projects,transfer request on file
+EMP_0143,Production       ,Production Technician I,0.039,Medium,Salary,SpecialProjectsCount,,Compensation review | Assign meaningful stretch projects,
+EMP_0176,Production       ,Production Technician I,0.039,Medium,SpecialProjectsCount,,,Assign meaningful stretch projects,
+EMP_0204,Production       ,Production Technician II,0.039,Medium,Absences,SpecialProjectsCount,engagement_x_satisfaction,Wellbeing or flexibility discussion | Assign meaningful stretch projects | HR check-in / engagement improvement plan,transfer request on file
+EMP_0202,IT/IS,Sr. Network Engineer,0.039,Medium,salary_vs_dept_mean,,,Compensation review,
+EMP_0129,Production       ,Production Technician II,0.039,Medium,SpecialProjectsCount,Salary,Absences,Assign meaningful stretch projects | Compensation review | Wellbeing or flexibility discussion,
+EMP_0128,Production       ,Production Technician I,0.039,Medium,Salary,SpecialProjectsCount,engagement_x_satisfaction,Compensation review | Assign meaningful stretch projects | HR check-in / engagement improvement plan,
+EMP_0149,Production       ,Production Technician I,0.039,Medium,Salary,Absences,SpecialProjectsCount,Compensation review | Wellbeing or flexibility discussion | Assign meaningful stretch projects,
+EMP_0150,Production       ,Production Technician I,0.039,Medium,DaysLateLast30,Salary,SpecialProjectsCount,Wellbeing or flexibility discussion | Compensation review | Assign meaningful stretch projects,
+EMP_0180,Production       ,Production Manager,0.039,Medium,Absences,EngagementSurvey,SpecialProjectsCount,Wellbeing or flexibility discussion | Manager discussion / project reassignment | Assign meaningful stretch projects,transfer request on file
+EMP_0093,Sales,Area Sales Manager,0.039,Medium,SpecialProjectsCount,engagement_x_satisfaction,EngagementSurvey,Assign meaningful stretch projects | HR check-in / engagement improvement plan | Manager discussion / project reassignment,transfer request on file
+EMP_0085,Production       ,Production Technician II,0.039,Medium,SpecialProjectsCount,,,Assign meaningful stretch projects,
+EMP_0021,Production       ,Production Technician II,0.039,Medium,SpecialProjectsCount,engagement_x_satisfaction,,Assign meaningful stretch projects | HR check-in / engagement improvement plan,transfer request on file
+EMP_0022,Production       ,Production Technician II,0.039,Medium,Absences,engagement_x_satisfaction,SpecialProjectsCount,Wellbeing or flexibility discussion | HR check-in / engagement improvement plan | Assign meaningful stretch projects,
+EMP_0062,Production       ,Production Technician I,0.039,Medium,Salary,SpecialProjectsCount,,Compensation review | Assign meaningful stretch projects,
+EMP_0179,Production       ,Production Technician I,0.039,Medium,DaysLateLast30,EmpSatisfaction,SpecialProjectsCount,Wellbeing or flexibility discussion | HR check-in / satisfaction interview | Assign meaningful stretch projects,
+EMP_0178,IT/IS,Sr. Network Engineer,0.039,Medium,tenure_years,Absences,,Career development milestone review | Wellbeing or flexibility discussion,
+EMP_0139,Production       ,Production Technician I,0.0333,Low,Absences,SpecialProjectsCount,engagement_x_satisfaction,Wellbeing or flexibility discussion | Assign meaningful stretch projects | HR check-in / engagement improvement plan,
+EMP_0121,IT/IS,IT Support,0.0263,Low,Salary,Absences,,Compensation review | Wellbeing or flexibility discussion,
+EMP_0027,IT/IS,Sr. DBA,0.0222,Low,tenure_years,,,Career development milestone review,transfer request on file
+EMP_0109,Production       ,Production Technician I,0.0222,Low,Salary,SpecialProjectsCount,,Compensation review | Assign meaningful stretch projects,transfer request on file
+EMP_0147,Production       ,Production Technician II,0.02,Low,SpecialProjectsCount,,,Assign meaningful stretch projects,
+EMP_0184,Production       ,Production Technician I,0.02,Low,SpecialProjectsCount,,,Assign meaningful stretch projects,
+EMP_0110,Production       ,Production Technician I,0.02,Low,SpecialProjectsCount,Absences,,Assign meaningful stretch projects | Wellbeing or flexibility discussion,
+EMP_0080,Production       ,Production Technician I,0.02,Low,Salary,SpecialProjectsCount,salary_vs_dept_mean,Compensation review | Assign meaningful stretch projects | Compensation review,
+EMP_0004,Software Engineering,Software Engineer,0.02,Low,Absences,EmpSatisfaction,,Wellbeing or flexibility discussion | HR check-in / satisfaction interview,
+EMP_0161,IT/IS,Data Analyst,0.019,Low,Absences,engagement_x_satisfaction,,Wellbeing or flexibility discussion | HR check-in / engagement improvement plan,
+EMP_0203,Production       ,Production Technician II,0.019,Low,SpecialProjectsCount,Absences,EmpSatisfaction,Assign meaningful stretch projects | Wellbeing or flexibility discussion | HR check-in / satisfaction interview,
+EMP_0201,IT/IS,Senior BI Developer,0.019,Low,tenure_years,Absences,engagement_x_satisfaction,Career development milestone review | Wellbeing or flexibility discussion | HR check-in / engagement improvement plan,
+EMP_0194,Production       ,Production Technician I,0.019,Low,DaysLateLast30,Absences,SpecialProjectsCount,Wellbeing or flexibility discussion | Wellbeing or flexibility discussion | Assign meaningful stretch projects,
+EMP_0171,Production       ,Production Technician I,0.019,Low,Salary,Absences,SpecialProjectsCount,Compensation review | Wellbeing or flexibility discussion | Assign meaningful stretch projects,
+EMP_0172,IT/IS,Data Analyst,0.019,Low,age,EmpSatisfaction,,Age-appropriate retention strategy | HR check-in / satisfaction interview,
+EMP_0195,IT/IS,Network Engineer,0.019,Low,age,,,Age-appropriate retention strategy,transfer request on file
+EMP_0023,Software Engineering,Software Engineering Manager,0.019,Low,,,,No specific action,transfer request on file
+EMP_0018,Admin Offices,Accountant I,0.019,Low,EmpSatisfaction,Absences,,HR check-in / satisfaction interview | Wellbeing or flexibility discussion,transfer request on file
+EMP_0001,Production       ,Production Technician I,0.019,Low,SpecialProjectsCount,engagement_x_satisfaction,,Assign meaningful stretch projects | HR check-in / engagement improvement plan,
+EMP_0008,IT/IS,Data Analyst,0.019,Low,engagement_x_satisfaction,,,HR check-in / engagement improvement plan,transfer request on file
+EMP_0013,Production       ,Production Technician I,0.019,Low,Salary,SpecialProjectsCount,Absences,Compensation review | Assign meaningful stretch projects | Wellbeing or flexibility discussion,
+EMP_0059,Sales,Area Sales Manager,0.019,Low,EngagementSurvey,SpecialProjectsCount,Absences,Manager discussion / project reassignment | Assign meaningful stretch projects | Wellbeing or flexibility discussion,transfer request on file
+EMP_0061,Production       ,Production Technician I,0.019,Low,age,SpecialProjectsCount,,Age-appropriate retention strategy | Assign meaningful stretch projects,
+EMP_0076,Production       ,Production Technician I,0.019,Low,Salary,SpecialProjectsCount,,Compensation review | Assign meaningful stretch projects,transfer request on file
+EMP_0003,Production       ,Production Technician I,0.019,Low,SpecialProjectsCount,Absences,engagement_x_satisfaction,Assign meaningful stretch projects | Wellbeing or flexibility discussion | HR check-in / engagement improvement plan,
+EMP_0163,Production       ,Production Technician I,0.019,Low,engagement_x_satisfaction,SpecialProjectsCount,,HR check-in / engagement improvement plan | Assign meaningful stretch projects,transfer request on file
+EMP_0206,IT/IS,Data Analyst,0.019,Low,Absences,EmpSatisfaction,,Wellbeing or flexibility discussion | HR check-in / satisfaction interview,
+EMP_0197,Production       ,Production Manager,0.019,Low,SpecialProjectsCount,EmpSatisfaction,,Assign meaningful stretch projects | HR check-in / satisfaction interview,transfer request on file
+EMP_0173,Admin Offices,Administrative Assistant,0.019,Low,Salary,,,Compensation review,
+EMP_0153,IT/IS,Data Analyst,0.019,Low,Absences,,,Wellbeing or flexibility discussion,
+EMP_0167,Production       ,Production Technician II,0.019,Low,SpecialProjectsCount,Absences,,Assign meaningful stretch projects | Wellbeing or flexibility discussion,transfer request on file
+EMP_0154,Production       ,Production Technician I,0.019,Low,Salary,SpecialProjectsCount,Absences,Compensation review | Assign meaningful stretch projects | Wellbeing or flexibility discussion,
+EMP_0136,Production       ,Production Technician II,0.019,Low,salary_vs_dept_mean,age,SpecialProjectsCount,Compensation review | Age-appropriate retention strategy | Assign meaningful stretch projects,
+EMP_0140,Production       ,Production Technician II,0.019,Low,salary_vs_dept_mean,SpecialProjectsCount,,Compensation review | Assign meaningful stretch projects,transfer request on file
+EMP_0113,Production       ,Production Technician I,0.019,Low,Salary,SpecialProjectsCount,,Compensation review | Assign meaningful stretch projects,
+EMP_0112,IT/IS,Sr. Network Engineer,0.019,Low,,,,No specific action,
+EMP_0082,IT/IS,IT Support,0.019,Low,Absences,EmpSatisfaction,,Wellbeing or flexibility discussion | HR check-in / satisfaction interview,
+EMP_0095,Sales,Director of Sales,0.019,Low,age,SpecialProjectsCount,,Age-appropriate retention strategy | Assign meaningful stretch projects,negative feedback tone
+EMP_0114,Admin Offices,Accountant I,0.019,Low,engagement_x_satisfaction,,,HR check-in / engagement improvement plan,
+EMP_0050,Sales,Area Sales Manager,0.019,Low,DaysLateLast30,SpecialProjectsCount,EmpSatisfaction,Wellbeing or flexibility discussion | Assign meaningful stretch projects | HR check-in / satisfaction interview,transfer request on file
+EMP_0065,Production       ,Production Technician II,0.019,Low,SpecialProjectsCount,Absences,salary_vs_dept_mean,Assign meaningful stretch projects | Wellbeing or flexibility discussion | Compensation review,
+EMP_0068,IT/IS,Network Engineer,0.019,Low,DaysLateLast30,Salary,EmpSatisfaction,Wellbeing or flexibility discussion | Compensation review | HR check-in / satisfaction interview,transfer request on file
+EMP_0077,Production       ,Production Technician I,0.019,Low,SpecialProjectsCount,,,Assign meaningful stretch projects,
+EMP_0052,IT/IS,BI Developer,0.019,Low,tenure_years,Absences,,Career development milestone review | Wellbeing or flexibility discussion,
+EMP_0054,Sales,Area Sales Manager,0.019,Low,EmpSatisfaction,DaysLateLast30,SpecialProjectsCount,HR check-in / satisfaction interview | Wellbeing or flexibility discussion | Assign meaningful stretch projects,
+EMP_0046,Production       ,Production Technician I,0.019,Low,SpecialProjectsCount,,,Assign meaningful stretch projects,
+EMP_0030,IT/IS,BI Director,0.019,Low,tenure_years,age,salary_vs_dept_mean,Career development milestone review | Age-appropriate retention strategy | Compensation review,
+EMP_0028,Sales,Area Sales Manager,0.019,Low,age,SpecialProjectsCount,,Age-appropriate retention strategy | Assign meaningful stretch projects,
+EMP_0090,Production       ,Production Technician II,0.019,Low,SpecialProjectsCount,Absences,EmpSatisfaction,Assign meaningful stretch projects | Wellbeing or flexibility discussion | HR check-in / satisfaction interview,
+EMP_0157,IT/IS,BI Developer,0.0127,Low,tenure_years,,,Career development milestone review,transfer request on file
+EMP_0170,IT/IS,Network Engineer,0.0127,Low,Salary,EmpSatisfaction,,Compensation review | HR check-in / satisfaction interview,
+EMP_0168,Production       ,Production Technician I,0.0063,Low,SpecialProjectsCount,,,Assign meaningful stretch projects,
+EMP_0189,Software Engineering,Software Engineer,0.0063,Low,,,,No specific action,transfer request on file
+EMP_0196,Sales,Area Sales Manager,0.0063,Low,SpecialProjectsCount,EngagementSurvey,,Assign meaningful stretch projects | Manager discussion / project reassignment,
+EMP_0071,Admin Offices,Sr. Accountant,0.0,Low,salary_vs_dept_mean,EmpSatisfaction,,Compensation review | HR check-in / satisfaction interview,transfer request on file
+EMP_0066,Production       ,Production Technician II,0.0,Low,SpecialProjectsCount,engagement_x_satisfaction,,Assign meaningful stretch projects | HR check-in / engagement improvement plan,
+EMP_0079,IT/IS,IT Support,0.0,Low,,,,No specific action,
+EMP_0078,Sales,Area Sales Manager,0.0,Low,SpecialProjectsCount,Absences,,Assign meaningful stretch projects | Wellbeing or flexibility discussion,
+EMP_0073,IT/IS,IT Support,0.0,Low,age,EngagementSurvey,,Age-appropriate retention strategy | Manager discussion / project reassignment,
+EMP_0075,Production       ,Production Technician I,0.0,Low,Salary,SpecialProjectsCount,Absences,Compensation review | Assign meaningful stretch projects | Wellbeing or flexibility discussion,transfer request on file
+EMP_0070,IT/IS,IT Director,0.0,Low,salary_vs_dept_mean,Absences,,Compensation review | Wellbeing or flexibility discussion,
+EMP_0044,Sales,Sales Manager,0.0,Low,SpecialProjectsCount,engagement_x_satisfaction,,Assign meaningful stretch projects | HR check-in / engagement improvement plan,
+EMP_0045,IT/IS,Sr. Network Engineer,0.0,Low,age,,,Age-appropriate retention strategy,
+EMP_0047,Production       ,Production Technician II,0.0,Low,SpecialProjectsCount,engagement_x_satisfaction,,Assign meaningful stretch projects | HR check-in / engagement improvement plan,
+EMP_0025,Software Engineering,Software Engineer,0.0,Low,EngagementSurvey,engagement_x_satisfaction,,Manager discussion / project reassignment | HR check-in / engagement improvement plan,transfer request on file
+EMP_0026,Production       ,Production Technician I,0.0,Low,Salary,SpecialProjectsCount,Absences,Compensation review | Assign meaningful stretch projects | Wellbeing or flexibility discussion,transfer request on file
+EMP_0032,Production       ,Production Technician I,0.0,Low,SpecialProjectsCount,,,Assign meaningful stretch projects,transfer request on file
+EMP_0033,Sales,Area Sales Manager,0.0,Low,Absences,SpecialProjectsCount,,Wellbeing or flexibility discussion | Assign meaningful stretch projects,
+EMP_0011,Production       ,Production Technician I,0.0,Low,SpecialProjectsCount,,,Assign meaningful stretch projects,
+EMP_0009,Production       ,Production Technician I,0.0,Low,SpecialProjectsCount,EngagementSurvey,,Assign meaningful stretch projects | Manager discussion / project reassignment,transfer request on file
+EMP_0012,Production       ,Production Technician I,0.0,Low,Salary,SpecialProjectsCount,Absences,Compensation review | Assign meaningful stretch projects | Wellbeing or flexibility discussion,transfer request on file
+EMP_0057,IT/IS,IT Support,0.0,Low,Absences,engagement_x_satisfaction,EmpSatisfaction,Wellbeing or flexibility discussion | HR check-in / engagement improvement plan | HR check-in / satisfaction interview,transfer request on file
+EMP_0039,Production       ,Director of Operations,0.0,Low,Absences,SpecialProjectsCount,,Wellbeing or flexibility discussion | Assign meaningful stretch projects,
+EMP_0037,Production       ,Production Technician I,0.0,Low,SpecialProjectsCount,,,Assign meaningful stretch projects,
+EMP_0034,Production       ,Production Technician I,0.0,Low,SpecialProjectsCount,,,Assign meaningful stretch projects,
+EMP_0035,IT/IS,IT Support,0.0,Low,EmpSatisfaction,EngagementSurvey,,HR check-in / satisfaction interview | Manager discussion / project reassignment,
+EMP_0041,IT/IS,Data Analyst,0.0,Low,EmpSatisfaction,,,HR check-in / satisfaction interview,transfer request on file
+EMP_0086,Production       ,Production Technician I,0.0,Low,Salary,SpecialProjectsCount,,Compensation review | Assign meaningful stretch projects,
+EMP_0084,Production       ,Production Technician I,0.0,Low,Salary,SpecialProjectsCount,,Compensation review | Assign meaningful stretch projects,
+EMP_0111,Sales,Area Sales Manager,0.0,Low,Absences,SpecialProjectsCount,engagement_x_satisfaction,Wellbeing or flexibility discussion | Assign meaningful stretch projects | HR check-in / engagement improvement plan,
+EMP_0141,Production       ,Production Technician I,0.0,Low,Absences,SpecialProjectsCount,,Wellbeing or flexibility discussion | Assign meaningful stretch projects,
+EMP_0134,Production       ,Production Technician II,0.0,Low,SpecialProjectsCount,Absences,,Assign meaningful stretch projects | Wellbeing or flexibility discussion,
+EMP_0133,Production       ,Production Manager,0.0,Low,salary_vs_dept_mean,SpecialProjectsCount,EmpSatisfaction,Compensation review | Assign meaningful stretch projects | HR check-in / satisfaction interview,
+EMP_0115,IT/IS,Senior BI Developer,0.0,Low,tenure_years,,,Career development milestone review,transfer request on file
+EMP_0119,Production       ,Production Manager,0.0,Low,salary_vs_dept_mean,EmpSatisfaction,SpecialProjectsCount,Compensation review | HR check-in / satisfaction interview | Assign meaningful stretch projects,
+EMP_0118,Sales,Area Sales Manager,0.0,Low,SpecialProjectsCount,Absences,EmpSatisfaction,Assign meaningful stretch projects | Wellbeing or flexibility discussion | HR check-in / satisfaction interview,transfer request on file
+EMP_0120,Production       ,Production Technician II,0.0,Low,SpecialProjectsCount,EmpSatisfaction,,Assign meaningful stretch projects | HR check-in / satisfaction interview,
+EMP_0126,Production       ,Production Technician I,0.0,Low,SpecialProjectsCount,EmpSatisfaction,,Assign meaningful stretch projects | HR check-in / satisfaction interview,
+EMP_0094,IT/IS,Database Administrator,0.0,Low,,,,No specific action,transfer request on file
+EMP_0083,Production       ,Production Technician II,0.0,Low,SpecialProjectsCount,salary_vs_dept_mean,EmpSatisfaction,Assign meaningful stretch projects | Compensation review | HR check-in / satisfaction interview,
+EMP_0096,Production       ,Production Technician I,0.0,Low,SpecialProjectsCount,Salary,EngagementSurvey,Assign meaningful stretch projects | Compensation review | Manager discussion / project reassignment,negative feedback tone
+EMP_0099,Production       ,Production Technician I,0.0,Low,Salary,SpecialProjectsCount,Absences,Compensation review | Assign meaningful stretch projects | Wellbeing or flexibility discussion,
+EMP_0102,Production       ,Production Technician II,0.0,Low,SpecialProjectsCount,engagement_x_satisfaction,,Assign meaningful stretch projects | HR check-in / engagement improvement plan,
+EMP_0100,Production       ,Production Technician I,0.0,Low,age,SpecialProjectsCount,EmpSatisfaction,Age-appropriate retention strategy | Assign meaningful stretch projects | HR check-in / satisfaction interview,
+EMP_0107,Sales,Area Sales Manager,0.0,Low,Absences,SpecialProjectsCount,,Wellbeing or flexibility discussion | Assign meaningful stretch projects,
+EMP_0155,Sales,Area Sales Manager,0.0,Low,SpecialProjectsCount,,,Assign meaningful stretch projects,transfer request on file
+EMP_0165,Software Engineering,Software Engineer,0.0,Low,EmpSatisfaction,,,HR check-in / satisfaction interview,
+EMP_0160,Production       ,Production Technician I,0.0,Low,SpecialProjectsCount,,,Assign meaningful stretch projects,
+EMP_0164,IT/IS,IT Manager - DB,0.0,Low,age,salary_vs_dept_mean,Absences,Age-appropriate retention strategy | Compensation review | Wellbeing or flexibility discussion,transfer request on file
+EMP_0146,Production       ,Production Technician I,0.0,Low,SpecialProjectsCount,,,Assign meaningful stretch projects,
+EMP_0151,Sales,Area Sales Manager,0.0,Low,Absences,SpecialProjectsCount,,Wellbeing or flexibility discussion | Assign meaningful stretch projects,transfer request on file
+EMP_0148,Sales,Area Sales Manager,0.0,Low,SpecialProjectsCount,EmpSatisfaction,,Assign meaningful stretch projects | HR check-in / satisfaction interview,transfer request on file
+EMP_0145,Sales,Area Sales Manager,0.0,Low,SpecialProjectsCount,engagement_x_satisfaction,,Assign meaningful stretch projects | HR check-in / engagement improvement plan,
+EMP_0177,IT/IS,IT Support,0.0,Low,age,EmpSatisfaction,Absences,Age-appropriate retention strategy | HR check-in / satisfaction interview | Wellbeing or flexibility discussion,
+EMP_0188,Production       ,Production Technician I,0.0,Low,SpecialProjectsCount,Absences,engagement_x_satisfaction,Assign meaningful stretch projects | Wellbeing or flexibility discussion | HR check-in / engagement improvement plan,transfer request on file
+EMP_0186,Production       ,Production Manager,0.0,Low,SpecialProjectsCount,Absences,EmpSatisfaction,Assign meaningful stretch projects | Wellbeing or flexibility discussion | HR check-in / satisfaction interview,
+EMP_0185,Sales,Area Sales Manager,0.0,Low,Absences,SpecialProjectsCount,EmpSatisfaction,Wellbeing or flexibility discussion | Assign meaningful stretch projects | HR check-in / satisfaction interview,transfer request on file
+EMP_0183,Admin Offices,Accountant I,0.0,Low,EngagementSurvey,,,Manager discussion / project reassignment,
+EMP_0182,Sales,Area Sales Manager,0.0,Low,DaysLateLast30,EmpSatisfaction,SpecialProjectsCount,Wellbeing or flexibility discussion | HR check-in / satisfaction interview | Assign meaningful stretch projects,
+EMP_0193,Sales,Area Sales Manager,0.0,Low,SpecialProjectsCount,age,,Assign meaningful stretch projects | Age-appropriate retention strategy,transfer request on file
+EMP_0198,Sales,Area Sales Manager,0.0,Low,Salary,SpecialProjectsCount,,Compensation review | Assign meaningful stretch projects,transfer request on file
+EMP_0205,IT/IS,CIO,0.0,Low,salary_vs_dept_mean,Absences,,Compensation review | Wellbeing or flexibility discussion,transfer request on file
