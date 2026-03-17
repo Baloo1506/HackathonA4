@@ -4,112 +4,112 @@ Employee_Name,Department,Position,ManagerName,Salary,EngagementSurvey,EmpSatisfa
 "Fidelia,  Libby",Production       ,Production Technician I,Brannon Miller,58530,5.0,5,19,0,5181,0.4736585646260419
 "Tredinnick, Ned",Production       ,Production Manager,Amy Dunn,76143,4.39,4,2,0,4316,0.4731615928819668
 "Trzeciak, Cayo",Production       ,Production Technician I,Amy Dunn,54550,4.87,3,15,0,5239,0.469337503409306
-"Bernstein, Sean",Production       ,Production Technician I,Amy Dunn,51044,5.0,3,13,0,5097,0.46657544357163516
+"Bernstein, Sean",Production       ,Production Technician I,Amy Dunn,51044,5.0,3,13,0,5097,0.4665754435716353
 "Villanueva, John",Production       ,Production Technician I,Kissy Sullivan,62022,3.55,5,16,0,4575,0.46549301674638077
 "Mangal, Susan",Production       ,Production Technician I,Kissy Sullivan,63413,3.62,5,18,1,4488,0.4624358574013519
-"Buccheri, Roxana",Production       ,Production Manager,Webster Butler,63457,5.0,4,3,0,4036,0.46195585758739505
-"Bugali, Josephine ",Production       ,Production Technician I,Kissy Sullivan,64375,3.5,5,17,0,4509,0.4618718422919656
+"Buccheri, Roxana",Production       ,Production Manager,Webster Butler,63457,5.0,4,3,0,4036,0.46195585758739516
+"Bugali, Josephine ",Production       ,Production Technician I,Kissy Sullivan,64375,3.5,5,17,0,4509,0.4618718422919657
 "Baczenski, Anna",Production       ,Production Technician I,Webster Butler,51773,5.0,5,16,1,4557,0.46127705963173743
 "Guilianno, April",Production       ,Production Technician I,David Stanley,50342,3.76,2,16,0,6662,0.460151691376699
-"Dougall, Sophia",Production       ,Production Technician I,Elijiah Gray,45698,2.36,4,4,5,3418,0.4543497665684941
+"Dougall, Sophia",Production       ,Production Technician I,Elijiah Gray,45698,2.36,4,4,5,3418,0.45434976656849413
 "Booth, Colleen",Production       ,Production Technician I,Kelley Spirea,49271,2.44,3,6,6,3520,0.45063341301079146
 "Roup, Constance",Production       ,Production Technician I,Kissy Sullivan,44971,3.85,3,14,0,6684,0.4496054586307312
 "Sewkumar, Alain",Production       ,Production Technician II,Webster Butler,61493,3.53,4,16,0,4167,0.4474870967258287
-"Barone, Francesco  A",Production       ,Production Technician I,Kelley Spirea,58709,4.6,4,7,0,5139,0.4473809283749577
+"Barone, Francesco  A",Production       ,Production Technician I,Kelley Spirea,58709,4.6,4,7,0,5139,0.44738092837495763
 "Jacobi, Donysha",Production       ,Production Technician I,Amy Dunn,45183,3.51,5,15,2,5140,0.44555168616830126
 "Cross, Michael J",Production       ,Production Technician II,Kissy Sullivan,64662,4.24,5,3,0,4556,0.44368636348091656
 "Chace, Beatrice ",Production       ,Production Technician I,Michael Albert,61656,5.0,4,11,0,4187,0.4426676690490807
 "Onque, Tanya",Production       ,Production Technician I,Amy Dunn,54367,4.86,4,12,0,3965,0.4425378785431276
-"Harrington, Bruno",Production       ,Production Technician I,Michael Albert,52863,4.24,4,14,0,5119,0.44133578693133196
-"Clukey, Leigh Ann",Production       ,Production Technician II,Kissy Sullivan,67641,4.57,5,1,2,4563,0.4388960071641729
+"Harrington, Bruno",Production       ,Production Technician I,Michael Albert,52863,4.24,4,14,0,5119,0.4413357869313321
+"Clukey, Leigh Ann",Production       ,Production Technician II,Kissy Sullivan,67641,4.57,5,1,2,4563,0.43889600716417276
 "Sullivan, Timothy",Production       ,Production Technician I,Michael Albert,63025,4.36,5,10,0,4089,0.4366930192742482
-"Blount, Phylicia",Production       ,Production Technician I,Kelley Spirea,55603,4.79,4,7,0,5222,0.43607716769466054
-"Handschiegl, Joanne",Production       ,Production Technician I,Michael Albert,54828,4.2,4,13,0,5223,0.43576764019865494
+"Blount, Phylicia",Production       ,Production Technician I,Kelley Spirea,55603,4.79,4,7,0,5222,0.4360771676946605
+"Handschiegl, Joanne",Production       ,Production Technician I,Michael Albert,54828,4.2,4,13,0,5223,0.4357676401986548
 "Beatrice, Courtney ",Production       ,Production Technician I,Elijiah Gray,59026,5.0,5,12,0,5461,0.43302946856000907
 "Rivera, Enola",Production       ,Production Technician I,Elijiah Gray,57501,5.0,4,12,0,5631,0.4326036800141417
-"O'hare, Max",Production       ,Production Technician I,Janet King,60056,4.31,4,7,0,5143,0.43210201503756596
+"O'hare, Max",Production       ,Production Technician I,Janet King,60056,4.31,4,7,0,5143,0.43210201503756585
 "Gosciminski, Phylicia  ",Production       ,Production Technician II,Kissy Sullivan,66149,4.4,5,1,0,4551,0.4318309380986876
-"Dougall, Colleen",Production       ,Production Technician I,Kelley Spirea,46984,2.58,3,4,6,3558,0.4306207382176361
+"Dougall, Colleen",Production       ,Production Technician I,Kelley Spirea,46984,2.58,3,4,6,3558,0.430620738217636
 "Handschiegl, Seffi",Production       ,Production Technician I,Michael Albert,54236,4.25,3,12,0,5243,0.43054835923430507
 "Saar-Beckles, Melinda",Production       ,Production Technician I,Kelley Spirea,47750,2.6,4,4,5,3543,0.4290072090385602
 "Moran, Patrick",Production       ,Production Technician II,Kelley Spirea,72106,4.1,4,12,0,5181,0.42816028109240034
-"Dee, Abdellah",Production       ,Production Manager,Janet King,72403,4.68,4,6,0,4256,0.4269628883002604
+"Dee, Abdellah",Production       ,Production Manager,Janet King,72403,4.68,4,6,0,4256,0.42696288830026047
 "Mckenna, Sandy",Production       ,Production Technician I,Kissy Sullivan,62810,3.93,3,20,0,4817,0.4267914122369811
 "Khemmich, Kramer",Production       ,Production Technician I,Kissy Sullivan,64032,3.9,3,20,1,4855,0.42577229012220547
 "Sewkumar, Nori",Production       ,Production Technician I,Webster Butler,50923,5.0,5,14,0,4551,0.4250308631133812
-"Clayton, Caitrin",Production       ,Production Technician II,Kelley Spirea,72920,4.33,4,12,0,5139,0.42440641504861726
+"Clayton, Caitrin",Production       ,Production Technician II,Kelley Spirea,72920,4.33,4,12,0,5139,0.4244064150486173
 "Beak, Caroline",Production       ,Production Technician I,Michael Albert,64680,4.21,5,13,0,4005,0.4242447420080343
 "LeBlanc, Noelle",Production       ,Production Technician I,Kissy Sullivan,49958,4.05,4,8,1,5438,0.42343589643547974
-"Miller, Elizabeth",Production       ,Production Technician I,Elijiah Gray,67240,4.07,3,6,0,5057,0.4230485950556773
+"Miller, Elizabeth",Production       ,Production Technician I,Elijiah Gray,67240,4.07,3,6,0,5057,0.4230485950556774
 "Dunn, Amy  ",Production       ,Production Manager,Janet King,75188,4.52,4,4,0,4198,0.4226702783581688
-"Tannen, Cayo",Production       ,Production Technician II,Kelley Spirea,72246,4.17,4,13,0,5132,0.42258973104025305
+"Tannen, Cayo",Production       ,Production Technician II,Kelley Spirea,72246,4.17,4,13,0,5132,0.422589731040253
 "Winthrop, Binh",Production       ,Production Technician I,Webster Butler,49487,4.09,4,16,0,5163,0.421760895579663
 "Handschiegl, Mia",Production       ,Production Technician I,Webster Butler,52300,5.0,5,13,0,4500,0.4217195809641227
-"Lecter, Hannibal",Production       ,Production Technician I,Elijiah Gray,64738,4.1,3,10,0,5055,0.42163885745730095
+"Lecter, Hannibal",Production       ,Production Technician I,Elijiah Gray,64738,4.1,3,10,0,5055,0.4216388574573009
 "Smith, Sharlene",Production       ,Production Technician I,Webster Butler,62913,4.55,5,1,1,5312,0.4215763141655844
-"Smith, Ebonee",Production       ,Production Technician I,Brannon Miller,46806,4.4,3,6,0,6120,0.4215687737707417
-"Carter, Ketsia",Production       ,Production Technician I,Brannon Miller,51999,4.04,4,11,0,4775,0.4198318259509796
+"Smith, Ebonee",Production       ,Production Technician I,Brannon Miller,46806,4.4,3,6,0,6120,0.42156877377074164
+"Carter, Ketsia",Production       ,Production Technician I,Brannon Miller,51999,4.04,4,11,0,4775,0.41983182595097956
 "Pitt, Brad ",Production       ,Production Technician I,David Stanley,47001,3.66,3,15,0,6707,0.41973849721007833
-"Nguyen, Sharlene",Production       ,Production Technician I,Kissy Sullivan,49211,4.16,4,11,0,5548,0.4177162168998154
+"Nguyen, Sharlene",Production       ,Production Technician I,Kissy Sullivan,49211,4.16,4,11,0,5548,0.4177162168998155
 "DeVito, Jennifer",Production       ,Production Technician I,Webster Butler,46124,4.22,4,16,0,5249,0.4175834502933781
-"Bondwell, Kara",Production       ,Production Technician I,Brannon Miller,47596,4.65,3,3,0,6117,0.41668314415871943
-"Patronick, Josephine",Production       ,Production Technician II,Kelley Spirea,71510,4.04,3,10,0,5060,0.4166747061993908
-"Stanford,Barbara  M",Production       ,Production Technician I,Kissy Sullivan,47961,4.1,4,9,0,5545,0.41599310716096016
-"Heitzman, Anthony",Production       ,Production Technician I,Ketsia Liebig,46998,4.17,4,1,0,4964,0.41519458609042015
-"Garcia, Jennifer",Production       ,Production Technician I,Ketsia Liebig,47372,3.64,5,1,2,5065,0.41517881531997847
-"Bachiochi, Linda",Production       ,Production Technician I,Brannon Miller,47837,4.46,3,4,0,6098,0.4150860939215387
+"Bondwell, Kara",Production       ,Production Technician I,Brannon Miller,47596,4.65,3,3,0,6117,0.4166831441587194
+"Patronick, Josephine",Production       ,Production Technician II,Kelley Spirea,71510,4.04,3,10,0,5060,0.41667470619939073
+"Stanford,Barbara  M",Production       ,Production Technician I,Kissy Sullivan,47961,4.1,4,9,0,5545,0.4159931071609601
+"Heitzman, Anthony",Production       ,Production Technician I,Ketsia Liebig,46998,4.17,4,1,0,4964,0.4151945860904202
+"Garcia, Jennifer",Production       ,Production Technician I,Ketsia Liebig,47372,3.64,5,1,2,5065,0.4151788153199785
+"Bachiochi, Linda",Production       ,Production Technician I,Brannon Miller,47837,4.46,3,4,0,6098,0.41508609392153867
 "Rivera, Haley  ",Production       ,Production Technician I,Webster Butler,46738,4.36,5,16,0,5223,0.41490719270532117
 "Harrison, Kara",Production       ,Production Technician I,Amy Dunn,62065,4.76,4,5,0,4327,0.41475444514468535
-"Carabbio, Joseph",Production       ,Production Technician I,Webster Butler,59315,3.94,3,11,0,4518,0.41457866414010347
-"Clukey, Geoff",Production       ,Production Technician I,Brannon Miller,47308,4.49,3,2,0,6097,0.4142590747821829
-"Harrington, Linda",Production       ,Production Technician I,Ketsia Liebig,62236,2.84,4,6,0,5834,0.4142215927886363
-"Beak, Hannah",Production       ,Production Technician I,Kissy Sullivan,48047,3.93,4,10,0,5618,0.41378048778318066
-"Trang, Donysha",Production       ,Production Technician I,Brannon Miller,48170,4.47,3,3,0,6173,0.4135903855949241
+"Carabbio, Joseph",Production       ,Production Technician I,Webster Butler,59315,3.94,3,11,0,4518,0.41457866414010336
+"Clukey, Geoff",Production       ,Production Technician I,Brannon Miller,47308,4.49,3,2,0,6097,0.41425907478218293
+"Harrington, Linda",Production       ,Production Technician I,Ketsia Liebig,62236,2.84,4,6,0,5834,0.41422159278863624
+"Beak, Hannah",Production       ,Production Technician I,Kissy Sullivan,48047,3.93,4,10,0,5618,0.4137804877831806
+"Trang, Donysha",Production       ,Production Technician I,Brannon Miller,48170,4.47,3,3,0,6173,0.41359038559492406
 "Medeiros, Jennifer",Production       ,Production Technician I,Michael Albert,55688,5.0,4,10,0,4005,0.4131876153885271
 "Billis, Barbara M",Production       ,Production Technician I,Michael Albert,55740,5.0,4,8,0,4036,0.41160314207861376
-"Dunne, Amy",Production       ,Production Technician I,Ketsia Liebig,62514,2.9,3,6,0,5804,0.4111597256036811
-"Smith, Elizabeth",Production       ,Production Technician I,Ketsia Liebig,62227,2.88,2,4,1,5833,0.4105908198916988
-"Horton, Carol",Production       ,Production Technician I,Amy Dunn,62701,4.8,3,5,1,4287,0.41036355634960975
-"Ndzi, Binh",Production       ,Production Technician I,Ketsia Liebig,46306,4.23,4,1,0,4999,0.41003589529808315
-"Costello, Hector",Production       ,Production Technician I,Brannon Miller,53810,3.89,2,11,0,4786,0.4099500203040376
-"Salter, Juan",Production       ,Production Technician I,Elijiah Gray,65444,4.18,3,11,0,4981,0.4099424695394846
-"Ngodup, Shari ",Production       ,Production Technician I,Brannon Miller,52984,4.0,3,12,0,4733,0.4097504906539593
-"Howard, Lindsay",Production       ,Production Technician I,Ketsia Liebig,63721,3.09,3,7,0,5837,0.40887951675312373
-"Brown, Ned",Production       ,Production Technician I,Brannon Miller,56522,4.94,5,1,0,5450,0.40875089993389724
-"Desimone, Judith",Production       ,Production Technician I,Brannon Miller,60293,4.27,5,2,1,5503,0.4079687874618799
-"Desimone, Carl ",Production       ,Production Technician I,Amy Dunn,53189,1.12,2,9,4,4271,0.4078658177317189
+"Dunne, Amy",Production       ,Production Technician I,Ketsia Liebig,62514,2.9,3,6,0,5804,0.411159725603681
+"Smith, Elizabeth",Production       ,Production Technician I,Ketsia Liebig,62227,2.88,2,4,1,5833,0.41059081989169877
+"Horton, Carol",Production       ,Production Technician I,Amy Dunn,62701,4.8,3,5,1,4287,0.41036355634960964
+"Ndzi, Binh",Production       ,Production Technician I,Ketsia Liebig,46306,4.23,4,1,0,4999,0.4100358952980832
+"Costello, Hector",Production       ,Production Technician I,Brannon Miller,53810,3.89,2,11,0,4786,0.40995002030403754
+"Salter, Juan",Production       ,Production Technician I,Elijiah Gray,65444,4.18,3,11,0,4981,0.40994246953948466
+"Ngodup, Shari ",Production       ,Production Technician I,Brannon Miller,52984,4.0,3,12,0,4733,0.40975049065395924
+"Howard, Lindsay",Production       ,Production Technician I,Ketsia Liebig,63721,3.09,3,7,0,5837,0.4088795167531237
+"Brown, Ned",Production       ,Production Technician I,Brannon Miller,56522,4.94,5,1,0,5450,0.4087508999338973
+"Desimone, Judith",Production       ,Production Technician I,Brannon Miller,60293,4.27,5,2,1,5503,0.40796878746188003
+"Desimone, Carl ",Production       ,Production Technician I,Amy Dunn,53189,1.12,2,9,4,4271,0.40786581773171887
 "Panjwani, Mathew",Production       ,Production Technician I,Ketsia Liebig,57375,5.0,5,20,1,4473,0.40644383783422683
-"Williams, Jason",Production       ,Production Manager,Janet King,77885,4.18,4,1,0,4091,0.4061392299213033
-"Gonzalez, Cayo",Production       ,Production Technician I,Brannon Miller,59892,4.5,4,1,0,5363,0.4059781863681788
+"Williams, Jason",Production       ,Production Manager,Janet King,77885,4.18,4,1,0,4091,0.40613922992130325
+"Gonzalez, Cayo",Production       ,Production Technician I,Brannon Miller,59892,4.5,4,1,0,5363,0.40597818636817873
 "Knapp, Leigh Ann",Production       ,Production Technician II,Webster Butler,66357,2.85,3,10,0,4174,0.40573102947158546
-"Landa, Kramer",Production       ,Production Technician I,Amy Dunn,43139,4.47,5,8,1,4508,0.40552049684924396
-"Miller, Lenora",Production       ,Production Technician II,Webster Butler,65183,3.18,3,11,0,4283,0.4052450743257881
+"Landa, Kramer",Production       ,Production Technician I,Amy Dunn,43139,4.47,5,8,1,4508,0.4055204968492439
+"Miller, Lenora",Production       ,Production Technician II,Webster Butler,65183,3.18,3,11,0,4283,0.40524507432578805
 "Erilus, Angela",Production       ,Production Technician II,Michael Albert,56847,3.0,1,5,2,4271,0.40356322612845036
 "Keatts, Kramer ",Production       ,Production Technician I,Michael Albert,50482,3.07,4,10,0,4551,0.4034710877963043
-"Buccheri, Joseph  ",Production       ,Production Technician II,Webster Butler,65288,3.19,3,9,0,4187,0.4033365974411546
-"Fernandes, Renee",Production       ,Production Technician II,Webster Butler,64018,3.45,4,10,0,4235,0.402431033579398
-"Barone, Lucas",Production       ,Production Technician II,Amy Dunn,62796,4.19,2,6,0,4570,0.4015693574524736
+"Buccheri, Joseph  ",Production       ,Production Technician II,Webster Butler,65288,3.19,3,9,0,4187,0.4033365974411545
+"Fernandes, Renee",Production       ,Production Technician II,Webster Butler,64018,3.45,4,10,0,4235,0.40243103357939797
+"Barone, Lucas",Production       ,Production Technician II,Amy Dunn,62796,4.19,2,6,0,4570,0.40156935745247346
 "Lindsay, Travis",Production       ,Production Technician I,Michael Albert,54837,4.64,4,7,0,4045,0.40155325093688105
-"Ivey, James",Production       ,Production Technician I,Kissy Sullivan,54076,4.44,4,8,0,4493,0.4001450501226742
+"Ivey, James",Production       ,Production Technician I,Kissy Sullivan,54076,4.44,4,8,0,4493,0.40014505012267426
 "Soze, Adeel",Production       ,Production Technician II,Kissy Sullivan,65377,4.97,4,19,1,4648,0.3992024554546493
 "Foreman, Biff",Production       ,Production Technician I,Amy Dunn,56716,4.77,4,17,0,5039,0.3987974794535208
-"Potts, Kristie",Production       ,Production Technician I,Amy Dunn,55401,3.97,4,2,0,4147,0.39856341510188403
-"Girifalco, Evelyn",Production       ,Production Technician I,Amy Dunn,57815,3.9,4,3,0,4187,0.39772075769324966
+"Potts, Kristie",Production       ,Production Technician I,Amy Dunn,55401,3.97,4,2,0,4147,0.398563415101884
+"Girifalco, Evelyn",Production       ,Production Technician I,Amy Dunn,57815,3.9,4,3,0,4187,0.39772075769324955
 "Tavares, Martin",Production       ,Production Technician I,Michael Albert,48099,2.87,4,10,2,4622,0.39749389769805804
 "Wilber, Debbie",Production       ,Production Technician I,Kelley Spirea,49223,5.0,3,15,2,4588,0.396713091538467
-"Roper, Dallas",Software Engineering,Software Engineer,Alex Sweetwater,101780,3.74,5,7,0,5154,0.39650469888484374
+"Roper, Dallas",Software Engineering,Software Engineer,Alex Sweetwater,101780,3.74,5,7,0,5154,0.3965046988848438
 "Pearson, Colleen",Production       ,Production Technician II,Webster Butler,65356,3.3,3,8,0,4172,0.3961833340775512
-"Jacobi, Annie",Production       ,Production Technician I,Kissy Sullivan,50393,3.03,4,11,0,4570,0.395530420443099
-"Vega, Hang T",Production       ,Production Technician I,Elijiah Gray,49146,4.19,4,11,1,5558,0.39537511904070294
+"Jacobi, Annie",Production       ,Production Technician I,Kissy Sullivan,50393,3.03,4,11,0,4570,0.39553042044309905
+"Vega, Hang T",Production       ,Production Technician I,Elijiah Gray,49146,4.19,4,11,1,5558,0.395375119040703
 "Kinsella, Allison",Production       ,Production Technician I,Michael Albert,63065,4.31,5,10,0,4052,0.3950558746536441
-"Buccheri, Miguel",Production       ,Production Technician II,Amy Dunn,64405,4.67,4,2,1,5120,0.3950372858193258
+"Buccheri, Miguel",Production       ,Production Technician II,Amy Dunn,64405,4.67,4,2,1,5120,0.39503728581932573
 "Saada, Rick",Production       ,Production Technician II,Kelley Spirea,64259,4.65,3,18,1,4478,0.3949672958820305
-"Ndzi, Martin",Production       ,Production Technician II,Webster Butler,68177,3.0,3,8,0,4125,0.3945812655123397
-"Owad, Noah",Production       ,Production Technician I,Janet King,47965,4.43,4,9,0,5543,0.39453065764311107
+"Ndzi, Martin",Production       ,Production Technician II,Webster Butler,68177,3.0,3,8,0,4125,0.3945812655123396
+"Owad, Noah",Production       ,Production Technician I,Janet King,47965,4.43,4,9,0,5543,0.394530657643111
 "Vega, Simon",Production       ,Production Technician I,Amy Dunn,49620,4.99,3,16,0,4613,0.39312442297843053
 "Lundy, Denisa S",Production       ,Production Technician II,Amy Dunn,58646,3.36,2,14,0,5270,0.39298867029463563
-"Cloninger, Hans",Production       ,Production Technician II,Ketsia Liebig,63281,3.27,5,18,0,5491,0.3913906329661127
-"Singh, Jeanette",Production       ,Production Technician II,Amy Dunn,62968,4.49,4,4,0,5129,0.3912984074160552
+"Cloninger, Hans",Production       ,Production Technician II,Ketsia Liebig,63281,3.27,5,18,0,5491,0.39139063296611276
+"Singh, Jeanette",Production       ,Production Technician II,Amy Dunn,62968,4.49,4,4,0,5129,0.39129840741605526
 "Gaul, Kylo",Production       ,Production Technician I,Webster Butler,46096,4.29,5,15,0,5190,0.39119603174444495
 "Carabbio, Carol",Production       ,Production Technician II,David Stanley,67783,4.56,3,20,0,4392,0.3905449336302316
 "Simard, Sophia",Production       ,Production Technician I,Elijiah Gray,64547,4.93,5,15,0,6703,0.38924501813975243
@@ -118,107 +118,107 @@ Employee_Name,Department,Position,ManagerName,Salary,EngagementSurvey,EmpSatisfa
 "Pelletier, Luisa",Production       ,Production Technician I,Elijiah Gray,62820,5.0,5,15,0,6598,0.3883211321062981
 "Alagbe,Trina",Production       ,Production Technician I,Elijiah Gray,64991,4.84,5,15,0,6644,0.3881227012180598
 "Johnston, Francesco A",Production       ,Production Technician I,Amy Dunn,52237,4.71,4,17,0,4708,0.388030765614963
-"Burke, Joelle",Production       ,Production Technician II,Amy Dunn,63763,4.51,4,3,0,5125,0.38747037008964985
+"Burke, Joelle",Production       ,Production Technician II,Amy Dunn,63763,4.51,4,3,0,5125,0.3874703700896499
 "Robinson, Lynn",Production       ,Production Technician II,Elijiah Gray,75215,4.19,4,18,0,4628,0.3874464901083519
 "Peterson, Vito",Production       ,Production Technician I,Webster Butler,47463,4.63,5,15,1,5185,0.3873488401999817
-"Sullivan, Kissy ",Production       ,Production Manager,Janet King,63682,3.73,4,12,0,6277,0.3870890706264924
+"Sullivan, Kissy ",Production       ,Production Manager,Janet King,63682,3.73,4,12,0,6277,0.38708907062649234
 "Driver, Travis",Production       ,Production Technician I,David Stanley,61807,2.12,5,19,4,4319,0.38620962969568623
-"Fernandes, Nilson  ",Production       ,Production Technician I,Amy Dunn,64057,1.56,5,15,6,3963,0.38558064371165257
-"Dee, Randy",Production       ,Production Technician I,Brannon Miller,56991,4.3,4,2,2,2808,0.38420696106539964
-"Clayton, William",Production       ,Production Technician I,Amy Dunn,63479,1.41,5,15,6,3965,0.3836499734174707
+"Fernandes, Nilson  ",Production       ,Production Technician I,Amy Dunn,64057,1.56,5,15,6,3963,0.3855806437116525
+"Dee, Randy",Production       ,Production Technician I,Brannon Miller,56991,4.3,4,2,2,2808,0.3842069610653997
+"Clayton, William",Production       ,Production Technician I,Amy Dunn,63479,1.41,5,15,6,3965,0.38364997341747076
 "Burkett, Benjamin ",Production       ,Production Technician II,Ketsia Liebig,62162,3.25,5,15,0,5461,0.3835864322212648
-"Kirill, Annie",Production       ,Production Technician I,Janet King,49272,4.33,4,1,1,4377,0.3833738855071332
+"Kirill, Annie",Production       ,Production Technician I,Janet King,49272,4.33,4,1,1,4377,0.38337388550713314
 "Beak, Colleen",Production       ,Production Technician II,Elijiah Gray,69762,4.46,4,20,1,4589,0.3828069538274409
-"Nowlan, Kristie",Production       ,Production Technician II,Elijiah Gray,66738,4.53,5,5,0,4145,0.3816962354953877
-"Cornett, Lisa ",Production       ,Production Technician I,Kelley Spirea,63381,4.73,5,6,0,4089,0.3816170722667619
+"Nowlan, Kristie",Production       ,Production Technician II,Elijiah Gray,66738,4.53,5,5,0,4145,0.38169623549538767
+"Cornett, Lisa ",Production       ,Production Technician I,Kelley Spirea,63381,4.73,5,6,0,4089,0.38161707226676195
 "Goyal, Anthony",Production       ,Production Technician I,Webster Butler,45859,4.74,4,14,0,5255,0.38130919576615874
 "Perry, Lauren",Production       ,Production Technician I,Kelley Spirea,60679,4.94,5,7,0,4149,0.3811364454206494
 "Anderson, Linda  ",Production       ,Production Technician I,Amy Dunn,57568,5.0,5,15,0,5181,0.380934801369063
-"Roper, Karen",Production       ,Production Technician I,Amy Dunn,65133,1.62,4,12,6,3981,0.380775237510906
-"Lydon, Allison",Production       ,Production Technician I,Elijiah Gray,52057,5.0,3,6,0,4047,0.38029612039093186
+"Roper, Karen",Production       ,Production Technician I,Amy Dunn,65133,1.62,4,12,6,3981,0.3807752375109059
+"Lydon, Allison",Production       ,Production Technician I,Elijiah Gray,52057,5.0,3,6,0,4047,0.3802961203909318
 "Landa, Thomas",Production       ,Production Technician I,Webster Butler,53728,4.01,4,9,0,4572,0.3796032909485683
-"Corleone, Michael",Production       ,Production Manager,Janet King,68051,4.13,2,3,3,5719,0.3793822613507391
-"Lajiri, Theresa",Production       ,Production Technician I,Elijiah Gray,64883,4.97,5,14,0,6560,0.37912556342042913
-"Smith, John",Sales,Sales Manager,Debra Houlihan,72992,2.4,4,16,2,4321,0.37902704743945204
-"Stanford, Maria",Production       ,Production Technician II,Amy Dunn,65042,4.32,5,1,0,5142,0.37899367880848944
+"Corleone, Michael",Production       ,Production Manager,Janet King,68051,4.13,2,3,3,5719,0.37938226135073916
+"Lajiri, Theresa",Production       ,Production Technician I,Elijiah Gray,64883,4.97,5,14,0,6560,0.3791255634204291
+"Smith, John",Sales,Sales Manager,Debra Houlihan,72992,2.4,4,16,2,4321,0.379027047439452
+"Stanford, Maria",Production       ,Production Technician II,Amy Dunn,65042,4.32,5,1,0,5142,0.3789936788084894
 "Lydon, Jason",Production       ,Production Technician I,Ketsia Liebig,67462,4.79,5,15,0,6581,0.37862888890469315
-"Kreuger, Earnest",Sales,Sales Manager,Debra Houlihan,73686,2.39,5,19,2,4324,0.3786063128596105
-"Mckenna, Jessica",Production       ,Production Technician II,Kelley Spirea,56182,4.21,3,13,0,5705,0.37844024809345866
+"Kreuger, Earnest",Sales,Sales Manager,Debra Houlihan,73686,2.39,5,19,2,4324,0.37860631285961055
+"Mckenna, Jessica",Production       ,Production Technician II,Kelley Spirea,56182,4.21,3,13,0,5705,0.3784402480934587
 "Onque, Miguel",Production       ,Production Technician I,Webster Butler,45983,4.33,5,14,0,5207,0.37822076056822407
 "Kretschmer, John",Production       ,Production Technician I,Brannon Miller,63973,3.38,3,17,0,5545,0.37796685366688443
-"Perry, Hang T",Production       ,Production Manager,Kissy Sullivan,69583,5.0,3,14,1,3785,0.3777717555087089
-"Latif, Elle",Production       ,Production Technician I,Brannon Miller,56309,4.34,4,2,2,2808,0.3773776409305731
-"True, Theresa",Production       ,Production Technician I,David Stanley,62563,2.4,5,20,3,4500,0.37715095182908676
+"Perry, Hang T",Production       ,Production Manager,Kissy Sullivan,69583,5.0,3,14,1,3785,0.37777175550870884
+"Latif, Elle",Production       ,Production Technician I,Brannon Miller,56309,4.34,4,2,2,2808,0.37737764093057313
+"True, Theresa",Production       ,Production Technician I,David Stanley,62563,2.4,5,20,3,4500,0.3771509518290868
 "Fraval, Susan",Production       ,Production Technician I,Amy Dunn,54069,5.0,3,14,0,4531,0.3768551914595612
-"Sahoo, Adil",Production       ,Production Technician II,Kelley Spirea,57975,4.1,3,13,0,5678,0.3758274460062319
-"Dunne, Shenice",Production       ,Production Technician II,Elijiah Gray,65224,4.25,5,4,0,4213,0.375015868959234
+"Sahoo, Adil",Production       ,Production Technician II,Kelley Spirea,57975,4.1,3,13,0,5678,0.37582744600623186
+"Dunne, Shenice",Production       ,Production Technician II,Elijiah Gray,65224,4.25,5,4,0,4213,0.37501586895923394
 "Shields, Seffi",Production       ,Production Technician I,Amy Dunn,52087,4.81,4,15,0,4593,0.37495630214829506
-"Dobrin, Denisa  S",Production       ,Production Technician I,David Stanley,46335,3.4,5,15,0,5097,0.3748967832192666
+"Dobrin, Denisa  S",Production       ,Production Technician I,David Stanley,46335,3.4,5,15,0,5097,0.3748967832192667
 "Chan, Lin",Production       ,Production Technician I,Elijiah Gray,54237,3.3,4,11,0,4327,0.37446748846532973
-"Winthrop, Lin",Production       ,Production Technician I,Amy Dunn,58898,4.22,4,11,1,4574,0.37414380290301313
+"Winthrop, Lin",Production       ,Production Technician I,Amy Dunn,58898,4.22,4,11,1,4574,0.3741438029030131
 "Landa, Joanne",Production       ,Production Technician I,Kelley Spirea,57665,3.2,5,12,0,4331,0.37403979789901326
 "Forrest, Sarah",Production       ,Production Technician II,Webster Butler,66837,4.61,4,6,0,3903,0.37379957829853
-"Carter, Dheepa",Production       ,Production Technician I,Brannon Miller,56145,4.24,3,3,1,2808,0.37368779899684124
+"Carter, Dheepa",Production       ,Production Technician I,Brannon Miller,56145,4.24,3,3,1,2808,0.3736877989968413
 "Sutwell, Barbara",Production       ,Production Technician I,Elijiah Gray,59238,3.4,5,13,0,5055,0.373565083478707
-"Perry, Alex",Production       ,Production Technician I,Ketsia Liebig,43761,3.16,2,5,0,4538,0.37335465979632937
+"Perry, Alex",Production       ,Production Technician I,Ketsia Liebig,43761,3.16,2,5,0,4538,0.3733546597963294
 "Dobrin, Kramer",Production       ,Production Technician I,David Stanley,63752,3.37,3,18,0,5461,0.3732188324495746
-"Potts, Enola",Production       ,Production Technician I,David Stanley,62750,2.55,5,20,4,4430,0.3731641420332077
+"Potts, Enola",Production       ,Production Technician I,David Stanley,62750,2.55,5,20,4,4430,0.37316414203320775
 "Andreola, Jac",Production       ,Production Technician I,David Stanley,62137,2.68,4,17,3,4395,0.37310129359335403
-"Smith, Haley",Production       ,Production Technician I,Amy Dunn,52273,4.81,5,14,0,4555,0.37308983754617675
-"Roby, Jene'ya",Production       ,Production Technician I,David Stanley,43928,5.0,5,13,0,4974,0.37216434625863476
+"Smith, Haley",Production       ,Production Technician I,Amy Dunn,52273,4.81,5,14,0,4555,0.3730898375461768
+"Roby, Jene'ya",Production       ,Production Technician I,David Stanley,43928,5.0,5,13,0,4974,0.3721643462586348
 "McKinzie, Benjamin",Production       ,Production Technician I,Amy Dunn,57247,4.85,5,13,1,5133,0.372131397325228
-"Kirill, Donysha",Production       ,Production Technician I,Kelley Spirea,65421,4.79,5,6,0,4020,0.3719316857247371
+"Kirill, Donysha",Production       ,Production Technician I,Kelley Spirea,65421,4.79,5,6,0,4020,0.37193168572473717
 "Sloan, Maryellen",Production       ,Production Technician I,Amy Dunn,55642,4.97,5,13,0,5078,0.37192053501492134
-"Sadki, Michael",Production       ,Production Technician I,Elijiah Gray,60258,3.61,5,12,0,5004,0.37129284881652536
+"Sadki, Michael",Production       ,Production Technician I,Elijiah Gray,60258,3.61,5,12,0,5004,0.37129284881652524
 "Robinson, Elizabeth",Production       ,Production Technician I,Amy Dunn,52839,4.41,5,14,0,4741,0.37128990832027464
-"Faller, Tyrone",Production       ,Production Technician I,David Stanley,51281,4.86,4,7,1,5501,0.37097564365275504
-"Gaul, Linda",Production       ,Production Technician II,Janet King,63528,4.5,3,8,1,3931,0.37042476990570816
-"Keatts, Ketsia",Production       ,Production Technician II,Ketsia Liebig,56568,3.85,3,10,1,5683,0.37022110464565655
+"Faller, Tyrone",Production       ,Production Technician I,David Stanley,51281,4.86,4,7,1,5501,0.3709756436527551
+"Gaul, Linda",Production       ,Production Technician II,Janet King,63528,4.5,3,8,1,3931,0.3704247699057081
+"Keatts, Ketsia",Production       ,Production Technician II,Ketsia Liebig,56568,3.85,3,10,1,5683,0.3702211046456565
 "Navathe, Yen",Production       ,Production Technician I,Brannon Miller,62568,2.32,2,20,6,5233,0.3701715200198162
 "Kreuger, Barbara",Production       ,Production Technician I,Ketsia Liebig,64634,4.88,3,18,1,4317,0.3700821619893363
 "Petingill, Charlie",Production       ,Production Technician I,Brannon Miller,67245,2.59,1,19,6,5112,0.37005493783953997
 "Trang, Mei",Production       ,Production Technician I,David Stanley,63025,2.44,5,18,4,4411,0.3697198963252495
-"Jung, Linda",Production       ,Production Technician I,Brannon Miller,53736,3.89,3,15,0,4559,0.3695198980221548
-"Maurice, Shana",Production       ,Production Technician I,David Stanley,54132,5.0,4,8,0,5404,0.3687118888709247
+"Jung, Linda",Production       ,Production Technician I,Brannon Miller,53736,3.89,3,15,0,4559,0.36951989802215485
+"Maurice, Shana",Production       ,Production Technician I,David Stanley,54132,5.0,4,8,0,5404,0.36871188887092476
 "DiNocco, Lily ",Production       ,Production Technician I,Brannon Miller,61584,3.88,4,6,0,4817,0.36866256319594676
 "Smith, May",Production       ,Production Technician I,David Stanley,45788,3.38,5,15,1,5133,0.36820321692497854
-"Nguyen, Leonara",Production       ,Production Technician I,Brannon Miller,60797,4.02,3,6,0,4862,0.36811739588425946
+"Nguyen, Leonara",Production       ,Production Technician I,Brannon Miller,60797,4.02,3,6,0,4862,0.3681173958842595
 "Hutter, Rosalie",Production       ,Production Technician II,Webster Butler,64995,4.5,3,6,0,3938,0.3680965919895389
-"Tippett, Jeanette",Production       ,Production Technician I,Brannon Miller,56339,4.21,5,4,0,4775,0.3680697842988883
-"Immediato, John",Production       ,Production Technician I,Elijiah Gray,65182,4.93,5,12,0,6667,0.3678410593741768
-"Purinton, Sneha",Production       ,Production Technician I,Brannon Miller,54675,3.64,5,3,0,4824,0.3673991572990196
+"Tippett, Jeanette",Production       ,Production Technician I,Brannon Miller,56339,4.21,5,4,0,4775,0.36806978429888826
+"Immediato, John",Production       ,Production Technician I,Elijiah Gray,65182,4.93,5,12,0,6667,0.3678410593741769
+"Purinton, Sneha",Production       ,Production Technician I,Brannon Miller,54675,3.64,5,3,0,4824,0.36739915729901973
 "Theamstern, Donovan E",Production       ,Production Technician I,Brannon Miller,63031,4.97,3,19,0,4258,0.36715501054607597
 "Billis, Helen",Production       ,Production Technician I,Brannon Miller,62910,5.0,3,19,0,4271,0.36715501054607597
 "Zhou, Myriam",Production       ,Production Technician I,Brannon Miller,53139,3.94,4,13,2,4543,0.36706368870807693
-"Sparks, Taylor  ",Production       ,Production Technician I,Brannon Miller,64021,2.4,2,20,6,5139,0.3670294606813828
+"Sparks, Taylor  ",Production       ,Production Technician I,Brannon Miller,64021,2.4,2,20,6,5139,0.3670294606813829
 "Roup, Quinn",Production       ,Production Technician I,David Stanley,47453,3.18,5,13,0,5096,0.36672953876700704
-"Ferguson, Ann",Production       ,Production Technician II,Brannon Miller,66055,2.17,3,4,2,5410,0.36639554497926213
-"Salter, Lenora",Production       ,Production Technician I,Elijiah Gray,59387,3.07,5,10,1,5136,0.36628718743431626
-"Gold, Shenice  ",Production       ,Production Technician I,Ketsia Liebig,53018,4.3,5,7,0,4509,0.3658446884682803
+"Ferguson, Ann",Production       ,Production Technician II,Brannon Miller,66055,2.17,3,4,2,5410,0.3663955449792621
+"Salter, Lenora",Production       ,Production Technician I,Elijiah Gray,59387,3.07,5,10,1,5136,0.3662871874343162
+"Gold, Shenice  ",Production       ,Production Technician I,Ketsia Liebig,53018,4.3,5,7,0,4509,0.36584468846828033
 "Biden, Kylo",Production       ,Production Technician I,Amy Dunn,54141,5.0,4,14,0,4631,0.3658393854687366
-"Ivey, Rose ",Production       ,Production Technician I,Brannon Miller,51908,3.99,3,14,0,4593,0.3657696110585283
-"Martin, Sandra",Software Engineering,Software Engineer,Alex Sweetwater,105688,4.5,5,14,0,4509,0.36564717794272206
-"Martin, Earnest",Production       ,Production Technician I,Kissy Sullivan,47943,4.06,5,11,0,5588,0.3656263815783074
-"Pearson, Kramer",Production       ,Production Technician I,David Stanley,51722,2.88,4,7,1,4471,0.36538196982852233
-"Spirea, Susan",Production       ,Production Technician I,Brannon Miller,56859,4.4,4,5,0,4830,0.3650381589267437
+"Ivey, Rose ",Production       ,Production Technician I,Brannon Miller,51908,3.99,3,14,0,4593,0.36576961105852834
+"Martin, Sandra",Software Engineering,Software Engineer,Alex Sweetwater,105688,4.5,5,14,0,4509,0.3656471779427221
+"Martin, Earnest",Production       ,Production Technician I,Kissy Sullivan,47943,4.06,5,11,0,5588,0.36562638157830735
+"Pearson, Kramer",Production       ,Production Technician I,David Stanley,51722,2.88,4,7,1,4471,0.3653819698285223
+"Spirea, Susan",Production       ,Production Technician I,Brannon Miller,56859,4.4,4,5,0,4830,0.3650381589267436
 "Dietrich, Debbie",Production       ,Production Technician II,Webster Butler,62541,4.45,3,11,1,3911,0.3649111995692145
-"Rose, Ashley  ",Production       ,Production Technician I,David Stanley,60627,5.0,4,8,0,4453,0.3646563191638372
-"Langford, Allison",Production       ,Production Technician I,David Stanley,61073,5.0,4,10,0,4556,0.3645296637195154
-"Eaton, Louis",Production       ,Production Technician II,Webster Butler,64678,4.45,3,5,0,3867,0.363550076879464
-"Miller, Brannon",Production       ,Production Manager,Janet King,83667,4.37,3,2,0,4961,0.3628546038882866
-"Burke, Lynn",Production       ,Production Technician I,Kelley Spirea,61300,4.86,3,12,0,4465,0.36273856148989203
-"Gonzalez, Lauren",Software Engineering,Software Engineering Manager,Alex Sweetwater,80355,3.78,3,3,0,5296,0.3618859962632002
-"Robinson, Mia",Production       ,Production Technician I,Kissy Sullivan,48453,4.1,4,7,0,5529,0.36185173847496377
+"Rose, Ashley  ",Production       ,Production Technician I,David Stanley,60627,5.0,4,8,0,4453,0.36465631916383723
+"Langford, Allison",Production       ,Production Technician I,David Stanley,61073,5.0,4,10,0,4556,0.36452966371951534
+"Eaton, Louis",Production       ,Production Technician II,Webster Butler,64678,4.45,3,5,0,3867,0.36355007687946395
+"Miller, Brannon",Production       ,Production Manager,Janet King,83667,4.37,3,2,0,4961,0.36285460388828655
+"Burke, Lynn",Production       ,Production Technician I,Kelley Spirea,61300,4.86,3,12,0,4465,0.362738561489892
+"Gonzalez, Lauren",Software Engineering,Software Engineering Manager,Alex Sweetwater,80355,3.78,3,3,0,5296,0.36188599626320017
+"Robinson, Mia",Production       ,Production Technician I,Kissy Sullivan,48453,4.1,4,7,0,5529,0.3618517384749637
 "Robertson, Jessica",Sales,Sales Manager,Debra Houlihan,70705,2.42,4,14,1,4261,0.36142794373412374
-"Fraval, Shenice",Production       ,Production Technician II,Kissy Sullivan,67600,3.96,4,16,1,4236,0.36141045523462045
-"Roehrich, Jack",Production       ,Production Technician I,Ketsia Liebig,61751,4.82,5,6,1,4089,0.3612514887672449
-"Dickinson, Geoff ",Production       ,Production Technician I,Ketsia Liebig,51259,4.3,4,1,0,4327,0.36017099434998373
-"Guilianno, John",Production       ,Production Technician I,Ketsia Liebig,65326,1.42,4,15,5,3915,0.35966336209692146
-"Motlagh, Sneha",Production       ,Production Technician I,Brannon Miller,60755,5.0,3,17,0,4318,0.3596485924512649
+"Fraval, Shenice",Production       ,Production Technician II,Kissy Sullivan,67600,3.96,4,16,1,4236,0.3614104552346205
+"Roehrich, Jack",Production       ,Production Technician I,Ketsia Liebig,61751,4.82,5,6,1,4089,0.36125148876724494
+"Dickinson, Geoff ",Production       ,Production Technician I,Ketsia Liebig,51259,4.3,4,1,0,4327,0.3601709943499837
+"Guilianno, John",Production       ,Production Technician I,Ketsia Liebig,65326,1.42,4,15,5,3915,0.3596633620969214
+"Motlagh, Sneha",Production       ,Production Technician I,Brannon Miller,60755,5.0,3,17,0,4318,0.359648592451265
 "Khemmich, Kimberly",Production       ,Production Technician I,Michael Albert,55905,4.43,3,7,4,4533,0.3590244848798306
-"Billis, Jackie",Production       ,Production Technician II,Michael Albert,66183,2.16,3,4,2,5478,0.3578943155276848
-"Clayton, Carl",Production       ,Production Technician I,Ketsia Liebig,66181,3.53,5,4,0,5194,0.3564637504842602
-"Darson, Jene'ya ",Production       ,Production Technician I,Elijiah Gray,57583,5.0,3,1,0,5006,0.35615251677322884
+"Billis, Jackie",Production       ,Production Technician II,Michael Albert,66183,2.16,3,4,2,5478,0.35789431552768475
+"Clayton, Carl",Production       ,Production Technician I,Ketsia Liebig,66181,3.53,5,4,0,5194,0.3564637504842603
+"Darson, Jene'ya ",Production       ,Production Technician I,Elijiah Gray,57583,5.0,3,1,0,5006,0.3561525167732289
 "Sewkumar, Anna",Production       ,Production Technician I,Ketsia Liebig,59507,4.97,5,20,0,4524,0.3560511748592332
 "Owad, Clinton",Production       ,Production Technician I,Michael Albert,53060,4.25,3,6,4,4411,0.35587591993509765
 "Blount, Dianna",Production       ,Production Technician II,Michael Albert,66441,2.0,3,3,2,5461,0.3555359066917036
@@ -226,40 +226,40 @@ Employee_Name,Department,Position,ManagerName,Salary,EngagementSurvey,EmpSatisfa
 "Stansfield, Rose",Production       ,Production Technician II,Michael Albert,64169,1.86,3,4,2,5453,0.3553245839547829
 "Winthrop, Benjamin",Production       ,Production Technician I,Ketsia Liebig,67675,3.72,5,6,0,5257,0.35494476250195195
 "Cady, Kissy",Production       ,Production Technician I,Ketsia Liebig,59793,5.0,4,20,0,4509,0.35444361585753115
-"Villanueva, Anthony",Production       ,Production Technician I,Elijiah Gray,54129,4.83,3,1,0,4906,0.35405019651580494
+"Villanueva, Anthony",Production       ,Production Technician I,Elijiah Gray,54129,4.83,3,1,0,4906,0.354050196515805
 "Cierpiszewski, Caroline  ",Production       ,Production Technician I,Ketsia Liebig,64816,3.58,5,3,0,5279,0.35362694419604734
-"Athwal, Sandy",Production       ,Production Technician I,Ketsia Liebig,49422,4.31,4,3,1,4363,0.35352968845966176
+"Athwal, Sandy",Production       ,Production Technician I,Ketsia Liebig,49422,4.31,4,3,1,4363,0.3535296884596617
 "Williams, David",Production       ,Production Technician I,Kissy Sullivan,47558,4.18,5,2,0,4541,0.3532830297736339
 "Villanueva, Donysha",Production       ,Production Technician I,Ketsia Liebig,42794,4.62,4,17,2,4463,0.35321611897737715
-"Gross, Rosalie",Production       ,Production Technician II,Michael Albert,66757,1.91,4,3,1,5524,0.35293319360704795
-"Jacobi, Hannah  ",Production       ,Production Technician I,Kissy Sullivan,45069,4.3,5,7,0,4551,0.35253871870974746
-"Mckenna, Lauren",Production       ,Production Technician I,Kissy Sullivan,42794,4.05,5,9,0,4538,0.3514621544429063
-"Sander, April",Production       ,Production Technician I,Janet King,47726,5.0,3,12,0,4462,0.35141716992515654
-"Myers, Amy",Production       ,Production Technician II,Brannon Miller,72682,4.14,3,16,1,5086,0.3509744984159402
+"Gross, Rosalie",Production       ,Production Technician II,Michael Albert,66757,1.91,4,3,1,5524,0.3529331936070479
+"Jacobi, Hannah  ",Production       ,Production Technician I,Kissy Sullivan,45069,4.3,5,7,0,4551,0.3525387187097475
+"Mckenna, Lauren",Production       ,Production Technician I,Kissy Sullivan,42794,4.05,5,9,0,4538,0.35146215444290635
+"Sander, April",Production       ,Production Technician I,Janet King,47726,5.0,3,12,0,4462,0.3514171699251566
+"Myers, Amy",Production       ,Production Technician II,Brannon Miller,72682,4.14,3,16,1,5086,0.35097449841594025
 "Davis, Daniel",Production       ,Production Technician II,Kissy Sullivan,56294,3.96,4,6,0,5244,0.35070603504923303
-"Quinn, Hans",Production       ,Production Technician II,Kissy Sullivan,72228,4.51,4,1,0,4619,0.35049683472481236
-"Monterro, Luisa",Production       ,Production Technician II,Kissy Sullivan,72460,4.7,3,1,0,4691,0.35027780295276884
-"Cady, Ashley",Production       ,Production Technician I,Kissy Sullivan,59167,5.0,5,12,0,5474,0.3497018036576815
-"Candie, Calvin",Production       ,Production Manager,Janet King,72640,5.0,3,14,0,3701,0.3496878332269912
+"Quinn, Hans",Production       ,Production Technician II,Kissy Sullivan,72228,4.51,4,1,0,4619,0.3504968347248124
+"Monterro, Luisa",Production       ,Production Technician II,Kissy Sullivan,72460,4.7,3,1,0,4691,0.3502778029527689
+"Cady, Ashley",Production       ,Production Technician I,Kissy Sullivan,59167,5.0,5,12,0,5474,0.34970180365768144
+"Candie, Calvin",Production       ,Production Manager,Janet King,72640,5.0,3,14,0,3701,0.34968783322699115
 "Hunts, Constance",Production       ,Production Technician I,Kissy Sullivan,48907,4.21,5,3,0,4661,0.3491603875238731
 "Goyal, Roxana",Production       ,Production Technician I,Kissy Sullivan,49256,4.1,5,3,0,4593,0.3491603875238731
 "Harrington, Jayne",Production       ,Production Technician I,Kelley Spirea,47358,4.85,4,13,1,4437,0.34797656955350365
 "Hutter, Scott",Production       ,Production Technician I,Webster Butler,48576,4.78,2,12,0,4574,0.3475948314236001
-"Biden, Lowan  M",Production       ,Production Technician I,Ketsia Liebig,64919,4.2,3,2,0,4593,0.3471481073669568
+"Biden, Lowan  M",Production       ,Production Technician I,Ketsia Liebig,64919,4.2,3,2,0,4593,0.3471481073669567
 "Carthy, Betsy",Production       ,Production Technician I,Ketsia Liebig,62969,3.73,4,7,1,5256,0.3471457223332378
 "Erilus, Shari",Production       ,Production Technician I,Kissy Sullivan,57049,3.9,4,14,0,4674,0.3468438968883011
 "Beak, Kimberly  ",Production       ,Production Technician II,Kelley Spirea,70131,4.4,3,16,0,3526,0.3453679980133131
-"Trang, Linda",Production       ,Production Technician I,Michael Albert,55212,3.89,5,16,0,3542,0.3450860227098629
-"Rhoads, Dallas",Production       ,Production Technician I,Kissy Sullivan,53290,4.51,4,13,0,4333,0.34507658721754647
+"Trang, Linda",Production       ,Production Technician I,Michael Albert,55212,3.89,5,16,0,3542,0.3450860227098628
+"Rhoads, Dallas",Production       ,Production Technician I,Kissy Sullivan,53290,4.51,4,13,0,4333,0.3450765872175464
 "Smith, Sade",Production       ,Production Technician I,Ketsia Liebig,58939,3.73,3,16,0,4509,0.34503377372120453
 "Myers, Michael",Production       ,Production Technician I,Kissy Sullivan,57575,4.1,4,13,0,4635,0.3444775835218768
 "Martin, Juan",Production       ,Production Technician I,Kissy Sullivan,57158,4.26,4,13,0,4677,0.3444775835218768
 "Carthy, B'rigit",Production       ,Production Technician II,Ketsia Liebig,55315,5.0,5,16,0,4005,0.34439639178811615
-"Goble, Desiree",Production       ,Production Technician I,Michael Albert,57894,3.81,5,17,0,3569,0.3443339548979106
+"Goble, Desiree",Production       ,Production Technician I,Michael Albert,57894,3.81,5,17,0,3569,0.3443339548979105
 "Shepard, Enola",Production       ,Production Technician II,Michael Albert,64262,2.14,3,1,3,5576,0.34415697281385493
 "Kampew, Brandon R",Sales,Sales Manager,Debra Houlihan,73726,2.48,4,17,1,4376,0.3440982998315361
-"Jeannite, Tayana",Production       ,Production Technician II,Ketsia Liebig,60724,4.6,4,11,0,5369,0.3433520028496745
-"Woodson, Jason",Production       ,Production Technician II,Kissy Sullivan,65893,4.07,4,13,0,4271,0.3426863750500378
+"Jeannite, Tayana",Production       ,Production Technician II,Ketsia Liebig,60724,4.6,4,11,0,5369,0.34335200284967443
+"Woodson, Jason",Production       ,Production Technician II,Kissy Sullivan,65893,4.07,4,13,0,4271,0.34268637505003774
 "Petingill, Shana  ",Production       ,Production Technician II,Brannon Miller,74226,4.3,3,14,0,5097,0.3426619561786109
 "Nguyen, Alex",Production       ,Production Technician I,Ketsia Liebig,60204,3.78,3,16,1,4483,0.34228683248834585
 "Osturnka, Adeel",Production       ,Production Technician I,Kelley Spirea,47414,5.0,3,13,0,4551,0.3416447826482793
@@ -272,66 +272,66 @@ Employee_Name,Department,Position,ManagerName,Salary,EngagementSurvey,EmpSatisfa
 "Motlagh,  Dawn",Production       ,Production Technician I,Elijiah Gray,63430,4.4,4,18,0,4733,0.3400108125700773
 "Gentry, Mildred",Production       ,Production Technician I,Michael Albert,51337,3.73,3,19,0,4005,0.3397847470931859
 "Chivukula, Jordan",Production       ,Production Technician I,Ketsia Liebig,65678,4.14,3,1,0,4458,0.33972857693797387
-"Liebig, Ketsia",Production       ,Production Manager,Janet King,77915,4.1,3,11,0,4551,0.3396588860306897
+"Liebig, Ketsia",Production       ,Production Manager,Janet King,77915,4.1,3,11,0,4551,0.33965888603068967
 "Robinson, Dawn",Production       ,Production Technician II,Kelley Spirea,69667,4.52,3,16,1,3685,0.3386379173840441
 "Ren, Christie",Production       ,Production Technician II,David Stanley,67004,4.59,3,20,1,4318,0.33844061813462434
 "Kirill, Leigh Ann",Production       ,Production Technician I,Michael Albert,54335,4.17,5,14,0,3514,0.3384390529474529
-"Maurice, Ming",Production       ,Production Manager,Janet King,77423,3.8,3,12,0,4485,0.3381339988118652
+"Maurice, Ming",Production       ,Production Manager,Janet King,77423,3.8,3,12,0,4485,0.33813399881186523
 "Good, Susan",Production       ,Production Technician II,David Stanley,66825,4.6,3,20,0,4327,0.3376795685375167
-"Guilianno, Sneha",Production       ,Production Technician II,Elijiah Gray,58645,4.46,3,3,1,4114,0.33749626306219355
-"Becker, Randy",Software Engineering,Software Engineering Manager,Jennifer Zamora,82137,3.58,3,6,0,5387,0.3373016198332178
+"Guilianno, Sneha",Production       ,Production Technician II,Elijiah Gray,58645,4.46,3,3,1,4114,0.3374962630621936
+"Becker, Randy",Software Engineering,Software Engineering Manager,Jennifer Zamora,82137,3.58,3,6,0,5387,0.33730161983321777
 "Miller, Bradley J",Production       ,Production Technician I,Kissy Sullivan,60900,4.26,3,12,0,4548,0.33671196217343574
-"Dickinson, Mike",Production       ,Production Technician II,David Stanley,68892,4.45,4,20,0,4400,0.3366428450201517
+"Dickinson, Mike",Production       ,Production Technician II,David Stanley,68892,4.45,4,20,0,4400,0.33664284502015174
 "Linares, Barbara",Production       ,Production Technician II,Elijiah Gray,70690,4.39,5,19,2,4127,0.3366002503960414
-"Keatts, Scott",Production       ,Production Technician I,Kissy Sullivan,53060,4.18,3,7,0,3979,0.3362495500682402
-"Smith, Joe",Production       ,Production Technician II,Elijiah Gray,60656,4.3,3,4,0,4187,0.33477571085347346
+"Keatts, Scott",Production       ,Production Technician I,Kissy Sullivan,53060,4.18,3,7,0,3979,0.33624955006824025
+"Smith, Joe",Production       ,Production Technician II,Elijiah Gray,60656,4.3,3,4,0,4187,0.3347757108534734
 "Shields, Jeanette",Production       ,Production Technician II,Brannon Miller,61107,4.7,3,1,0,4243,0.33397878230558276
 "Gordon, Lei-Ming",Production       ,Production Technician I,Brannon Miller,51622,3.9,4,6,0,3430,0.3337324936633808
-"Crimmings,   Jean",Production       ,Production Technician I,Michael Albert,56149,4.12,5,15,0,3541,0.3336032598158665
+"Crimmings,   Jean",Production       ,Production Technician I,Michael Albert,56149,4.12,5,15,0,3541,0.3336032598158666
 "Hendrickson, James",Production       ,Production Technician II,Webster Butler,62076,4.87,3,4,0,3612,0.3327459619672709
 "Adinolfi, Wilson  K",Production       ,Production Technician I,Michael Albert,62506,4.6,5,1,0,5369,0.3313374050354843
 "Gruber, Maryellen",Production       ,Production Technician I,Michael Albert,61405,4.64,4,1,0,5289,0.3310334315537316
 "Newman, Scott",Production       ,Production Technician II,Janet King,67696,3.91,3,14,1,4240,0.3301691862809711
 "Kreuger, Freddy",Sales,Area Sales Manager,John Smith,71339,3.65,5,20,0,5489,0.3301226729531517
-"Punjabhi, Louis  ",Production       ,Production Technician I,Kelley Spirea,59472,4.8,3,14,0,4453,0.3299944519833165
+"Punjabhi, Louis  ",Production       ,Production Technician I,Kelley Spirea,59472,4.8,3,14,0,4453,0.32999445198331645
 "Dickinson, Anthony",Production       ,Production Technician II,Webster Butler,63677,5.0,3,4,0,3640,0.3297365114672439
 "Manchester, Robyn",Production       ,Production Technician II,Webster Butler,62385,5.0,3,4,0,3597,0.3297365114672439
-"Sadki, Lauren",Production       ,Production Technician II,Kelley Spirea,65480,5.0,4,17,1,4550,0.32933734917492397
+"Sadki, Lauren",Production       ,Production Technician II,Kelley Spirea,65480,5.0,4,17,1,4550,0.3293373491749239
 "Daneault, Adell",Production       ,Production Technician I,David Stanley,45157,4.82,4,15,1,4999,0.32917494173016104
 "Simard, Ned",Production       ,Production Technician I,Elijiah Gray,52398,3.31,3,11,1,4333,0.3287980205595723
-"Sahoo, Jene'ya",Software Engineering,Software Engineer,Alex Sweetwater,107110,4.56,5,15,1,4386,0.3286376875549721
+"Sahoo, Jene'ya",Software Engineering,Software Engineer,Alex Sweetwater,107110,4.56,5,15,1,4386,0.32863768755497214
 "Hankard, Earnest",Production       ,Production Technician II,Kelley Spirea,64246,5.0,3,20,0,4509,0.3284861444791133
 "Zima, Lily",Production       ,Production Technician II,Kelley Spirea,64076,5.0,3,20,0,4488,0.3284861444791133
 "Goble, Amy",Production       ,Production Technician II,Kelley Spirea,63638,5.0,3,20,0,4468,0.3284861444791133
 "Fraval, Mohammed",Software Engineering,Software Engineer,Alex Sweetwater,107076,4.8,5,13,2,4519,0.32835621706707113
 "Johnston, Yen",Production       ,Production Technician II,Brannon Miller,63322,4.3,3,1,0,4271,0.3281778471811881
-"Strong, Carol",Production       ,Production Technician I,Brannon Miller,50589,4.01,4,5,1,3498,0.32767169144856423
+"Strong, Carol",Production       ,Production Technician I,Brannon Miller,50589,4.01,4,5,1,3498,0.3276716914485642
 "Kinsella, Thomas",Production       ,Production Technician II,Brannon Miller,66449,4.12,3,1,1,4441,0.3272007058567018
 "Dee, Hannah",Production       ,Production Technician I,Webster Butler,61720,4.55,5,2,0,5351,0.32712486196509344
-"Ozark, Bianca",Production       ,Production Manager,Janet King,76828,4.62,4,5,0,4060,0.32670508353524325
+"Ozark, Bianca",Production       ,Production Manager,Janet King,76828,4.62,4,5,0,4060,0.3267050835352432
 "Smith, Timothy",Production       ,Production Technician II,David Stanley,61707,3.93,3,18,0,5279,0.3252020501116466
-"Huynh, Lindsay",Production       ,Production Technician II,Brannon Miller,66685,4.11,5,12,1,4284,0.3239947311978709
+"Huynh, Lindsay",Production       ,Production Technician II,Brannon Miller,66685,4.11,5,12,1,4284,0.32399473119787087
 "Jhaveri, Sneha  ",Production       ,Production Technician I,Kelley Spirea,60436,5.0,5,9,0,4453,0.3237391958351639
 "Monkfish, Max",Admin Offices,Sr. Accountant,Brandon R. LeBlanc,107982,5.0,4,6,1,3858,0.32355001267127453
-"Clukey, Elijian",Production       ,Production Technician I,Brannon Miller,50373,4.1,4,5,0,3541,0.32344635182257214
+"Clukey, Elijian",Production       ,Production Technician I,Brannon Miller,50373,4.1,4,5,0,3541,0.3234463518225722
 "Gold, Charlie",Sales,Area Sales Manager,John Smith,72874,3.78,5,18,0,5494,0.32305981943711454
 "Spirea, Kelley",Production       ,Production Manager,Janet King,65714,4.83,5,15,0,4914,0.32290965180149656
-"Walker, Roger",Production       ,Production Technician II,Ketsia Liebig,66541,3.11,5,4,0,4229,0.32278861155129224
-"Corleone, Jennifer",Production       ,Production Technician II,Ketsia Liebig,65270,3.39,3,7,1,4181,0.3225775619681151
+"Walker, Roger",Production       ,Production Technician II,Ketsia Liebig,66541,3.11,5,4,0,4229,0.3227886115512923
+"Corleone, Jennifer",Production       ,Production Technician II,Ketsia Liebig,65270,3.39,3,7,1,4181,0.32257756196811516
 "Crimmings, Julissa",Production       ,Production Manager,Janet King,69001,4.83,4,12,0,4925,0.3221248711874756
 "Squatrito, Amy",Production       ,Production Technician I,Ketsia Liebig,43681,3.06,3,2,1,4331,0.32189826470422167
 "Fancett, Nicole",Production       ,Production Technician II,Webster Butler,65902,4.0,4,7,0,4411,0.32166360046532066
 "Goeth, Leigh Ann",Production       ,Production Technician I,Brannon Miller,62361,4.18,2,10,1,4537,0.32089968141854913
 "Sahoo, Samuel",Production       ,Production Technician I,Elijiah Gray,52192,4.93,3,8,0,4057,0.3206174073722668
 "Moumanil, Maliki ",Production       ,Production Technician II,Michael Albert,74417,4.29,5,11,0,4691,0.32057433950427244
-"Khemmich, Max",Production       ,Production Technician I,Kissy Sullivan,46138,4.18,4,10,0,5536,0.32051300083928064
+"Khemmich, Max",Production       ,Production Technician I,Kissy Sullivan,46138,4.18,4,10,0,5536,0.3205130008392806
 "Hunts, Julissa",Production       ,Production Technician II,Elijiah Gray,69340,3.0,5,4,0,3571,0.32036047888341185
 "Faller, Brian",Production       ,Production Technician II,Webster Butler,65778,3.95,4,8,0,4350,0.3201461141440323
 "Tippett, Renee",Production       ,Production Technician II,David Stanley,57575,3.5,3,15,1,5238,0.3200620828211755
-"Rarrick, Paula",Production       ,Production Technician II,Ketsia Liebig,65841,3.26,5,4,0,4264,0.31910488632054157
+"Rarrick, Paula",Production       ,Production Technician II,Ketsia Liebig,65841,3.26,5,4,0,4264,0.3191048863205415
 "Torrence, Travis",Production       ,Production Technician I,Kelley Spirea,61270,4.82,5,10,0,4442,0.3184619017486039
 "Fitzpatrick, Sneha",Admin Offices,Sr. Accountant,Brandon R. LeBlanc,105651,4.89,4,4,0,4077,0.31813639245740294
-"Corleone, Maliki",Production       ,Production Manager,Janet King,65495,4.69,5,13,0,4980,0.31795222056428796
+"Corleone, Maliki",Production       ,Production Manager,Janet King,65495,4.69,5,13,0,4980,0.3179522205642879
 "Engdahl, Jean",Production       ,Production Technician I,Kelley Spirea,48888,4.7,5,8,0,4145,0.31757813815158686
 "England, Rex",Production       ,Production Technician I,Kelley Spirea,54285,4.2,3,3,0,4369,0.31724800385830815
 "Huynh, Calvin",Production       ,Production Technician II,David Stanley,59233,3.31,4,15,0,4181,0.3171990803871058
@@ -339,8 +339,8 @@ Employee_Name,Department,Position,ManagerName,Salary,EngagementSurvey,EmpSatisfa
 "Athwal, Jack",Production       ,Production Technician I,David Stanley,46151,4.9,5,4,0,4163,0.31696589562297195
 "Le, Bruno",Production       ,Production Technician II,Michael Albert,75704,4.39,5,10,0,4737,0.3168155125841432
 "Zhou, Tommy",Production       ,Production Technician II,Kelley Spirea,64325,4.72,3,18,0,4587,0.3166849752420212
-"Sander, Adeel",Production       ,Production Technician I,David Stanley,53024,4.37,3,6,0,4057,0.3165854002333596
-"Johnson, Maliki",Production       ,Production Technician I,David Stanley,53944,4.35,3,6,0,3976,0.3165854002333596
+"Sander, Adeel",Production       ,Production Technician I,David Stanley,53024,4.37,3,6,0,4057,0.3165854002333597
+"Johnson, Maliki",Production       ,Production Technician I,David Stanley,53944,4.35,3,6,0,3976,0.3165854002333597
 "Veera, Christie",Production       ,Production Manager,Janet King,61706,4.12,3,3,0,3888,0.316393238885003
 "Lundy, Caroline",Production       ,Production Technician I,David Stanley,42794,4.29,5,3,0,4198,0.31626339726944686
 "Von Massenbach, Dallas",Production       ,Production Technician II,Kelley Spirea,61760,4.12,4,8,0,4633,0.31622464005961776
@@ -348,8 +348,8 @@ Employee_Name,Department,Position,ManagerName,Salary,EngagementSurvey,EmpSatisfa
 "Daneault, James",Production       ,Production Technician I,Brannon Miller,61630,4.03,4,10,0,4412,0.31612533857076824
 "Boutwell, Bonalyn",Admin Offices,Sr. Accountant,Brandon R. LeBlanc,106367,5.0,4,4,0,4047,0.3159456778565691
 "Mahoney, Lauren  ",Production       ,Production Technician I,Ketsia Liebig,45395,4.6,4,14,0,4453,0.3159162466850122
-"Engdahl, Norman",Production       ,Production Manager,David Stanley,59809,4.64,4,4,0,3888,0.3158863065423694
-"Carabbio, May",Production       ,Production Technician I,Brannon Miller,48420,4.09,4,3,0,3561,0.3157311534481013
+"Engdahl, Norman",Production       ,Production Manager,David Stanley,59809,4.64,4,4,0,3888,0.3158863065423693
+"Carabbio, May",Production       ,Production Technician I,Brannon Miller,48420,4.09,4,3,0,3561,0.31573115344810126
 "Demita, John",IT/IS,Data Analyst,Simon Roup,92104,4.01,4,9,0,4209,0.3156479596796405
 "MacLennan, Lin",Production       ,Production Technician II,Ketsia Liebig,68271,3.32,5,3,0,4258,0.31532628637958166
 "Garcia, Raul",Production       ,Production Technician I,David Stanley,52249,4.5,3,5,0,4005,0.314319194883908
@@ -362,7 +362,7 @@ Employee_Name,Department,Position,ManagerName,Salary,EngagementSurvey,EmpSatisfa
 "Meads, Claudia N",Admin Offices,Accountant I,Brandon R. LeBlanc,62576,4.58,2,16,0,6317,0.31307194801797356
 "Trang, James",Production       ,Production Technician II,Ketsia Liebig,66735,4.44,4,7,0,4350,0.31266373816218873
 "Langton, Enrico",Production       ,Production Technician I,David Stanley,46120,5.0,5,13,0,4999,0.3126269217165122
-"Nguyen, William",Production       ,Production Technician I,Elijiah Gray,58264,5.0,3,1,1,4966,0.3122870281274234
+"Nguyen, William",Production       ,Production Technician I,Elijiah Gray,58264,5.0,3,1,1,4966,0.3122870281274235
 "Becker, Scott",Production       ,Production Technician I,Webster Butler,53250,4.2,4,13,0,4635,0.31207669950320654
 "Stoica, Rick",Production       ,Production Technician I,Kelley Spirea,61355,4.7,3,4,0,4411,0.31207027890112327
 "Carey, Michael  ",Production       ,Production Technician I,Kelley Spirea,52846,4.43,3,14,0,4369,0.3119357402972802
@@ -401,7 +401,7 @@ Employee_Name,Department,Position,ManagerName,Salary,EngagementSurvey,EmpSatisfa
 "Dickinson, Michelle",Production       ,Production Technician I,Elijiah Gray,57751,3.42,3,3,0,4174,0.3060662835811333
 "Demita, Ricardo",Production       ,Production Technician II,Michael Albert,67517,4.3,3,10,1,4265,0.3054692731229267
 "Linares, Travis",Admin Offices,Accountant I,Brandon R. LeBlanc,61241,4.19,2,11,0,6361,0.3054405248958164
-"Gross, Shana",Production       ,Production Manager,Janet King,62936,4.59,3,1,2,3933,0.3054110969995547
+"Gross, Shana",Production       ,Production Manager,Janet King,62936,4.59,3,1,2,3933,0.30541109699955477
 "Burkett, Elijian",Production       ,Production Technician I,Elijiah Gray,59379,3.65,3,2,1,4249,0.3050807132052895
 "Oliver, Taylor",Production       ,Production Technician I,David Stanley,62840,4.2,5,3,1,4531,0.30506620224735154
 "Lundy, Yen",Production       ,Production Technician I,Brannon Miller,63685,3.9,4,5,0,4534,0.30495185696027655
@@ -411,7 +411,7 @@ Employee_Name,Department,Position,ManagerName,Salary,EngagementSurvey,EmpSatisfa
 "Trzeciak, Christie",Production       ,Production Technician I,Ketsia Liebig,54966,4.97,4,5,0,5148,0.3046274179736045
 "Purinton, Bonalyn",Production       ,Production Technician I,David Stanley,46604,5.0,3,1,0,5044,0.30454056427225745
 "Daneault, Lori",Production       ,Production Technician I,Brannon Miller,65909,3.54,5,3,0,4770,0.3044370746055101
-"Gaul, Nicole",Production       ,Production Technician I,Kelley Spirea,54175,4.03,3,9,0,5334,0.30326313170013947
+"Gaul, Nicole",Production       ,Production Technician I,Kelley Spirea,54175,4.03,3,9,0,5334,0.3032631317001395
 "Leach, Robyn",Production       ,Production Technician I,Ketsia Liebig,50497,5.0,5,12,0,4422,0.3031959658191468
 "Mancuso, Donovan E",Production       ,Production Technician I,Ketsia Liebig,47597,3.07,3,3,0,4419,0.30292048194797916
 "Kirill, Scott",Production       ,Production Technician I,David Stanley,62024,4.03,4,4,1,4839,0.3027894795030618
@@ -430,16 +430,16 @@ Employee_Name,Department,Position,ManagerName,Salary,EngagementSurvey,EmpSatisfa
 "Champaigne, Peter",Production       ,Production Technician I,David Stanley,60645,3.45,5,7,0,4780,0.30081356889494854
 "Blount, Scott",Production       ,Production Technician I,Michael Albert,57223,4.04,3,12,0,4601,0.3001620948817183
 "Horton, Helen",Production       ,Production Technician I,David Stanley,63543,3.69,5,4,0,4682,0.2997897571469608
-"O'hare, Brian",IT/IS,IT Manager - Infra,Jennifer Zamora,149107,2.82,3,12,3,5107,0.29904604934795237
+"O'hare, Brian",IT/IS,IT Manager - Infra,Jennifer Zamora,149107,2.82,3,12,3,5107,0.2990460493479524
 "Punjabhi, Elijian",Production       ,Director of Operations,Janet King,166087,3.8,5,14,0,6245,0.29833291144076324
 "Robertson, Debra",Production       ,Production Manager,Janet King,84336,3.73,3,19,0,5257,0.29815630962565154
 "Billis, Karthikeyan",Software Engineering,Software Engineer,Alex Sweetwater,95711,2.69,3,20,0,4220,0.29812318308573377
 "Tejeda, Josephine",Production       ,Director of Operations,Janet King,166304,3.7,4,14,0,6274,0.29790087348073885
 "Walker, Rosalie",Production       ,Production Technician I,David Stanley,60719,3.92,3,7,0,4929,0.29742000311109107
-"Brill, Roxana",Production       ,Production Technician I,Ketsia Liebig,64398,4.06,3,2,2,4578,0.29717164491905745
+"Brill, Roxana",Production       ,Production Technician I,Ketsia Liebig,64398,4.06,3,2,2,4578,0.2971716449190574
 "Andreola, Colby",Software Engineering,Software Engineer,Alex Sweetwater,95660,3.04,3,19,0,4145,0.2958578756887165
-"Barbossa, Hector",IT/IS,Data Analyst,Simon Roup,92328,4.28,4,9,0,4145,0.2948612755138642
-"Sullivan, Marianne",Production       ,Production Technician I,David Stanley,56740,3.65,3,1,0,4261,0.29371203712322774
+"Barbossa, Hector",IT/IS,Data Analyst,Simon Roup,92328,4.28,4,9,0,4145,0.29486127551386415
+"Sullivan, Marianne",Production       ,Production Technician I,David Stanley,56740,3.65,3,1,0,4261,0.2937120371232277
 "Carabbio, Brian",Software Engineering,Software Engineer,Alex Sweetwater,96696,2.92,3,18,0,4188,0.2921590549375454
 "Quinn, Debbie",Production       ,Production Manager,Janet King,87482,3.96,3,20,0,5322,0.2916039114171912
 "Cady, Max ",Software Engineering,Software Engineering Manager,Jennifer Zamora,77692,3.84,3,4,0,5328,0.2911639705055463
@@ -454,24 +454,24 @@ Employee_Name,Department,Position,ManagerName,Salary,EngagementSurvey,EmpSatisfa
 "Eaton, Susan",Admin Offices,Shared Services Manager,Janet King,91408,3.96,4,20,0,3718,0.28647341878539506
 "King, Janet",Executive Office,President & CEO,Board of Directors,250000,4.83,3,10,0,5006,0.28302355209304886
 "Carabbio, Linda",Sales,Area Sales Manager,John Smith,72944,4.85,5,8,0,4212,0.2803331977695224
-"Carr, Claudia  N",IT/IS,Sr. DBA,Simon Roup,100031,5.0,5,7,0,3547,0.2792220926071677
+"Carr, Claudia  N",IT/IS,Sr. DBA,Simon Roup,100031,5.0,5,7,0,3547,0.2792220926071676
 "Monkfish, Peter",Admin Offices,Shared Services Manager,Janet King,89759,4.11,3,20,1,3687,0.2769050312488617
 "Buccheri, Lei-Ming",Software Engineering,Software Engineer,Alex Sweetwater,94080,3.18,2,18,0,4104,0.2721446141527735
 "Lindsay, Leonara ",IT/IS,IT Support,Eric Dougall,51777,4.64,4,14,0,5534,0.2716960252035762
 "Wang, Kamrin",IT/IS,Data Architect,Simon Roup,155151,4.94,3,16,0,3404,0.2702504943452651
-"Tavares, Carla",Software Engineering,Software Engineer,Alex Sweetwater,93499,3.39,3,19,0,4122,0.26934252884592397
+"Tavares, Carla",Software Engineering,Software Engineer,Alex Sweetwater,93499,3.39,3,19,0,4122,0.269342528845924
 "Wilber, Constance",IT/IS,IT Support,Simon Roup,65017,4.3,3,20,0,5311,0.2675446068583286
 "Gentry, Adell",Software Engineering,Software Engineer,Alex Sweetwater,92954,4.68,5,1,0,4190,0.26734188677416754
-"Carabbio, Judith",Software Engineering,Software Engineer,Alex Sweetwater,93396,4.96,4,3,0,4509,0.2671615048716046
+"Carabbio, Judith",Software Engineering,Software Engineer,Alex Sweetwater,93396,4.96,4,3,0,4509,0.26716150487160467
 "Dougall, Jackie",Software Engineering,Software Engineering Manager,Jennifer Zamora,76913,3.94,3,6,0,5419,0.26704152428512495
 "Close, Evelyn",IT/IS,Database Administrator,Simon Roup,96406,4.52,4,5,1,3943,0.26682484779937327
-"Robinson, Michael J",IT/IS,Senior BI Developer,Peter Monroe,87480,4.77,3,20,0,3194,0.26590817212037277
+"Robinson, Michael J",IT/IS,Senior BI Developer,Peter Monroe,87480,4.77,3,20,0,3194,0.2659081721203727
 "Smith, Seffi",Software Engineering,Software Engineer,Alex Sweetwater,86195,4.24,3,1,0,4862,0.26567251123191543
 "Szabo, Andrew",Software Engineering,Software Engineer,Alex Sweetwater,92989,4.5,5,1,0,4271,0.26553010923557446
 "Barone, Hang T",Software Engineering,Software Engineer,Alex Sweetwater,91741,5.0,4,3,0,4504,0.2650247900412629
 "Fett, Boba",IT/IS,Network Engineer,Peter Monroe,53366,1.2,3,2,3,4005,0.26375516169885393
 "Stanford, Adil",IT/IS,Database Administrator,Simon Roup,104072,3.66,3,1,0,3993,0.26367925964098454
-"Lydon, Rachael",IT/IS,Sr. DBA,Simon Roup,101978,4.75,5,9,1,3474,0.26159476238704427
+"Lydon, Rachael",IT/IS,Sr. DBA,Simon Roup,101978,4.75,5,9,1,3474,0.2615947623870443
 "Ngodup, Caitrin",IT/IS,Database Administrator,Simon Roup,106281,3.66,3,4,0,4151,0.2614715145660451
 "Saada, Adell",Software Engineering,Software Engineer,Alex Sweetwater,86214,4.2,3,2,0,4880,0.2613732825586308
 "Sander, Donysha",Software Engineering,Software Engineer,Janet King,85107,4.31,4,3,0,4804,0.2611797909951454
@@ -485,43 +485,43 @@ Employee_Name,Department,Position,ManagerName,Salary,EngagementSurvey,EmpSatisfa
 "Spirea, Daniel",Sales,Area Sales Manager,John Smith,68195,5.0,4,19,0,3999,0.24577064565642212
 "Houlihan, Debra",Sales,Director of Sales,Janet King,180000,4.5,4,19,0,4334,0.24348378565448603
 "Daneault, Lynn",Sales,Sales Manager,Debra Houlihan,65729,4.62,4,8,0,4334,0.24322918751966602
-"Morway, Tanya",IT/IS,Network Engineer,Peter Monroe,52599,3.81,3,6,0,4047,0.24229635498562477
+"Morway, Tanya",IT/IS,Network Engineer,Peter Monroe,52599,3.81,3,6,0,4047,0.24229635498562474
 "Chace, Luisa",IT/IS,Network Engineer,Peter Monroe,53843,3.46,3,7,0,4200,0.2412885008310188
 "Jhaveri, Debbie",Sales,Sales Manager,Debra Houlihan,68593,4.77,4,9,0,4323,0.24064235982572033
 "Hutter, Nore",IT/IS,Senior BI Developer,Simon Roup,87810,5.0,3,15,0,3391,0.2396280572797832
-"Driver, Elle",Sales,Area Sales Manager,Lynn Daneault,74241,4.77,5,14,0,5545,0.23954451086758027
+"Driver, Elle",Sales,Area Sales Manager,Lynn Daneault,74241,4.77,5,14,0,5545,0.23954451086758033
 "Demita, Rosalie",IT/IS,BI Developer,Simon Roup,99867,4.02,5,7,0,3189,0.239329168970385
-"Moumanil, Tyrone",Sales,Director of Sales,Janet King,182013,4.27,4,19,0,4401,0.23929291551078782
+"Moumanil, Tyrone",Sales,Director of Sales,Janet King,182013,4.27,4,19,0,4401,0.23929291551078777
 "Stansfield, Norman",Sales,Area Sales Manager,Lynn Daneault,58273,1.81,2,5,3,4327,0.23859742347871374
-"Patronick, Susan",Admin Offices,Administrative Assistant,Brandon R. LeBlanc,53099,5.0,3,1,0,4000,0.237504181880067
+"Patronick, Susan",Admin Offices,Administrative Assistant,Brandon R. LeBlanc,53099,5.0,3,1,0,4000,0.23750418188006706
 "Volk, Elijiah",Sales,Director of Sales,Janet King,186233,4.58,4,16,1,4385,0.23701688746707025
 "Givens, Myriam",Sales,Area Sales Manager,Lynn Daneault,61555,4.5,5,20,0,4047,0.2369407326854991
 "Simard, Kramer",IT/IS,Data Analyst,Simon Roup,87826,3.32,3,16,0,4089,0.23691332954518585
 "LaRotonda, William  ",Admin Offices,Accountant I,Brandon R. LeBlanc,64520,5.0,4,3,0,4453,0.2364161538566052
 "Roper, Judy",IT/IS,Network Engineer,Peter Monroe,51608,3.75,3,4,0,4094,0.23600474272502941
-"Steans, Courtney",Admin Offices,Sr. Accountant,Board of Directors,97622,4.89,3,4,1,6205,0.23586088255220986
+"Steans, Courtney",Admin Offices,Sr. Accountant,Board of Directors,97622,4.89,3,4,1,6205,0.2358608825522099
 "Barton, Dianna",IT/IS,Data Analyst,Simon Roup,83320,2.89,2,4,0,3948,0.23551112613868228
-"Singh, Nan ",Admin Offices,Administrative Assistant,Brandon R. LeBlanc,51920,5.0,3,2,0,3973,0.2345901995340681
+"Singh, Nan ",Admin Offices,Administrative Assistant,Brandon R. LeBlanc,51920,5.0,3,2,0,3973,0.23459019953406815
 "McKinzie, Jac",Sales,Area Sales Manager,Lynn Daneault,63291,3.4,4,7,0,3541,0.23309504613166965
 "Foster-Baker, Amy",Admin Offices,Sr. Accountant,Board of Directors,99351,5.0,3,3,0,6280,0.23261496117786123
-"Carabbio, Quinn",IT/IS,Network Engineer,Peter Monroe,48212,3.19,3,5,0,4249,0.23252250866381588
+"Carabbio, Quinn",IT/IS,Network Engineer,Peter Monroe,48212,3.19,3,5,0,4249,0.23252250866381582
 "Monroe, Keyla",IT/IS,Network Engineer,Peter Monroe,55627,4.02,4,4,0,4107,0.2314929274721349
 "Shepard, Anita ",IT/IS,Network Engineer,Peter Monroe,50750,3.31,3,7,0,4186,0.23141482277134776
-"Carter, Michelle ",Sales,Area Sales Manager,John Smith,71860,5.0,5,7,0,4229,0.231312808432897
-"Perry, Bonalyn",Sales,Area Sales Manager,John Smith,72097,5.0,5,7,0,4200,0.231312808432897
+"Carter, Michelle ",Sales,Area Sales Manager,John Smith,71860,5.0,5,7,0,4229,0.23131280843289698
+"Perry, Bonalyn",Sales,Area Sales Manager,John Smith,72097,5.0,5,7,0,4200,0.23131280843289698
 "Dietrich, Jenna  ",Sales,Area Sales Manager,John Smith,59231,2.3,1,17,2,5139,0.23045270491885225
 "LaRotonda, Amy",IT/IS,Data Analyst,Simon Roup,88288,4.92,3,11,0,3816,0.23000684042833
 "Costello, Kimberly",Sales,Area Sales Manager,John Smith,70395,3.56,5,8,0,4242,0.22937093537607292
 "Williams, Walter",Sales,Area Sales Manager,John Smith,58825,4.09,4,19,0,5812,0.22805122469350544
-"Torrence, Michael",IT/IS,Data Analyst,Simon Roup,89325,4.83,3,9,0,4124,0.22793079735445132
+"Torrence, Michael",IT/IS,Data Analyst,Simon Roup,89325,4.83,3,9,0,4124,0.2279307973544513
 "Costello, Frank",IT/IS,Data Analyst,Simon Roup,83552,3.04,3,2,0,4005,0.22785116760177915
 "Corleone, Hong",IT/IS,Data Analyst,Simon Roup,84382,2.94,4,1,0,4124,0.2273576870367574
-"Zhou, Julia",IT/IS,Data Analyst,Simon Roup,89292,5.0,3,11,0,4005,0.2273096181993866
+"Zhou, Julia",IT/IS,Data Analyst,Simon Roup,89292,5.0,3,11,0,4005,0.22730961819938655
 "Vega, Mohammed",Sales,Area Sales Manager,John Smith,70645,4.97,5,19,0,4167,0.22704493003647264
 "Dougall, Ming",Sales,Area Sales Manager,John Smith,71283,3.36,5,11,0,4212,0.2267621205511331
 "Mancuso, Debbie",IT/IS,Data Analyst,Simon Roup,86807,3.57,4,16,0,4054,0.2258766100407301
 "Chigurh, Anton",Sales,Area Sales Manager,Lynn Daneault,66808,3.0,5,17,0,5055,0.2258349334392561
-"Roby, Lori ",IT/IS,Data Analyst,Simon Roup,89883,3.69,5,15,0,4047,0.22576278191637641
+"Roby, Lori ",IT/IS,Data Analyst,Simon Roup,89883,3.69,5,15,0,4047,0.22576278191637636
 "Hitchcock, Alfred",Sales,Area Sales Manager,John Smith,70545,3.6,5,9,0,4229,0.22504616077015305
 "Tavares, Alfred",IT/IS,Sr. Network Engineer,Peter Monroe,95831,4.46,5,11,0,4274,0.22381059810979867
 "Girifalco, Scott",Admin Offices,Sr. Accountant,Brandon R. LeBlanc,97045,5.0,3,2,0,6420,0.22347252739694606
@@ -532,8 +532,8 @@ Employee_Name,Department,Position,ManagerName,Salary,EngagementSurvey,EmpSatisfa
 "Petrowsky, Thelma",IT/IS,Data Analyst,Simon Roup,93554,4.6,5,16,0,4145,0.22173904003705597
 "Terry, Jackie",Sales,Area Sales Manager,John Smith,59521,4.19,4,19,0,5682,0.2210659896626136
 "Terry, Sharlene ",Sales,Area Sales Manager,Lynn Daneault,58370,3.69,3,18,0,4187,0.22073077492287335
-"Valentin,Jackie",Sales,Area Sales Manager,John Smith,57859,2.81,3,16,0,5369,0.21966231523992044
-"Billis, Travis",IT/IS,Data Analyst,Simon Roup,88986,3.53,5,14,1,4154,0.2194207791060286
+"Valentin,Jackie",Sales,Area Sales Manager,John Smith,57859,2.81,3,16,0,5369,0.2196623152399205
+"Billis, Travis",IT/IS,Data Analyst,Simon Roup,88986,3.53,5,14,1,4154,0.21942077910602856
 "Szabo, Daniel",IT/IS,Data Analyst,Simon Roup,89082,3.14,5,14,1,4073,0.21786884417770513
 "MacLennan, Vito",Sales,Area Sales Manager,Lynn Daneault,63994,4.53,3,7,3,5290,0.21771914538171866
 "Chang, Lynn",Sales,Area Sales Manager,Lynn Daneault,64477,2.83,4,15,1,5003,0.21760000606296775
@@ -547,7 +547,7 @@ Employee_Name,Department,Position,ManagerName,Salary,EngagementSurvey,EmpSatisfa
 "Chivukula, Brad",Sales,Area Sales Manager,John Smith,61545,4.02,4,3,0,4286,0.21421224815253154
 "Monroe, Vito",Sales,Area Sales Manager,Lynn Daneault,65733,3.15,5,18,0,5082,0.2138926133047871
 "Roup, Kylo",IT/IS,Network Engineer,Peter Monroe,76766,5.0,4,10,0,3986,0.21383761214076571
-"Chan, Noah",IT/IS,BI Developer,Brian Champaigne,99126,4.55,5,7,0,3293,0.21376223292889876
+"Chan, Noah",IT/IS,BI Developer,Brian Champaigne,99126,4.55,5,7,0,3293,0.2137622329288987
 "Whittier, Joanne",Sales,Area Sales Manager,John Smith,62201,4.18,4,19,2,5692,0.2137177588489312
 "Brown, Michael",Sales,Area Sales Manager,Lynn Daneault,59177,4.0,3,18,0,4172,0.21366471979874607
 "Zamora, Francesco A",IT/IS,Data Analyst,Simon Roup,93737,4.51,5,15,0,4206,0.21294068722666745
@@ -561,14 +561,14 @@ Employee_Name,Department,Position,ManagerName,Salary,EngagementSurvey,EmpSatisfa
 "Von Massenbach, Scott",Sales,Area Sales Manager,Lynn Daneault,64779,4.3,2,3,0,7292,0.2093484074179603
 "Sparks, Anna",Sales,Area Sales Manager,John Smith,74541,4.92,5,9,0,4268,0.20923057028878916
 "Khemmich, Bartholemew",Sales,Area Sales Manager,Lynn Daneault,65310,4.3,5,13,0,4593,0.20886692652712074
-"Petrowsky, Michael",Sales,Area Sales Manager,John Smith,60879,3.99,3,3,0,4390,0.20879746297026008
+"Petrowsky, Michael",Sales,Area Sales Manager,John Smith,60879,3.99,3,3,0,4390,0.20879746297026006
 "Delarge, Alex",Sales,Area Sales Manager,John Smith,61568,1.93,3,5,6,4187,0.20872677058581945
 "Squatrito, Yen",Sales,Area Sales Manager,Lynn Daneault,66140,4.45,3,8,2,5451,0.20822707190921513
 "Smith, Elle",Sales,Area Sales Manager,Lynn Daneault,67366,4.21,3,8,5,5314,0.20810208974099134
 "Crimmings, Angela",IT/IS,Sr. Network Engineer,Peter Monroe,88953,5.0,3,8,1,4137,0.20809931599807355
 "Ren, Kylo",Sales,Area Sales Manager,John Smith,61809,3.98,3,4,0,4327,0.20803204682936713
 "Kirill, Elias",IT/IS,IT Support,Peter Monroe,73531,4.44,4,19,0,3966,0.20768596329401143
-"True, Francesco A",IT/IS,IT Manager - Support,Jennifer Zamora,140892,4.12,5,4,0,4454,0.20729497250375387
+"True, Francesco A",IT/IS,IT Manager - Support,Jennifer Zamora,140892,4.12,5,4,0,4454,0.20729497250375384
 "Ozark, Travis",Sales,Area Sales Manager,John Smith,68829,5.0,5,18,0,4089,0.20692158080510478
 "Sullivan, Roxana",Sales,Area Sales Manager,Lynn Daneault,66579,4.24,5,13,0,4580,0.2069097461334191
 "Goeth, Amon",IT/IS,IT Support,Peter Monroe,74679,4.3,5,20,0,4005,0.2066711270615354
@@ -576,8 +576,8 @@ Employee_Name,Department,Position,ManagerName,Salary,EngagementSurvey,EmpSatisfa
 "Salter, Ketsia",Sales,Area Sales Manager,Lynn Daneault,62755,4.24,5,7,0,5256,0.2062042899001996
 "Torrence, Jack",Sales,Area Sales Manager,Lynn Daneault,64397,4.1,3,6,0,7372,0.2060207245088427
 "Lundy, Thelma",Sales,Area Sales Manager,Lynn Daneault,65365,4.48,4,12,0,4548,0.205894541220547
-"Le, Judith",IT/IS,Data Architect,Brian Champaigne,143889,5.0,2,18,0,3282,0.2057493823475481
-"Tippett, Marianne",IT/IS,IT Manager - Support,Jennifer Zamora,140385,4.25,5,2,0,4520,0.204401980688267
+"Le, Judith",IT/IS,Data Architect,Brian Champaigne,143889,5.0,2,18,0,3282,0.20574938234754808
+"Tippett, Marianne",IT/IS,IT Manager - Support,Jennifer Zamora,140385,4.25,5,2,0,4520,0.20440198068826704
 "Tippett, Phil",Sales,Area Sales Manager,John Smith,64780,5.0,4,3,0,4575,0.20434943587407925
 "Fidelia, Jeanette",Admin Offices,Accountant I,Brandon R. LeBlanc,60784,3.7,4,11,0,4118,0.2040375188916654
 "Valentin, Courtney E",IT/IS,IT Support,Peter Monroe,47669,5.0,4,16,1,4120,0.2039168239308892
@@ -585,7 +585,7 @@ Employee_Name,Department,Position,ManagerName,Salary,EngagementSurvey,EmpSatisfa
 "Brill, Geoff",IT/IS,IT Support,Peter Monroe,74958,4.4,5,20,0,4038,0.20331428144378227
 "Darson, May",IT/IS,Sr. Network Engineer,Peter Monroe,91145,5.0,4,5,0,4257,0.2026690598865798
 "Potts, Xana",Sales,Area Sales Manager,Lynn Daneault,61844,4.2,5,9,0,5181,0.20208946692064234
-"Mckenna, Josephine",Sales,Area Sales Manager,Lynn Daneault,62061,4.06,5,10,0,5261,0.2016732883139835
+"Mckenna, Josephine",Sales,Area Sales Manager,Lynn Daneault,62061,4.06,5,10,0,5261,0.20167328831398354
 "Villanueva, Noah",Sales,Area Sales Manager,John Smith,55875,4.5,4,11,0,5125,0.20116260483392565
 "Roper, Katie",IT/IS,Data Architect,Brian Champaigne,150290,4.94,3,17,0,3356,0.2004355360095871
 "Bacong, Alejandro ",IT/IS,IT Support,Peter Monroe,50178,5.0,5,16,0,4089,0.1998426592390024
@@ -594,7 +594,7 @@ Employee_Name,Department,Position,ManagerName,Salary,EngagementSurvey,EmpSatisfa
 "Foss, Joanne",IT/IS,Data Architect,Brian Champaigne,155210,4.89,3,16,0,3357,0.19822507141958176
 "Gilles, Barbara M",Admin Offices,Accountant I,Brandon R. LeBlanc,63267,3.78,5,11,1,4036,0.19822016334846435
 "Dolan, Linda",IT/IS,IT Support,Peter Monroe,70621,4.11,4,16,0,4089,0.19729028362354828
-"Booth, Beatrice",IT/IS,BI Director,Jennifer Zamora,115603,4.8,5,8,0,3535,0.19721667946557567
+"Booth, Beatrice",IT/IS,BI Director,Jennifer Zamora,115603,4.8,5,8,0,3535,0.1972166794655757
 "Gonzalez, Jessica",Admin Offices,Accountant I,Brandon R. LeBlanc,64248,3.69,4,9,1,4182,0.19647640697354213
 "McKinzie, Keyser",Admin Offices,Accountant I,Brandon R. LeBlanc,63183,3.92,5,7,0,4136,0.1964446063217829
 "Steans, Tyrone  ",Admin Offices,Accountant I,Brandon R. LeBlanc,63003,3.9,5,9,0,4187,0.1964446063217829
@@ -603,25 +603,25 @@ Employee_Name,Department,Position,ManagerName,Salary,EngagementSurvey,EmpSatisfa
 "Leruth, Giovanni",Sales,Area Sales Manager,John Smith,70468,4.53,3,16,0,5069,0.19577344751797782
 "Brill, Trina",Admin Offices,Accountant I,Brandon R. LeBlanc,65016,3.55,5,11,0,4191,0.19556813030550643
 "Soze, Keyser",IT/IS,Sr. Network Engineer,Peter Monroe,87565,3.27,4,13,0,3547,0.1955112056428674
-"Onque, Jasmine",Sales,Area Sales Manager,Lynn Daneault,63051,4.28,3,1,0,4551,0.1953282238286069
+"Onque, Jasmine",Sales,Area Sales Manager,Lynn Daneault,63051,4.28,3,1,0,4551,0.19532822382860687
 "Jhaveri, Trina",IT/IS,IT Support,Eric Dougall,67508,4.48,4,1,0,5755,0.1952209130836788
 "Rossetti, Benjamin",IT/IS,Senior BI Developer,Brian Champaigne,84208,3.86,4,18,0,3410,0.1950822360858323
 "Hutter, Bonalyn",Sales,Area Sales Manager,John Smith,65857,4.18,4,13,0,4501,0.19498288829762875
 "Daniele, Ann  ",IT/IS,Sr. Network Engineer,Peter Monroe,85028,3.1,5,19,0,4145,0.19489225893027817
-"Champaigne, Brian",IT/IS,BI Director,Jennifer Zamora,110929,4.5,5,8,0,3479,0.19487504886181145
+"Champaigne, Brian",IT/IS,BI Director,Jennifer Zamora,110929,4.5,5,8,0,3479,0.19487504886181142
 "Valentin, Earnest",Sales,Area Sales Manager,Lynn Daneault,61263,4.13,3,2,0,4558,0.19477694580757213
 "Dolan, Joelle",Sales,Area Sales Manager,John Smith,63361,4.32,3,1,0,4442,0.19442542786271078
-"Myers, Martin",IT/IS,IT Manager - DB,Jennifer Zamora,142279,3.46,4,13,2,4870,0.19260941444079735
-"Purinton, Alexandra",IT/IS,IT Support,Eric Dougall,64467,4.54,4,1,0,5822,0.1924821853051591
+"Myers, Martin",IT/IS,IT Manager - DB,Jennifer Zamora,142279,3.46,4,13,2,4870,0.19260941444079738
+"Purinton, Alexandra",IT/IS,IT Support,Eric Dougall,64467,4.54,4,1,0,5822,0.19248218530515912
 "Houlihan, Adell",IT/IS,IT Manager - DB,Jennifer Zamora,140995,3.61,4,13,0,4799,0.19015114809830982
-"Torrence, Scott",IT/IS,Senior BI Developer,Eric Dougall,86750,5.0,3,17,0,3327,0.18786449521501422
-"Langton, Lynn",IT/IS,IT Support,Eric Dougall,69240,4.5,3,19,0,5422,0.18736075685412357
+"Torrence, Scott",IT/IS,Senior BI Developer,Eric Dougall,86750,5.0,3,17,0,3327,0.1878644952150142
+"Langton, Lynn",IT/IS,IT Support,Eric Dougall,69240,4.5,3,19,0,5422,0.18736075685412354
 "Harrison, Kissy",Sales,Area Sales Manager,John Smith,62783,3.92,3,4,0,4331,0.18542856636610314
 "Galia, Ned",IT/IS,Sr. Network Engineer,Peter Monroe,106717,3.96,4,10,1,4052,0.18468891801398782
 "Warfield, Sarah",IT/IS,Sr. Network Engineer,Peter Monroe,107226,4.2,4,7,0,4005,0.18389931707749896
 "Soto, Julia ",IT/IS,IT Support,Eric Dougall,66593,4.3,3,19,0,5394,0.18380664284894485
 "Moumanil, Earnest",Sales,Area Sales Manager,John Smith,68541,4.69,3,16,2,5039,0.18351610976788976
-"Gonzalez, Maria",IT/IS,IT Support,Peter Monroe,61242,4.61,4,11,0,4089,0.18332387378899478
+"Gonzalez, Maria",IT/IS,IT Support,Peter Monroe,61242,4.61,4,11,0,4089,0.18332387378899476
 "Barton, Seffi",IT/IS,IT Support,Eric Dougall,67154,4.39,4,20,0,5535,0.18320545711095196
 "Dee, Nori",IT/IS,IT Manager - Support,Peter Monroe,145532,4.3,5,3,1,4558,0.18318886670961937
 "Roup,Simon",IT/IS,IT Manager - DB,Jennifer Zamora,140920,3.6,5,13,0,4804,0.18297508423038655
@@ -632,26 +632,26 @@ Employee_Name,Department,Position,ManagerName,Salary,EngagementSurvey,EmpSatisfa
 "Gosciminski, Susan",IT/IS,CIO,Jennifer Zamora,222198,4.73,5,15,0,5875,0.18098794037733493
 "Sewkumar, Quinn",Sales,Area Sales Manager,John Smith,68474,4.52,3,17,0,5075,0.17837525862727652
 "Forrest, Nan",IT/IS,IT Support,Eric Dougall,69576,4.51,3,1,0,4896,0.17637846728599366
-"Navathe, Kurt",IT/IS,Senior BI Developer,Brian Champaigne,87921,5.0,3,17,0,3322,0.1761626360681272
+"Navathe, Kurt",IT/IS,Senior BI Developer,Brian Champaigne,87921,5.0,3,17,0,3322,0.17616263606812718
 "Clayton, Rick",IT/IS,IT Support,Eric Dougall,68678,4.7,3,2,0,4941,0.17606278255907706
 "Linden, Nader",IT/IS,IT Director,Jennifer Zamora,186098,5.0,5,15,0,5340,0.1759667414796657
 "Foss, Jason",IT/IS,IT Director,Jennifer Zamora,178000,5.0,5,15,0,5450,0.1759667414796657
 "Faller, Julia",IT/IS,IT Support,Eric Dougall,70708,4.99,3,5,1,4903,0.17585291052377858
-"Wang, Abdellah",IT/IS,IT Manager - Support,Jennifer Zamora,142426,4.62,5,7,1,4494,0.17408255044081986
+"Wang, Abdellah",IT/IS,IT Manager - Support,Jennifer Zamora,142426,4.62,5,7,1,4494,0.17408255044081983
 "Pelletier, Adrienne J",IT/IS,Sr. Network Engineer,Peter Monroe,106124,4.04,5,9,1,3995,0.17372562308293
 "DeVito, Anna",IT/IS,Senior BI Developer,Brian Champaigne,78167,4.17,5,1,1,3474,0.1737053725070995
-"Monterro, Morissa",IT/IS,IT Support,Eric Dougall,66999,4.56,3,1,0,4994,0.17352594231219423
+"Monterro, Morissa",IT/IS,IT Support,Eric Dougall,66999,4.56,3,1,0,4994,0.1735259423121942
 "Sander, Tanya",IT/IS,IT Director,Jennifer Zamora,174218,5.0,5,13,0,5499,0.1735070224158477
 "Corleone, Lauren",IT/IS,Sr. Network Engineer,Peter Monroe,91921,4.65,5,7,1,4125,0.17324319815179937
 "Lajiri,  Jyoti",IT/IS,Sr. Network Engineer,Peter Monroe,93206,4.46,5,7,0,4145,0.17295237556447995
 "Homberger, Linda",IT/IS,Senior BI Developer,Brian Champaigne,81951,4.11,5,1,0,3441,0.172036338944026
-"Rachael, Amon",IT/IS,IT Manager - Support,Jennifer Zamora,137073,4.29,5,4,1,4408,0.1693349117286939
-"Dougall, Eric",IT/IS,IT Manager - Support,Jennifer Zamora,138888,4.3,5,4,0,4454,0.1693349117286939
-"Torrence, Denisa S",IT/IS,Senior BI Developer,Brian Champaigne,86580,4.77,4,15,0,3277,0.16893796026492763
+"Rachael, Amon",IT/IS,IT Manager - Support,Jennifer Zamora,137073,4.29,5,4,1,4408,0.16933491172869386
+"Dougall, Eric",IT/IS,IT Manager - Support,Jennifer Zamora,138888,4.3,5,4,0,4454,0.16933491172869386
+"Torrence, Denisa S",IT/IS,Senior BI Developer,Brian Champaigne,86580,4.77,4,15,0,3277,0.16893796026492766
 "Le, Binh",IT/IS,Senior BI Developer,Brian Champaigne,81584,4.1,5,2,0,3453,0.16859767913968982
 "Mckenna, Carol",IT/IS,Senior BI Developer,Brian Champaigne,86456,3.34,4,18,1,3240,0.16782568644680898
 "Eaton, Judith",IT/IS,BI Developer,Brian Champaigne,98950,4.48,5,8,0,3255,0.16663643334102923
-"Gentry, Rachael",IT/IS,BI Developer,Brian Champaigne,95968,4.63,4,10,1,3367,0.16598251934108893
+"Gentry, Rachael",IT/IS,BI Developer,Brian Champaigne,95968,4.63,4,10,1,3367,0.1659825193410889
 "Wang, Charlie",IT/IS,Senior BI Developer,Brian Champaigne,84903,3.42,4,17,0,3317,0.16598215421809606
 "Delarge, Hang T",IT/IS,BI Developer,Brian Champaigne,87608,3.35,3,13,1,3148,0.16492543993312705
 "Smith, Kamrin",IT/IS,BI Developer,Brian Champaigne,94991,3.39,3,10,0,3225,0.1643106656651148
@@ -661,7 +661,7 @@ Employee_Name,Department,Position,ManagerName,Salary,EngagementSurvey,EmpSatisfa
 "Kretschmer, Catherine",IT/IS,BI Developer,Brian Champaigne,94878,4.39,4,10,1,3513,0.16211247104809487
 "Tannen, Biff",IT/IS,BI Developer,Brian Champaigne,90100,3.4,3,14,0,3253,0.1620530993448092
 "True, Brannon",IT/IS,BI Developer,Brian Champaigne,95147,4.4,5,10,1,3417,0.15877014235814746
-"Foss, Richard",IT/IS,BI Developer,Brian Champaigne,96122,2.73,5,14,0,3222,0.15809666333662695
-"Miller, Mathew",IT/IS,BI Developer,Brian Champaigne,97319,2.67,5,14,0,3299,0.15794383581809845
+"Foss, Richard",IT/IS,BI Developer,Brian Champaigne,96122,2.73,5,14,0,3222,0.15809666333662692
+"Miller, Mathew",IT/IS,BI Developer,Brian Champaigne,97319,2.67,5,14,0,3299,0.15794383581809843
 "DeVito, Tommy",IT/IS,BI Developer,Brian Champaigne,96820,3.01,5,15,0,3317,0.1578174878173993
 "Cierpiszewski, Andrew",IT/IS,BI Developer,Brian Champaigne,92490,3.95,5,13,0,3497,0.1558516446619311
