@@ -1,0 +1,6 @@
+Group,N,Actual attrition rate,Predicted positive rate,AUC,Disparate Impact Ratio,Flag (<0.8),group_col
+F,32,0.312,0.156,0.786,1.0,False,Sex
+M ,27,0.296,0.148,0.842,0.949,False,Sex
+Asian,5,0.2,0.2,1.0,1.0,False,RaceDesc
+Black or African American,18,0.222,0.167,0.964,0.835,False,RaceDesc
+White,32,0.375,0.156,0.735,0.78,True,RaceDesc

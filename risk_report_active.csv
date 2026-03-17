@@ -1,0 +1,208 @@
+anonymized_id,Department,Position,risk_score,risk_level,top_reason_1,top_reason_2,top_reason_3,recommended_action
+EMP_0006,Production       ,Production Technician I,0.5852,Medium,feedback_has_growth,tenure_years,feedback_sentiment,Development plan / promotion track | Career development milestone review | Monitor and follow-up
+EMP_0049,Software Engineering,Software Engineer,0.442,Medium,feedback_has_growth,Position_enc,RecruitmentSource_enc,Development plan / promotion track | Monitor and follow-up | Monitor and follow-up
+EMP_0079,IT/IS,IT Support,0.3515,Medium,feedback_has_growth,Absences,feedback_sentiment,Development plan / promotion track | Wellbeing or flexibility discussion | Monitor and follow-up
+EMP_0084,Production       ,Production Technician I,0.3016,Medium,feedback_has_growth,feedback_sentiment,has_transfer_request,Development plan / promotion track | Monitor and follow-up | Internal mobility conversation
+EMP_0111,Sales,Area Sales Manager,0.2954,Low,feedback_has_growth,tenure_years,Absences,Development plan / promotion track | Career development milestone review | Wellbeing or flexibility discussion
+EMP_0031,Production       ,Production Technician I,0.2194,Low,feedback_has_growth,feedback_sentiment,has_transfer_request,Development plan / promotion track | Monitor and follow-up | Internal mobility conversation
+EMP_0160,Production       ,Production Technician I,0.1611,Low,feedback_has_growth,feedback_sentiment,has_transfer_request,Development plan / promotion track | Monitor and follow-up | Internal mobility conversation
+EMP_0125,Production       ,Production Technician II,0.144,Low,feedback_has_growth,feedback_sentiment,has_transfer_request,Development plan / promotion track | Monitor and follow-up | Internal mobility conversation
+EMP_0067,Production       ,Production Technician I,0.1389,Low,feedback_has_growth,PerformanceScore_enc,feedback_sentiment,Development plan / promotion track | Monitor and follow-up | Monitor and follow-up
+EMP_0011,Production       ,Production Technician I,0.138,Low,CitizenDesc_enc,tenure_years,engagement_x_satisfaction,Monitor and follow-up | Career development milestone review | HR check-in / engagement improvement plan
+EMP_0107,Sales,Area Sales Manager,0.1146,Low,feedback_has_growth,feedback_sentiment,has_transfer_request,Development plan / promotion track | Monitor and follow-up | Internal mobility conversation
+EMP_0177,IT/IS,IT Support,0.1071,Low,tenure_years,Absences,feedback_sentiment,Career development milestone review | Wellbeing or flexibility discussion | Monitor and follow-up
+EMP_0186,Production       ,Production Manager,0.1064,Low,tenure_years,feedback_sentiment,has_transfer_request,Career development milestone review | Monitor and follow-up | Internal mobility conversation
+EMP_0154,Production       ,Production Technician I,0.0998,Low,tenure_years,has_transfer_request,Absences,Career development milestone review | Internal mobility conversation | Wellbeing or flexibility discussion
+EMP_0127,Software Engineering,Software Engineer,0.0997,Low,feedback_has_compensation,Position_enc,feedback_sentiment,Compensation and benefits review | Monitor and follow-up | Monitor and follow-up
+EMP_0045,IT/IS,Sr. Network Engineer,0.0963,Low,Position_enc,Absences,age,Monitor and follow-up | Wellbeing or flexibility discussion | Monitor and follow-up
+EMP_0052,IT/IS,BI Developer,0.0952,Low,feedback_has_growth,feedback_sentiment,Department_enc,Development plan / promotion track | Monitor and follow-up | Monitor and follow-up
+EMP_0135,IT/IS,IT Manager - Infra,0.089,Low,CitizenDesc_enc,PerformanceScore_enc,Salary,Monitor and follow-up | Monitor and follow-up | Monitor and follow-up
+EMP_0141,Production       ,Production Technician I,0.0873,Low,feedback_has_compensation,feedback_sentiment,has_transfer_request,Compensation and benefits review | Monitor and follow-up | Internal mobility conversation
+EMP_0017,Admin Offices,Sr. Accountant,0.0841,Low,Department_enc,Position_enc,feedback_sentiment,Monitor and follow-up | Monitor and follow-up | Monitor and follow-up
+EMP_0112,IT/IS,Sr. Network Engineer,0.0822,Low,Position_enc,Department_enc,has_transfer_request,Monitor and follow-up | Monitor and follow-up | Internal mobility conversation
+EMP_0022,Production       ,Production Technician II,0.0761,Low,tenure_years,feedback_sentiment,has_transfer_request,Career development milestone review | Monitor and follow-up | Internal mobility conversation
+EMP_0133,Production       ,Production Manager,0.0688,Low,feedback_has_compensation,feedback_sentiment,has_transfer_request,Compensation and benefits review | Monitor and follow-up | Internal mobility conversation
+EMP_0013,Production       ,Production Technician I,0.0687,Low,has_transfer_request,tenure_years,transfer_request_sentiment,Internal mobility conversation | Career development milestone review | Monitor and follow-up
+EMP_0137,Production       ,Production Technician II,0.0648,Low,RecruitmentSource_enc,tenure_years,has_transfer_request,Monitor and follow-up | Career development milestone review | Internal mobility conversation
+EMP_0047,Production       ,Production Technician II,0.064,Low,CitizenDesc_enc,tenure_years,has_transfer_request,Monitor and follow-up | Career development milestone review | Internal mobility conversation
+EMP_0043,IT/IS,Sr. Network Engineer,0.0627,Low,Position_enc,Department_enc,has_transfer_request,Monitor and follow-up | Monitor and follow-up | Internal mobility conversation
+EMP_0069,Production       ,Production Technician I,0.0607,Low,Absences,engagement_x_satisfaction,tenure_years,Wellbeing or flexibility discussion | HR check-in / engagement improvement plan | Career development milestone review
+EMP_0161,IT/IS,Data Analyst,0.0602,Low,feedback_has_compensation,feedback_sentiment,Department_enc,Compensation and benefits review | Monitor and follow-up | Monitor and follow-up
+EMP_0070,IT/IS,IT Director,0.0594,Low,Salary,tenure_years,feedback_sentiment,Monitor and follow-up | Career development milestone review | Monitor and follow-up
+EMP_0156,Production       ,Production Technician I,0.0593,Low,feedback_sentiment,has_transfer_request,age,Monitor and follow-up | Internal mobility conversation | Monitor and follow-up
+EMP_0153,IT/IS,Data Analyst,0.0568,Low,feedback_has_compensation,feedback_sentiment,Department_enc,Compensation and benefits review | Monitor and follow-up | Monitor and follow-up
+EMP_0116,Admin Offices,Shared Services Manager,0.0566,Low,Department_enc,Absences,Position_enc,Monitor and follow-up | Wellbeing or flexibility discussion | Monitor and follow-up
+EMP_0073,IT/IS,IT Support,0.0556,Low,tenure_years,Department_enc,has_transfer_request,Career development milestone review | Monitor and follow-up | Internal mobility conversation
+EMP_0121,IT/IS,IT Support,0.0551,Low,tenure_years,salary_vs_dept_mean,RecruitmentSource_enc,Career development milestone review | Compensation review | Monitor and follow-up
+EMP_0159,Production       ,Production Technician I,0.0535,Low,feedback_sentiment,tenure_years,Absences,Monitor and follow-up | Career development milestone review | Wellbeing or flexibility discussion
+EMP_0113,Production       ,Production Technician I,0.0499,Low,engagement_x_satisfaction,has_transfer_request,transfer_request_sentiment,HR check-in / engagement improvement plan | Internal mobility conversation | Monitor and follow-up
+EMP_0110,Production       ,Production Technician I,0.0494,Low,tenure_years,Absences,has_transfer_request,Career development milestone review | Wellbeing or flexibility discussion | Internal mobility conversation
+EMP_0038,Production       ,Production Manager,0.0478,Low,tenure_years,PerformanceScore_enc,RecruitmentSource_enc,Career development milestone review | Monitor and follow-up | Monitor and follow-up
+EMP_0003,Production       ,Production Technician I,0.0475,Low,feedback_sentiment,engagement_x_satisfaction,tenure_years,Monitor and follow-up | HR check-in / engagement improvement plan | Career development milestone review
+EMP_0128,Production       ,Production Technician I,0.0473,Low,tenure_years,has_transfer_request,transfer_request_sentiment,Career development milestone review | Internal mobility conversation | Monitor and follow-up
+EMP_0202,IT/IS,Sr. Network Engineer,0.0463,Low,Position_enc,Department_enc,has_transfer_request,Monitor and follow-up | Monitor and follow-up | Internal mobility conversation
+EMP_0178,IT/IS,Sr. Network Engineer,0.0463,Low,Position_enc,feedback_sentiment,Department_enc,Monitor and follow-up | Monitor and follow-up | Monitor and follow-up
+EMP_0181,Production       ,Production Technician I,0.0459,Low,tenure_years,has_transfer_request,transfer_request_sentiment,Career development milestone review | Internal mobility conversation | Monitor and follow-up
+EMP_0082,IT/IS,IT Support,0.0459,Low,feedback_sentiment,Department_enc,salary_vs_dept_mean,Monitor and follow-up | Monitor and follow-up | Compensation review
+EMP_0034,Production       ,Production Technician I,0.0457,Low,CitizenDesc_enc,tenure_years,has_transfer_request,Monitor and follow-up | Career development milestone review | Internal mobility conversation
+EMP_0061,Production       ,Production Technician I,0.0445,Low,tenure_years,has_transfer_request,transfer_request_sentiment,Career development milestone review | Internal mobility conversation | Monitor and follow-up
+EMP_0033,Sales,Area Sales Manager,0.0445,Low,CitizenDesc_enc,feedback_sentiment,Absences,Monitor and follow-up | Monitor and follow-up | Wellbeing or flexibility discussion
+EMP_0101,Production       ,Production Technician I,0.0408,Low,has_transfer_request,transfer_request_sentiment,engagement_x_satisfaction,Internal mobility conversation | Monitor and follow-up | HR check-in / engagement improvement plan
+EMP_0201,IT/IS,Senior BI Developer,0.0401,Low,Position_enc,feedback_sentiment,Absences,Monitor and follow-up | Monitor and follow-up | Wellbeing or flexibility discussion
+EMP_0081,Production       ,Production Technician I,0.0389,Low,tenure_years,feedback_sentiment,RecruitmentSource_enc,Career development milestone review | Monitor and follow-up | Monitor and follow-up
+EMP_0055,Production       ,Production Technician I,0.0375,Low,PerformanceScore_enc,has_transfer_request,transfer_request_sentiment,Monitor and follow-up | Internal mobility conversation | Monitor and follow-up
+EMP_0020,Production       ,Production Technician I,0.0367,Low,Absences,RecruitmentSource_enc,has_transfer_request,Wellbeing or flexibility discussion | Monitor and follow-up | Internal mobility conversation
+EMP_0132,Production       ,Production Technician I,0.0354,Low,RecruitmentSource_enc,feedback_sentiment,has_transfer_request,Monitor and follow-up | Monitor and follow-up | Internal mobility conversation
+EMP_0014,Production       ,Production Technician I,0.0351,Low,feedback_sentiment,age,has_transfer_request,Monitor and follow-up | Monitor and follow-up | Internal mobility conversation
+EMP_0134,Production       ,Production Technician II,0.0345,Low,tenure_years,has_transfer_request,Position_enc,Career development milestone review | Internal mobility conversation | Monitor and follow-up
+EMP_0102,Production       ,Production Technician II,0.034,Low,tenure_years,feedback_sentiment,has_transfer_request,Career development milestone review | Monitor and follow-up | Internal mobility conversation
+EMP_0005,Production       ,Production Technician I,0.034,Low,Absences,has_transfer_request,transfer_request_sentiment,Wellbeing or flexibility discussion | Internal mobility conversation | Monitor and follow-up
+EMP_0126,Production       ,Production Technician I,0.0339,Low,feedback_sentiment,has_transfer_request,transfer_request_sentiment,Monitor and follow-up | Internal mobility conversation | Monitor and follow-up
+EMP_0176,Production       ,Production Technician I,0.0339,Low,Absences,has_transfer_request,transfer_request_sentiment,Wellbeing or flexibility discussion | Internal mobility conversation | Monitor and follow-up
+EMP_0046,Production       ,Production Technician I,0.0336,Low,feedback_sentiment,has_transfer_request,transfer_request_sentiment,Monitor and follow-up | Internal mobility conversation | Monitor and follow-up
+EMP_0035,IT/IS,IT Support,0.0315,Low,Department_enc,has_transfer_request,feedback_sentiment,Monitor and follow-up | Internal mobility conversation | Monitor and follow-up
+EMP_0179,Production       ,Production Technician I,0.0314,Low,PerformanceScore_enc,Absences,tenure_years,Monitor and follow-up | Wellbeing or flexibility discussion | Career development milestone review
+EMP_0139,Production       ,Production Technician I,0.0313,Low,Absences,has_transfer_request,transfer_request_sentiment,Wellbeing or flexibility discussion | Internal mobility conversation | Monitor and follow-up
+EMP_0129,Production       ,Production Technician II,0.0304,Low,feedback_sentiment,engagement_x_satisfaction,Absences,Monitor and follow-up | HR check-in / engagement improvement plan | Wellbeing or flexibility discussion
+EMP_0016,Production       ,Production Technician II,0.0296,Low,PerformanceScore_enc,tenure_years,RecruitmentSource_enc,Monitor and follow-up | Career development milestone review | Monitor and follow-up
+EMP_0090,Production       ,Production Technician II,0.0295,Low,Absences,has_transfer_request,Position_enc,Wellbeing or flexibility discussion | Internal mobility conversation | Monitor and follow-up
+EMP_0175,Sales,Sales Manager,0.0287,Low,PerformanceScore_enc,RecruitmentSource_enc,Position_enc,Monitor and follow-up | Monitor and follow-up | Monitor and follow-up
+EMP_0071,Admin Offices,Sr. Accountant,0.0278,Low,tenure_years,Department_enc,Position_enc,Career development milestone review | Monitor and follow-up | Monitor and follow-up
+EMP_0103,Production       ,Production Technician I,0.026,Low,engagement_x_satisfaction,has_transfer_request,transfer_request_sentiment,HR check-in / engagement improvement plan | Internal mobility conversation | Monitor and follow-up
+EMP_0080,Production       ,Production Technician I,0.0259,Low,feedback_sentiment,has_transfer_request,transfer_request_sentiment,Monitor and follow-up | Internal mobility conversation | Monitor and follow-up
+EMP_0002,Production       ,Production Technician I,0.0255,Low,tenure_years,engagement_x_satisfaction,Absences,Career development milestone review | HR check-in / engagement improvement plan | Wellbeing or flexibility discussion
+EMP_0106,Production       ,Production Technician I,0.0249,Low,has_transfer_request,feedback_sentiment,transfer_request_sentiment,Internal mobility conversation | Monitor and follow-up | Monitor and follow-up
+EMP_0108,Executive Office,President & CEO,0.0249,Low,Salary,Department_enc,age,Monitor and follow-up | Monitor and follow-up | Monitor and follow-up
+EMP_0171,Production       ,Production Technician I,0.0247,Low,has_transfer_request,Absences,transfer_request_sentiment,Internal mobility conversation | Wellbeing or flexibility discussion | Monitor and follow-up
+EMP_0037,Production       ,Production Technician I,0.0244,Low,has_transfer_request,engagement_x_satisfaction,transfer_request_sentiment,Internal mobility conversation | HR check-in / engagement improvement plan | Monitor and follow-up
+EMP_0099,Production       ,Production Technician I,0.0235,Low,has_transfer_request,transfer_request_sentiment,Absences,Internal mobility conversation | Monitor and follow-up | Wellbeing or flexibility discussion
+EMP_0100,Production       ,Production Technician I,0.0235,Low,has_transfer_request,transfer_request_sentiment,Position_enc,Internal mobility conversation | Monitor and follow-up | Monitor and follow-up
+EMP_0085,Production       ,Production Technician II,0.0233,Low,has_transfer_request,Position_enc,engagement_x_satisfaction,Internal mobility conversation | Monitor and follow-up | HR check-in / engagement improvement plan
+EMP_0146,Production       ,Production Technician I,0.0231,Low,has_transfer_request,transfer_request_sentiment,feedback_sentiment,Internal mobility conversation | Monitor and follow-up | Monitor and follow-up
+EMP_0083,Production       ,Production Technician II,0.0228,Low,Absences,has_transfer_request,Position_enc,Wellbeing or flexibility discussion | Internal mobility conversation | Monitor and follow-up
+EMP_0096,Production       ,Production Technician I,0.0216,Low,tenure_years,has_transfer_request,transfer_request_sentiment,Career development milestone review | Internal mobility conversation | Monitor and follow-up
+EMP_0195,IT/IS,Network Engineer,0.0215,Low,CitizenDesc_enc,Department_enc,RecruitmentSource_enc,Monitor and follow-up | Monitor and follow-up | Monitor and follow-up
+EMP_0066,Production       ,Production Technician II,0.0214,Low,feedback_sentiment,has_transfer_request,Position_enc,Monitor and follow-up | Internal mobility conversation | Monitor and follow-up
+EMP_0143,Production       ,Production Technician I,0.0214,Low,engagement_x_satisfaction,has_transfer_request,transfer_request_sentiment,HR check-in / engagement improvement plan | Internal mobility conversation | Monitor and follow-up
+EMP_0065,Production       ,Production Technician II,0.0207,Low,Absences,has_transfer_request,Position_enc,Wellbeing or flexibility discussion | Internal mobility conversation | Monitor and follow-up
+EMP_0149,Production       ,Production Technician I,0.0207,Low,feedback_sentiment,has_transfer_request,transfer_request_sentiment,Monitor and follow-up | Internal mobility conversation | Monitor and follow-up
+EMP_0172,IT/IS,Data Analyst,0.0207,Low,Department_enc,Absences,has_transfer_request,Monitor and follow-up | Wellbeing or flexibility discussion | Internal mobility conversation
+EMP_0170,IT/IS,Network Engineer,0.0205,Low,salary_vs_dept_mean,Department_enc,has_transfer_request,Compensation review | Monitor and follow-up | Internal mobility conversation
+EMP_0183,Admin Offices,Accountant I,0.0202,Low,Department_enc,has_transfer_request,transfer_request_sentiment,Monitor and follow-up | Internal mobility conversation | Monitor and follow-up
+EMP_0147,Production       ,Production Technician II,0.0201,Low,feedback_sentiment,has_transfer_request,engagement_x_satisfaction,Monitor and follow-up | Internal mobility conversation | HR check-in / engagement improvement plan
+EMP_0053,Production       ,Production Technician I,0.0198,Low,feedback_sentiment,has_transfer_request,transfer_request_sentiment,Monitor and follow-up | Internal mobility conversation | Monitor and follow-up
+EMP_0124,Production       ,Production Technician I,0.0198,Low,has_transfer_request,transfer_request_sentiment,Absences,Internal mobility conversation | Monitor and follow-up | Wellbeing or flexibility discussion
+EMP_0064,Production       ,Production Technician II,0.0196,Low,PerformanceScore_enc,EmpSatisfaction,has_transfer_request,Monitor and follow-up | HR check-in / satisfaction interview | Internal mobility conversation
+EMP_0004,Software Engineering,Software Engineer,0.0188,Low,Position_enc,Absences,has_transfer_request,Monitor and follow-up | Wellbeing or flexibility discussion | Internal mobility conversation
+EMP_0165,Software Engineering,Software Engineer,0.018,Low,Position_enc,has_transfer_request,transfer_request_sentiment,Monitor and follow-up | Internal mobility conversation | Monitor and follow-up
+EMP_0136,Production       ,Production Technician II,0.0174,Low,has_transfer_request,Position_enc,transfer_request_sentiment,Internal mobility conversation | Monitor and follow-up | Monitor and follow-up
+EMP_0200,Production       ,Production Technician II,0.0173,Low,has_transfer_request,feedback_sentiment,Position_enc,Internal mobility conversation | Monitor and follow-up | Monitor and follow-up
+EMP_0120,Production       ,Production Technician II,0.0172,Low,has_transfer_request,Position_enc,transfer_request_sentiment,Internal mobility conversation | Monitor and follow-up | Monitor and follow-up
+EMP_0086,Production       ,Production Technician I,0.0169,Low,has_transfer_request,transfer_request_sentiment,Position_enc,Internal mobility conversation | Monitor and follow-up | Monitor and follow-up
+EMP_0001,Production       ,Production Technician I,0.0167,Low,tenure_years,engagement_x_satisfaction,has_transfer_request,Career development milestone review | HR check-in / engagement improvement plan | Internal mobility conversation
+EMP_0122,Production       ,Production Technician II,0.0166,Low,Absences,has_transfer_request,Position_enc,Wellbeing or flexibility discussion | Internal mobility conversation | Monitor and follow-up
+EMP_0062,Production       ,Production Technician I,0.0163,Low,engagement_x_satisfaction,has_transfer_request,transfer_request_sentiment,HR check-in / engagement improvement plan | Internal mobility conversation | Monitor and follow-up
+EMP_0184,Production       ,Production Technician I,0.016,Low,feedback_sentiment,has_transfer_request,transfer_request_sentiment,Monitor and follow-up | Internal mobility conversation | Monitor and follow-up
+EMP_0018,Admin Offices,Accountant I,0.0157,Low,tenure_years,Department_enc,RecruitmentSource_enc,Career development milestone review | Monitor and follow-up | Monitor and follow-up
+EMP_0206,IT/IS,Data Analyst,0.0154,Low,Department_enc,has_transfer_request,transfer_request_sentiment,Monitor and follow-up | Internal mobility conversation | Monitor and follow-up
+EMP_0044,Sales,Sales Manager,0.0149,Low,Position_enc,has_transfer_request,transfer_request_sentiment,Monitor and follow-up | Internal mobility conversation | Monitor and follow-up
+EMP_0091,Production       ,Production Technician I,0.0148,Low,RecruitmentSource_enc,has_transfer_request,transfer_request_sentiment,Monitor and follow-up | Internal mobility conversation | Monitor and follow-up
+EMP_0019,Production       ,Production Technician II,0.0146,Low,has_transfer_request,Position_enc,transfer_request_sentiment,Internal mobility conversation | Monitor and follow-up | Monitor and follow-up
+EMP_0054,Sales,Area Sales Manager,0.0141,Low,PerformanceScore_enc,EmpSatisfaction,Absences,Monitor and follow-up | HR check-in / satisfaction interview | Wellbeing or flexibility discussion
+EMP_0039,Production       ,Director of Operations,0.0139,Low,tenure_years,Salary,has_transfer_request,Career development milestone review | Monitor and follow-up | Internal mobility conversation
+EMP_0203,Production       ,Production Technician II,0.0138,Low,has_transfer_request,Position_enc,transfer_request_sentiment,Internal mobility conversation | Monitor and follow-up | Monitor and follow-up
+EMP_0074,Production       ,Production Technician I,0.0132,Low,has_transfer_request,transfer_request_sentiment,RecruitmentSource_enc,Internal mobility conversation | Monitor and follow-up | Monitor and follow-up
+EMP_0015,Production       ,Production Technician I,0.0127,Low,Absences,has_transfer_request,transfer_request_sentiment,Wellbeing or flexibility discussion | Internal mobility conversation | Monitor and follow-up
+EMP_0104,IT/IS,Database Administrator,0.0126,Low,Department_enc,has_transfer_request,Salary,Monitor and follow-up | Internal mobility conversation | Monitor and follow-up
+EMP_0010,Production       ,Production Technician II,0.012,Low,Absences,has_transfer_request,Position_enc,Wellbeing or flexibility discussion | Internal mobility conversation | Monitor and follow-up
+EMP_0194,Production       ,Production Technician I,0.0117,Low,PerformanceScore_enc,Absences,has_transfer_request,Monitor and follow-up | Wellbeing or flexibility discussion | Internal mobility conversation
+EMP_0167,Production       ,Production Technician II,0.0116,Low,tenure_years,RecruitmentSource_enc,Position_enc,Career development milestone review | Monitor and follow-up | Monitor and follow-up
+EMP_0114,Admin Offices,Accountant I,0.0114,Low,Department_enc,has_transfer_request,transfer_request_sentiment,Monitor and follow-up | Internal mobility conversation | Monitor and follow-up
+EMP_0152,Production       ,Production Technician II,0.0113,Low,CitizenDesc_enc,Position_enc,tenure_years,Monitor and follow-up | Monitor and follow-up | Career development milestone review
+EMP_0191,Sales,Area Sales Manager,0.0111,Low,Absences,feedback_sentiment,has_transfer_request,Wellbeing or flexibility discussion | Monitor and follow-up | Internal mobility conversation
+EMP_0042,Production       ,Production Technician I,0.0111,Low,has_transfer_request,Absences,transfer_request_sentiment,Internal mobility conversation | Wellbeing or flexibility discussion | Monitor and follow-up
+EMP_0150,Production       ,Production Technician I,0.0111,Low,PerformanceScore_enc,has_transfer_request,transfer_request_sentiment,Monitor and follow-up | Internal mobility conversation | Monitor and follow-up
+EMP_0123,Production       ,Production Technician I,0.0109,Low,has_transfer_request,transfer_request_sentiment,Position_enc,Internal mobility conversation | Monitor and follow-up | Monitor and follow-up
+EMP_0196,Sales,Area Sales Manager,0.0109,Low,tenure_years,Absences,has_transfer_request,Career development milestone review | Wellbeing or flexibility discussion | Internal mobility conversation
+EMP_0207,Production       ,Production Technician I,0.0106,Low,has_transfer_request,engagement_x_satisfaction,transfer_request_sentiment,Internal mobility conversation | HR check-in / engagement improvement plan | Monitor and follow-up
+EMP_0188,Production       ,Production Technician I,0.0104,Low,CitizenDesc_enc,tenure_years,Position_enc,Monitor and follow-up | Career development milestone review | Monitor and follow-up
+EMP_0197,Production       ,Production Manager,0.0096,Low,tenure_years,Absences,RecruitmentSource_enc,Career development milestone review | Wellbeing or flexibility discussion | Monitor and follow-up
+EMP_0077,Production       ,Production Technician I,0.0089,Low,has_transfer_request,feedback_sentiment,transfer_request_sentiment,Internal mobility conversation | Monitor and follow-up | Monitor and follow-up
+EMP_0030,IT/IS,BI Director,0.0089,Low,Department_enc,Salary,has_transfer_request,Monitor and follow-up | Monitor and follow-up | Internal mobility conversation
+EMP_0168,Production       ,Production Technician I,0.0088,Low,has_transfer_request,transfer_request_sentiment,Position_enc,Internal mobility conversation | Monitor and follow-up | Monitor and follow-up
+EMP_0205,IT/IS,CIO,0.0086,Low,Salary,tenure_years,Department_enc,Monitor and follow-up | Career development milestone review | Monitor and follow-up
+EMP_0162,IT/IS,Data Architect,0.0086,Low,Salary,Absences,Department_enc,Monitor and follow-up | Wellbeing or flexibility discussion | Monitor and follow-up
+EMP_0105,Production       ,Production Technician II,0.0085,Low,has_transfer_request,Position_enc,transfer_request_sentiment,Internal mobility conversation | Monitor and follow-up | Monitor and follow-up
+EMP_0166,Production       ,Production Technician I,0.0081,Low,PerformanceScore_enc,feedback_sentiment,RecruitmentSource_enc,Monitor and follow-up | Monitor and follow-up | Monitor and follow-up
+EMP_0095,Sales,Director of Sales,0.0072,Low,Salary,Absences,has_transfer_request,Monitor and follow-up | Wellbeing or flexibility discussion | Internal mobility conversation
+EMP_0023,Software Engineering,Software Engineering Manager,0.007,Low,Position_enc,tenure_years,age,Monitor and follow-up | Career development milestone review | Monitor and follow-up
+EMP_0056,Production       ,Production Technician I,0.0069,Low,RecruitmentSource_enc,Absences,tenure_years,Monitor and follow-up | Wellbeing or flexibility discussion | Career development milestone review
+EMP_0130,Production       ,Production Technician I,0.0066,Low,Absences,RecruitmentSource_enc,Position_enc,Wellbeing or flexibility discussion | Monitor and follow-up | Monitor and follow-up
+EMP_0182,Sales,Area Sales Manager,0.0064,Low,PerformanceScore_enc,feedback_sentiment,has_transfer_request,Monitor and follow-up | Monitor and follow-up | Internal mobility conversation
+EMP_0158,Sales,Area Sales Manager,0.0064,Low,RecruitmentSource_enc,age,has_transfer_request,Monitor and follow-up | Monitor and follow-up | Internal mobility conversation
+EMP_0180,Production       ,Production Manager,0.0063,Low,engagement_x_satisfaction,Absences,Position_enc,HR check-in / engagement improvement plan | Wellbeing or flexibility discussion | Monitor and follow-up
+EMP_0078,Sales,Area Sales Manager,0.0063,Low,Absences,has_transfer_request,engagement_x_satisfaction,Wellbeing or flexibility discussion | Internal mobility conversation | HR check-in / engagement improvement plan
+EMP_0028,Sales,Area Sales Manager,0.0063,Low,engagement_x_satisfaction,has_transfer_request,transfer_request_sentiment,HR check-in / engagement improvement plan | Internal mobility conversation | Monitor and follow-up
+EMP_0009,Production       ,Production Technician I,0.0059,Low,tenure_years,Position_enc,engagement_x_satisfaction,Career development milestone review | Monitor and follow-up | HR check-in / engagement improvement plan
+EMP_0089,Production       ,Production Technician I,0.0057,Low,tenure_years,Position_enc,Absences,Career development milestone review | Monitor and follow-up | Wellbeing or flexibility discussion
+EMP_0119,Production       ,Production Manager,0.0057,Low,has_transfer_request,transfer_request_sentiment,Position_enc,Internal mobility conversation | Monitor and follow-up | Monitor and follow-up
+EMP_0021,Production       ,Production Technician II,0.0056,Low,tenure_years,Position_enc,RecruitmentSource_enc,Career development milestone review | Monitor and follow-up | Monitor and follow-up
+EMP_0173,Admin Offices,Administrative Assistant,0.0055,Low,Department_enc,has_transfer_request,salary_vs_dept_mean,Monitor and follow-up | Internal mobility conversation | Compensation review
+EMP_0145,Sales,Area Sales Manager,0.0053,Low,engagement_x_satisfaction,has_transfer_request,transfer_request_sentiment,HR check-in / engagement improvement plan | Internal mobility conversation | Monitor and follow-up
+EMP_0169,Production       ,Production Technician I,0.0048,Low,engagement_x_satisfaction,Absences,Position_enc,HR check-in / engagement improvement plan | Wellbeing or flexibility discussion | Monitor and follow-up
+EMP_0075,Production       ,Production Technician I,0.0048,Low,tenure_years,Position_enc,Absences,Career development milestone review | Monitor and follow-up | Wellbeing or flexibility discussion
+EMP_0140,Production       ,Production Technician II,0.0047,Low,Position_enc,engagement_x_satisfaction,age,Monitor and follow-up | HR check-in / engagement improvement plan | Monitor and follow-up
+EMP_0007,IT/IS,IT Support,0.0045,Low,salary_vs_dept_mean,engagement_x_satisfaction,Department_enc,Compensation review | HR check-in / engagement improvement plan | Monitor and follow-up
+EMP_0193,Sales,Area Sales Manager,0.0045,Low,tenure_years,age,EmpSatisfaction,Career development milestone review | Monitor and follow-up | HR check-in / satisfaction interview
+EMP_0164,IT/IS,IT Manager - DB,0.0044,Low,Salary,Department_enc,SpecialProjectsCount,Monitor and follow-up | Monitor and follow-up | Assign meaningful stretch projects
+EMP_0144,Production       ,Production Technician I,0.0043,Low,RecruitmentSource_enc,Position_enc,age,Monitor and follow-up | Monitor and follow-up | Monitor and follow-up
+EMP_0058,IT/IS,IT Manager - Support,0.0043,Low,Salary,Department_enc,engagement_x_satisfaction,Monitor and follow-up | Monitor and follow-up | HR check-in / engagement improvement plan
+EMP_0092,Production       ,Production Technician I,0.0042,Low,Position_enc,salary_vs_dept_mean,tenure_years,Monitor and follow-up | Compensation review | Career development milestone review
+EMP_0057,IT/IS,IT Support,0.0041,Low,Department_enc,Absences,salary_vs_dept_mean,Monitor and follow-up | Wellbeing or flexibility discussion | Compensation review
+EMP_0117,Production       ,Production Technician I,0.004,Low,tenure_years,Position_enc,EmpSatisfaction,Career development milestone review | Monitor and follow-up | HR check-in / satisfaction interview
+EMP_0192,Production       ,Production Technician I,0.0038,Low,engagement_x_satisfaction,Position_enc,age,HR check-in / engagement improvement plan | Monitor and follow-up | Monitor and follow-up
+EMP_0138,IT/IS,Network Engineer,0.0038,Low,RecruitmentSource_enc,salary_vs_dept_mean,Department_enc,Monitor and follow-up | Compensation review | Monitor and follow-up
+EMP_0029,Production       ,Production Technician I,0.0037,Low,age,Position_enc,engagement_x_satisfaction,Monitor and follow-up | Monitor and follow-up | HR check-in / engagement improvement plan
+EMP_0142,IT/IS,Senior BI Developer,0.0037,Low,Position_enc,Absences,Department_enc,Monitor and follow-up | Wellbeing or flexibility discussion | Monitor and follow-up
+EMP_0027,IT/IS,Sr. DBA,0.0037,Low,Position_enc,engagement_x_satisfaction,Department_enc,Monitor and follow-up | HR check-in / engagement improvement plan | Monitor and follow-up
+EMP_0012,Production       ,Production Technician I,0.0037,Low,Position_enc,Absences,salary_vs_dept_mean,Monitor and follow-up | Wellbeing or flexibility discussion | Compensation review
+EMP_0051,Production       ,Production Technician I,0.0035,Low,PerformanceScore_enc,EmpSatisfaction,Position_enc,Monitor and follow-up | HR check-in / satisfaction interview | Monitor and follow-up
+EMP_0025,Software Engineering,Software Engineer,0.0034,Low,Position_enc,Salary,engagement_x_satisfaction,Monitor and follow-up | Monitor and follow-up | HR check-in / engagement improvement plan
+EMP_0048,Production       ,Production Technician I,0.0033,Low,has_transfer_request,transfer_request_sentiment,Position_enc,Internal mobility conversation | Monitor and follow-up | Monitor and follow-up
+EMP_0185,Sales,Area Sales Manager,0.003,Low,tenure_years,Absences,salary_vs_dept_mean,Career development milestone review | Wellbeing or flexibility discussion | Compensation review
+EMP_0026,Production       ,Production Technician I,0.0029,Low,Absences,Position_enc,EmpSatisfaction,Wellbeing or flexibility discussion | Monitor and follow-up | HR check-in / satisfaction interview
+EMP_0040,Production       ,Production Technician I,0.0029,Low,engagement_x_satisfaction,Position_enc,PerformanceScore_enc,HR check-in / engagement improvement plan | Monitor and follow-up | Monitor and follow-up
+EMP_0163,Production       ,Production Technician I,0.0029,Low,Position_enc,engagement_x_satisfaction,age,Monitor and follow-up | HR check-in / engagement improvement plan | Monitor and follow-up
+EMP_0187,Production       ,Production Technician I,0.0028,Low,engagement_x_satisfaction,Position_enc,RecruitmentSource_enc,HR check-in / engagement improvement plan | Monitor and follow-up | Monitor and follow-up
+EMP_0063,Production       ,Production Technician I,0.0027,Low,RecruitmentSource_enc,Position_enc,EmpSatisfaction,Monitor and follow-up | Monitor and follow-up | HR check-in / satisfaction interview
+EMP_0076,Production       ,Production Technician I,0.0026,Low,Absences,Position_enc,salary_vs_dept_mean,Wellbeing or flexibility discussion | Monitor and follow-up | Compensation review
+EMP_0131,Sales,Area Sales Manager,0.0026,Low,feedback_sentiment,has_transfer_request,transfer_request_sentiment,Monitor and follow-up | Internal mobility conversation | Monitor and follow-up
+EMP_0115,IT/IS,Senior BI Developer,0.0025,Low,Position_enc,Department_enc,engagement_x_satisfaction,Monitor and follow-up | Monitor and follow-up | HR check-in / engagement improvement plan
+EMP_0032,Production       ,Production Technician I,0.0025,Low,Position_enc,engagement_x_satisfaction,PerformanceScore_enc,Monitor and follow-up | HR check-in / engagement improvement plan | Monitor and follow-up
+EMP_0109,Production       ,Production Technician I,0.0023,Low,Position_enc,salary_vs_dept_mean,EmpSatisfaction,Monitor and follow-up | Compensation review | HR check-in / satisfaction interview
+EMP_0087,Production       ,Production Manager,0.0021,Low,RecruitmentSource_enc,Position_enc,EmpSatisfaction,Monitor and follow-up | Monitor and follow-up | HR check-in / satisfaction interview
+EMP_0060,Production       ,Production Manager,0.0021,Low,Position_enc,age,RecruitmentSource_enc,Monitor and follow-up | Monitor and follow-up | Monitor and follow-up
+EMP_0204,Production       ,Production Technician II,0.002,Low,Position_enc,Absences,PerformanceScore_enc,Monitor and follow-up | Wellbeing or flexibility discussion | Monitor and follow-up
+EMP_0068,IT/IS,Network Engineer,0.002,Low,PerformanceScore_enc,salary_vs_dept_mean,Department_enc,Monitor and follow-up | Compensation review | Monitor and follow-up
+EMP_0094,IT/IS,Database Administrator,0.0019,Low,Department_enc,engagement_x_satisfaction,Salary,Monitor and follow-up | HR check-in / engagement improvement plan | Monitor and follow-up
+EMP_0199,Production       ,Production Technician I,0.0017,Low,Position_enc,EmpSatisfaction,PerformanceScore_enc,Monitor and follow-up | HR check-in / satisfaction interview | Monitor and follow-up
+EMP_0072,Sales,Area Sales Manager,0.0017,Low,RecruitmentSource_enc,tenure_years,age,Monitor and follow-up | Career development milestone review | Monitor and follow-up
+EMP_0088,IT/IS,BI Developer,0.0015,Low,Department_enc,engagement_x_satisfaction,Salary,Monitor and follow-up | HR check-in / engagement improvement plan | Monitor and follow-up
+EMP_0174,Production       ,Production Technician II,0.0015,Low,Position_enc,age,EmpSatisfaction,Monitor and follow-up | Monitor and follow-up | HR check-in / satisfaction interview
+EMP_0098,Production       ,Production Technician II,0.0014,Low,Position_enc,EmpSatisfaction,PerformanceScore_enc,Monitor and follow-up | HR check-in / satisfaction interview | Monitor and follow-up
+EMP_0059,Sales,Area Sales Manager,0.0014,Low,tenure_years,engagement_x_satisfaction,Absences,Career development milestone review | HR check-in / engagement improvement plan | Wellbeing or flexibility discussion
+EMP_0189,Software Engineering,Software Engineer,0.0012,Low,Position_enc,engagement_x_satisfaction,Salary,Monitor and follow-up | HR check-in / engagement improvement plan | Monitor and follow-up
+EMP_0008,IT/IS,Data Analyst,0.0012,Low,RecruitmentSource_enc,Department_enc,Salary,Monitor and follow-up | Monitor and follow-up | Monitor and follow-up
+EMP_0118,Sales,Area Sales Manager,0.0011,Low,Absences,tenure_years,EmpSatisfaction,Wellbeing or flexibility discussion | Career development milestone review | HR check-in / satisfaction interview
+EMP_0155,Sales,Area Sales Manager,0.0011,Low,tenure_years,engagement_x_satisfaction,salary_vs_dept_mean,Career development milestone review | HR check-in / engagement improvement plan | Compensation review
+EMP_0024,Production       ,Production Manager,0.001,Low,Absences,Position_enc,EmpSatisfaction,Wellbeing or flexibility discussion | Monitor and follow-up | HR check-in / satisfaction interview
+EMP_0041,IT/IS,Data Analyst,0.001,Low,Department_enc,SpecialProjectsCount,salary_vs_dept_mean,Monitor and follow-up | Assign meaningful stretch projects | Compensation review
+EMP_0198,Sales,Area Sales Manager,0.001,Low,tenure_years,salary_vs_dept_mean,engagement_x_satisfaction,Career development milestone review | Compensation review | HR check-in / engagement improvement plan
+EMP_0157,IT/IS,BI Developer,0.001,Low,Department_enc,Salary,SpecialProjectsCount,Monitor and follow-up | Monitor and follow-up | Assign meaningful stretch projects
+EMP_0036,Production       ,Production Technician I,0.0009,Low,RecruitmentSource_enc,Position_enc,salary_vs_dept_mean,Monitor and follow-up | Monitor and follow-up | Compensation review
+EMP_0151,Sales,Area Sales Manager,0.0009,Low,Absences,engagement_x_satisfaction,PerformanceScore_enc,Wellbeing or flexibility discussion | HR check-in / engagement improvement plan | Monitor and follow-up
+EMP_0097,Production       ,Production Technician II,0.0009,Low,Position_enc,PerformanceScore_enc,DaysLateLast30,Monitor and follow-up | Monitor and follow-up | Wellbeing or flexibility discussion
+EMP_0190,IT/IS,BI Developer,0.0009,Low,Department_enc,Absences,Salary,Monitor and follow-up | Wellbeing or flexibility discussion | Monitor and follow-up
+EMP_0093,Sales,Area Sales Manager,0.0007,Low,engagement_x_satisfaction,PerformanceScore_enc,DaysLateLast30,HR check-in / engagement improvement plan | Monitor and follow-up | Wellbeing or flexibility discussion
+EMP_0148,Sales,Area Sales Manager,0.0006,Low,EmpSatisfaction,salary_vs_dept_mean,PerformanceScore_enc,HR check-in / satisfaction interview | Compensation review | Monitor and follow-up
+EMP_0050,Sales,Area Sales Manager,0.0004,Low,PerformanceScore_enc,EmpSatisfaction,salary_vs_dept_mean,Monitor and follow-up | HR check-in / satisfaction interview | Compensation review
