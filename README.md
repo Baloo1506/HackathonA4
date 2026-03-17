@@ -1,4 +1,4 @@
-# Trusted HR-AI: Employee Retention Decision-Support System# HackathonA4
+# Trusted HR-AI: Employee Retention Decision-Support System # HackathonA4
 
 
 
@@ -7,10 +7,6 @@
 
 
 ---
-
-# Trusted HR-AI: Employee Retention Dashboard
-
-## 📋 Executive Summary
 
 ## Project Overview
 
