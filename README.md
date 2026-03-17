@@ -2,7 +2,7 @@
 
 
 
-**Team**: GROUP N°17 — GOETGHEBEUR Alexandre, ALI Muhammad, LEBRETON Gaspard, POINTEAU Adrien, TEPLOV MichaelGROUP N°17 : GOETGHEBEUR Alexandre, ALI Muhammad, LEBRETON Gaspard, POINTEAU Adrien, TEPLOV Michael  
+**Team**: GROUP N°17 — GOETGHEBEUR Alexandre, ALI Muhammad, LEBRETON Gaspard, POINTEAU Adrien, TEPLOV Michael
 
 
 
