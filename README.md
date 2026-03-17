@@ -216,7 +216,7 @@ This repository contains the complete analytics pipeline: from raw HR data throu
 
 7. RISK REPORT GENERATION
    └─ Active employees only
-      ├─ Filter: prediction probability > threshold (e.g., 60%)
+      ├─ Filter: prediction probability > threshold (e.g., 15%)
       ├─ Sort: descending risk score
       ├─ Annotate: top 3 SHAP drivers for each employee
       └─ Export: CSV for dashboard ingestion
@@ -233,7 +233,7 @@ This repository contains the complete analytics pipeline: from raw HR data throu
 > **So that** I can proactively intervene with targeted retention strategies before they leave.
 
 #### **Acceptance Criteria**
-1. ✅ **Dashboard displays all active employees with attrition risk > 60%** (clear visual priority)
+1. ✅ **Dashboard displays all active employees with attrition risk > 15%** (clear visual priority)
 2. ✅ **Clicking on an employee shows their top 3 risk factors** (e.g., "Low salary relative to department", "Recent negative feedback trend", "High absence rate")
 3. ✅ **Model explains its reasoning transparently** (SHAP values show exact contribution of each factor)
 4. ✅ **System is fair across demographics** (equal false positive rates for men/women, all ethnicities)
@@ -380,7 +380,7 @@ jupyter notebook hr_attribution_7.ipynb
 - **Risk Report**: Section 9 (exported CSV for dashboard)
 
 ### 4. Interpret Results
-- **High-Risk Employees**: Probability > 60% (top 20% flagged)
+- **High-Risk Employees**: Probability > 15% (top 20% flagged)
 - **Intervention Targets**: Prioritize by prediction confidence
 - **Risk Drivers**: Check top 3 SHAP values for each employee
 
