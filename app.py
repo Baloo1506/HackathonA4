@@ -63,7 +63,7 @@ def get_employee_details(emp_id):
     for var in available_vars:
         emp_val = employee[var]
         mean_val = active_reference[var].mean()
-        ecart_pct = ((emp_val - mean_val) / mean_val.replace(0, np.nan)) * 100 if mean_val != 0 else 0
+        ecart_pct = ((emp_val - mean_val) / mean_val) * 100 if mean_val != 0 else 0
         
         if var in risk_if_higher:
             color = "crimson" if ecart_pct > 0 else "seagreen"
